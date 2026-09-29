@@ -184,7 +184,10 @@ struct SettingsView: View {
                             .accessibilityHidden(true)
                     }
                     .padding(.vertical, 4)
+                    .contentShape(.rect)
                 }
+                // Keep the title/subtitle colors instead of the Form's button tint.
+                .buttonStyle(.plain)
                 Button("Restore Purchases") {
                     Task { try? await store.restore() }
                 }
