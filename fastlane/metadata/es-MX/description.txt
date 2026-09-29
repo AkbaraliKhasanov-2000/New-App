@@ -1,0 +1,26 @@
+Scanlet convierte tu iPhone en un escáner de PDF rápido y privado. Escanea documentos, recibos, identificaciones, contratos y notas, reconoce texto con OCR en el dispositivo y comparte PDF con búsqueda en segundos.
+
+• Detección automática de bordes, corrección de perspectiva y escaneo de varias páginas
+• Filtros inteligentes que eliminan sombras y hacen el texto más nítido
+• Importa fotos y PDF desde Fotos y Archivos
+• Recorta, gira, reordena y elimina páginas
+
+IMAGEN A TEXTO (OCR)
+• Reconoce texto en decenas de idiomas directamente en tu iPhone
+• Copia, comparte o traduce el texto
+• Busca dentro de todos tus escaneos
+• Crea PDF con búsqueda
+
+FIRMA Y PROTECCIÓN
+• Dibuja tu firma una vez y colócala en cualquier página
+• Protege PDF con contraseña
+• Bloquea la app con Face ID
+
+PRIVACIDAD
+Sin cuenta y sin nube. Tus documentos se quedan en tu dispositivo.
+
+SCANLET PRO
+Plan semanal con 3 días de prueba gratis o plan mensual. El pago se carga a tu Apple Account al confirmar la compra. La suscripción se renueva automáticamente salvo que la canceles al menos 24 horas antes del final del periodo. Adminístrala en los ajustes de tu Apple Account.
+
+Términos de uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Política de privacidad: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

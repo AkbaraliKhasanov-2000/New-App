@@ -1,0 +1,1 @@
+Nuevo: firma documentos y protege PDF con contraseña. Escanea, reconoce texto y comparte PDF con búsqueda, todo en tu iPhone.
