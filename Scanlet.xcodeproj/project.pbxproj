@@ -12,6 +12,7 @@
 		1829A400615011FBA18DD087 /* PageEditorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 672451224AD97487301332C8 /* PageEditorView.swift */; };
 		247CE27B97B354341F637D10 /* RecognizedTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FBA4A8B6358F245AD8B8B58 /* RecognizedTextView.swift */; };
 		256086A86D6013E84E1A1C2A /* PaywallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1CFD3695161DA4DB0AF648 /* PaywallView.swift */; };
+		2B00686027D1AFF98B748605 /* DemoContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BEEF00AC3975F4809FC659C /* DemoContent.swift */; };
 		2D8BED7EB08981EA1E7F5805 /* ShareSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEF7A3475CB04AC0DCDCC21A /* ShareSheet.swift */; };
 		39BC28D2E3EA53A443F60273 /* TextRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E36CDC3D38244BC8F9AED63 /* TextRecognizer.swift */; };
 		3E61CBA560E0F9A337762E2C /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955914EB4BB1E8659B15D268 /* OnboardingView.swift */; };
@@ -75,6 +76,7 @@
 		672451224AD97487301332C8 /* PageEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageEditorView.swift; sourceTree = "<group>"; };
 		6E36CDC3D38244BC8F9AED63 /* TextRecognizer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextRecognizer.swift; sourceTree = "<group>"; };
 		79797A37E87BD3B560D3B84D /* ExportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExportView.swift; sourceTree = "<group>"; };
+		7BEEF00AC3975F4809FC659C /* DemoContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoContent.swift; sourceTree = "<group>"; };
 		7FBA4A8B6358F245AD8B8B58 /* RecognizedTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecognizedTextView.swift; sourceTree = "<group>"; };
 		856B9DAF8183468AC4A08015 /* PageFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageFilter.swift; sourceTree = "<group>"; };
 		8636B59C184259CFA2474EB9 /* ScanletTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanletTests.swift; sourceTree = "<group>"; };
@@ -189,6 +191,7 @@
 			isa = PBXGroup;
 			children = (
 				D305A655051ECE14AC218008 /* AppConfig.swift */,
+				7BEEF00AC3975F4809FC659C /* DemoContent.swift */,
 				F93B649DA0D0E7F63618B9C5 /* RootView.swift */,
 				B49A5A10E8C8B8ACE0108C92 /* ScanletApp.swift */,
 			);
@@ -391,6 +394,7 @@
 				B3B2D475A88444A245B86017 /* AppLock.swift in Sources */,
 				5619814A35CBECA6154E7FD2 /* AppRouter.swift in Sources */,
 				90FAF48587A4D3E3736562F5 /* CropEditorView.swift in Sources */,
+				2B00686027D1AFF98B748605 /* DemoContent.swift in Sources */,
 				4AA96DAC2D999FF63A3654ED /* DocumentCamera.swift in Sources */,
 				006423C33759E54E9DCD544E /* DocumentCells.swift in Sources */,
 				A64646291C4AD179DAFB54C4 /* DocumentDetailView.swift in Sources */,

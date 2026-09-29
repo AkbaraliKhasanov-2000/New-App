@@ -140,6 +140,9 @@ struct LibraryView: View {
             handle(action)
         }
         .onAppear { handle(router.pendingAction) }
+        #if DEBUG
+        .task { await openDemoScreen() }
+        #endif
     }
 
     // MARK: - Content
@@ -578,6 +581,25 @@ struct LibraryView: View {
     private var errorBinding: Binding<Bool> {
         Binding(get: { errorMessage != nil }, set: { if !$0 { errorMessage = nil } })
     }
+
+    #if DEBUG
+    /// Seeds sample scans and opens a screen for simulator runs (see `DemoContent`).
+    private func openDemoScreen() async {
+        await DemoContent.seedIfNeeded(context: modelContext)
+        let descriptor = FetchDescriptor<ScanDocument>(sortBy: [SortDescriptor(\.createdAt)])
+        let all = (try? modelContext.fetch(descriptor)) ?? []
+        switch DemoContent.screen {
+        case "detail":
+            if let document = all.first { path.append(document) }
+        case "settings":
+            isShowingSettings = true
+        case "paywall":
+            router.showPaywall(.settings)
+        default:
+            break
+        }
+    }
+    #endif
 
     // MARK: - Actions
 

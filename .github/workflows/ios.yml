@@ -1,0 +1,98 @@
+name: iOS Build, Test & Run
+
+on:
+  push:
+    branches: [main, "claude/**"]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build-test-run:
+    runs-on: macos-26
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Select Xcode
+        run: |
+          ls -d /Applications/Xcode*.app
+          XCODE=$(ls -d /Applications/Xcode_26*.app | sort -V | tail -1)
+          sudo xcode-select -s "$XCODE"
+          xcodebuild -version
+
+      - name: Pick iPhone simulator
+        id: sim
+        run: |
+          UDID=$(xcrun simctl list devices available -j | python3 -c '
+          import json, sys
+          devices = json.load(sys.stdin)["devices"]
+          runtimes = sorted((k for k in devices if "iOS" in k), key=lambda k: [int(p) for p in k.split("iOS-")[1].split("-")])
+          phones = [d for d in devices[runtimes[-1]] if d["name"].startswith("iPhone")]
+          preferred = [d for d in phones if "Pro" in d["name"] and "Max" not in d["name"]] or phones
+          print(preferred[-1]["udid"])
+          print(runtimes[-1], preferred[-1]["name"], file=sys.stderr)
+          ')
+          echo "udid=$UDID" >> "$GITHUB_OUTPUT"
+
+      - name: Build
+        run: |
+          set -o pipefail
+          xcodebuild -project Scanlet.xcodeproj -scheme Scanlet \
+            -destination "id=${{ steps.sim.outputs.udid }}" \
+            -derivedDataPath build CODE_SIGNING_ALLOWED=NO \
+            build-for-testing | tee build.log | grep -E "error:|warning:|BUILD|\*\*" || true
+          grep -q "TEST BUILD SUCCEEDED\|BUILD SUCCEEDED" build.log
+
+      - name: Unit tests
+        run: |
+          set -o pipefail
+          xcodebuild -project Scanlet.xcodeproj -scheme Scanlet \
+            -destination "id=${{ steps.sim.outputs.udid }}" \
+            -derivedDataPath build CODE_SIGNING_ALLOWED=NO \
+            test-without-building 2>&1 | tee test.log | grep -E "✔|✘|Test |passed|failed|error:|\*\*" || true
+          grep -q "TEST EXECUTE SUCCEEDED\|TEST SUCCEEDED" test.log
+
+      - name: Run app and capture screenshots
+        if: always()
+        run: |
+          UDID=${{ steps.sim.outputs.udid }}
+          APP=build/Build/Products/Debug-iphonesimulator/Scanlet.app
+          mkdir -p screenshots
+          xcrun simctl boot "$UDID" || true
+          xcrun simctl bootstatus "$UDID" -b
+          xcrun simctl status_bar "$UDID" override --time 9:41 --batteryState charged --batteryLevel 100 --wifiBars 3 --cellularBars 4 || true
+          xcrun simctl install "$UDID" "$APP"
+
+          shot() { sleep "$2"; xcrun simctl io "$UDID" screenshot "screenshots/$1.png"; xcrun simctl terminate "$UDID" com.scanlet.app || true; }
+
+          xcrun simctl launch "$UDID" com.scanlet.app
+          shot 01-onboarding 8
+
+          COMMON="-hasCompletedOnboarding YES -seedDemoContent YES"
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON
+          shot 02-library 20
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON -demoScreen detail
+          shot 03-document 10
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON -demoScreen paywall
+          shot 04-paywall 10
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON -demoScreen settings
+          shot 05-settings 8
+
+          xcrun simctl ui "$UDID" appearance dark
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON
+          shot 06-library-dark 10
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON -AppleLanguages "(uz)" -AppleLocale uz_UZ
+          shot 07-library-uzbek 10
+
+          # Crash check: fail if the app produced crash reports.
+          ls ~/Library/Logs/DiagnosticReports/ 2>/dev/null | grep -i scanlet && exit 1 || echo "No crashes"
+
+      - name: Upload screenshots and logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scanlet-run
+          path: |
+            screenshots/
+            build.log
+            test.log
