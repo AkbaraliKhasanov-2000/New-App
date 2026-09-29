@@ -39,8 +39,8 @@ enum DocumentService {
         var nextIndex = (target.pages.map(\.index).max() ?? -1) + 1
         for page in processed {
             let scanPage = ScanPage(index: nextIndex, originalImageData: page.original, imageData: page.rendered, filter: filter)
-            scanPage.document = target
             context.insert(scanPage)
+            scanPage.document = target
             nextIndex += 1
         }
         target.touch()
@@ -169,8 +169,8 @@ enum DocumentService {
             )
             pageCopy.recognizedText = page.recognizedText
             pageCopy.recognizedLinesData = page.recognizedLinesData
-            pageCopy.document = copy
             context.insert(pageCopy)
+            pageCopy.document = copy
         }
         try? context.save()
         return copy
@@ -186,7 +186,10 @@ enum DocumentService {
                 page.document = target
                 nextIndex += 1
             }
-            other.pages.removeAll()
+        }
+        // Persist the moved pages before deleting the emptied documents so the cascade can't reach them.
+        try? context.save()
+        for other in documents.dropFirst() where other.pages.isEmpty {
             context.delete(other)
         }
         target.rebuildSearchIndex()

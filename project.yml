@@ -52,6 +52,8 @@ targets:
         SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD: NO
         SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD: NO
         ENABLE_PREVIEWS: YES
+        # Translation.framework exists from iOS 17.4; weak-link it for iOS 17.0–17.3.
+        OTHER_LDFLAGS: ["$(inherited)", "-weak_framework", "Translation"]
 
   ScanletTests:
     type: bundle.unit-test

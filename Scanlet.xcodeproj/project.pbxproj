@@ -483,6 +483,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-weak_framework",
+					Translation,
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.scanlet.app;
 				PRODUCT_NAME = Scanlet;
 				SDKROOT = iphoneos;
@@ -603,6 +608,11 @@
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-weak_framework",
+					Translation,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.scanlet.app;
 				PRODUCT_NAME = Scanlet;

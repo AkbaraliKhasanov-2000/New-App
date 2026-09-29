@@ -684,10 +684,12 @@ struct LibraryView: View {
     }
 
     private func confirmDelete() {
+        // Capture IDs before deleting; deleted models must not be read afterwards.
+        let ids = deleteTargets.map(\.id)
         withAnimation {
             DocumentService.delete(deleteTargets, context: modelContext)
         }
-        selection.subtract(deleteTargets.map(\.id))
+        selection.subtract(ids)
         deleteTargets = []
         if isSelecting && visibleDocuments.isEmpty { isSelecting = false }
     }

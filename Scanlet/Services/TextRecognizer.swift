@@ -7,7 +7,7 @@ import Vision
 ///
 /// `box` is normalized to 0…1 with a **top-left** origin, so it can be mapped
 /// directly onto UIKit and PDF drawing coordinates.
-struct RecognizedLine: Codable, Hashable, Sendable {
+struct RecognizedLine: Codable, Equatable, Sendable {
     var text: String
     var box: CGRect
     var confidence: Float
