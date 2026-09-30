@@ -46,6 +46,7 @@ struct DocumentDetailView: View {
         .navigationBarTitleDisplayMode(.inline)
         .toolbarRole(.editor)
         .toolbar { toolbarContent }
+        .safeAreaInset(edge: .bottom) { actionBar }
         .overlay {
             if isProcessing {
                 ProcessingOverlay(title: "Processing pages…")
@@ -130,14 +131,6 @@ struct DocumentDetailView: View {
     @ToolbarContentBuilder
     private var toolbarContent: some ToolbarContent {
         ToolbarItem(placement: .topBarTrailing) {
-            Button {
-                isShowingExport = true
-            } label: {
-                Label("Share", systemImage: "square.and.arrow.up")
-            }
-            .disabled(document.pages.isEmpty)
-        }
-        ToolbarItem(placement: .topBarTrailing) {
             Menu {
                 Button {
                     document.isFavorite.toggle()
@@ -166,6 +159,12 @@ struct DocumentDetailView: View {
                     Label("Move to Folder", systemImage: "folder")
                 }
                 Button {
+                    isShowingOrganizer = true
+                } label: {
+                    Label("Organize Pages", systemImage: "square.grid.2x2")
+                }
+                .disabled(document.pages.isEmpty)
+                Button {
                     _ = DocumentService.duplicate(document, context: modelContext)
                 } label: {
                     Label("Duplicate", systemImage: "plus.square.on.square")
@@ -180,7 +179,13 @@ struct DocumentDetailView: View {
                 Label("More", systemImage: "ellipsis")
             }
         }
-        ToolbarItemGroup(placement: .bottomBar) {
+    }
+
+    // MARK: - Action bar
+
+    /// Labeled actions: icons alone were ambiguous ("what does this button do?").
+    private var actionBar: some View {
+        HStack(spacing: 0) {
             Menu {
                 Button {
                     if DocumentCamera.isAvailable { isShowingCamera = true } else { isShowingPhotoPicker = true }
@@ -198,40 +203,33 @@ struct DocumentDetailView: View {
                     Label("Import from Files", systemImage: "folder")
                 }
             } label: {
-                Label("Add Pages", systemImage: "plus.rectangle.on.rectangle")
+                ActionBarLabel(title: "Add Page", symbol: "plus.rectangle.on.rectangle")
             }
 
-            Spacer()
-
-            Button {
+            ActionBarButton(title: "Text", symbol: "text.viewfinder") {
                 isShowingText = true
-            } label: {
-                Label("Extract Text", systemImage: "text.viewfinder")
             }
             .disabled(document.pages.isEmpty)
 
-            Spacer()
-
-            Button {
+            ActionBarButton(title: "Sign", symbol: "signature") {
                 if store.isPro {
                     isShowingSign = true
                 } else {
                     router.showPaywall(.signature)
                 }
-            } label: {
-                Label("Sign", systemImage: "signature")
             }
             .disabled(document.pages.isEmpty)
 
-            Spacer()
-
-            Button {
-                isShowingOrganizer = true
-            } label: {
-                Label("Organize Pages", systemImage: "square.grid.2x2")
+            ActionBarButton(title: "Share", symbol: "square.and.arrow.up", isProminent: true) {
+                isShowingExport = true
             }
             .disabled(document.pages.isEmpty)
         }
+        .padding(.horizontal, 6)
+        .padding(.vertical, 2)
+        .glassSurface(cornerRadius: 30, interactive: true)
+        .padding(.horizontal, 16)
+        .padding(.bottom, 6)
     }
 
     @ViewBuilder
@@ -330,5 +328,44 @@ private struct PageCard: View {
         .accessibilityElement(children: .ignore)
         .accessibilityLabel(Text("Page \(number) of \(total)"))
         .accessibilityHint(Text("Double-tap to edit this page."))
+    }
+}
+
+/// Icon above a short caption, used in the document action bar.
+struct ActionBarLabel: View {
+    let title: LocalizedStringKey
+    let symbol: String
+    var isProminent = false
+
+    var body: some View {
+        VStack(spacing: 3) {
+            Image(systemName: symbol)
+                .font(.system(size: 19, weight: .medium))
+                .frame(height: 24)
+            Text(title)
+                .font(.caption2.weight(.semibold))
+                .lineLimit(1)
+                .minimumScaleFactor(0.8)
+        }
+        .foregroundStyle(isProminent ? Color.accentColor : Color.primary)
+        .frame(maxWidth: .infinity, minHeight: 52)
+        .contentShape(.rect)
+    }
+}
+
+struct ActionBarButton: View {
+    let title: LocalizedStringKey
+    let symbol: String
+    var isProminent = false
+    let action: () -> Void
+
+    @Environment(\.isEnabled) private var isEnabled
+
+    var body: some View {
+        Button(action: action) {
+            ActionBarLabel(title: title, symbol: symbol, isProminent: isProminent)
+                .opacity(isEnabled ? 1 : 0.35)
+        }
+        .buttonStyle(.plain)
     }
 }

@@ -54,7 +54,12 @@ struct LibraryView: View {
             content
                 .navigationTitle(scopeTitle)
                 .toolbarTitleMenu { scopeMenu }
-                .searchable(text: $searchText, prompt: Text("Search titles and text"))
+                // Search lives at the top so the bottom edge belongs to the single Scan action.
+                .searchable(
+                    text: $searchText,
+                    placement: .navigationBarDrawer(displayMode: .always),
+                    prompt: Text("Search titles and text")
+                )
                 .toolbar { toolbarContent }
                 .safeAreaInset(edge: .bottom) {
                     if !isSelecting {
@@ -149,7 +154,6 @@ struct LibraryView: View {
 
     @ViewBuilder
     private var content: some View {
-        let items = visibleDocuments
         if documents.isEmpty {
             ContentUnavailableView {
                 Label("No Documents Yet", systemImage: "doc.viewfinder")
@@ -158,49 +162,90 @@ struct LibraryView: View {
             } actions: {
                 Button("Scan Your First Document", action: startScan)
                     .prominentActionStyle()
-            }
-        } else if items.isEmpty {
-            if searchText.isEmpty {
-                ContentUnavailableView {
-                    Label(scope == .favorites ? LocalizedStringKey("No Favorites") : LocalizedStringKey("Empty Folder"),
-                          systemImage: scope == .favorites ? "star" : "folder")
-                } description: {
-                    Text(scope == .favorites
-                         ? LocalizedStringKey("Mark documents as favorites to find them here.")
-                         : LocalizedStringKey("Scan or move documents into this folder."))
-                }
-            } else {
-                ContentUnavailableView.search(text: searchText)
+                    .controlSize(.large)
             }
         } else {
             switch viewMode {
-            case .grid: grid(items)
-            case .list: list(items)
+            case .grid: grid(visibleDocuments)
+            case .list: list(visibleDocuments)
+            }
+        }
+    }
+
+    /// Folder/favorites filter, shown as chips so it is always discoverable.
+    private var showsScopeBar: Bool {
+        searchText.isEmpty && !isSelecting
+    }
+
+    private var scopeBar: some View {
+        ScopeBar(
+            scope: $scope,
+            folders: folders,
+            onNewFolder: {
+                pendingMoveTargets = []
+                newFolderName = ""
+                isShowingNewFolder = true
+            }
+        )
+    }
+
+    @ViewBuilder
+    private var emptyScopeState: some View {
+        if !searchText.isEmpty {
+            ContentUnavailableView.search(text: searchText)
+        } else if scope == .favorites {
+            ContentUnavailableView {
+                Label("No Favorites", systemImage: "star")
+            } description: {
+                Text("Mark documents as favorites to find them here.")
+            }
+        } else {
+            ContentUnavailableView {
+                Label("Empty Folder", systemImage: "folder")
+            } description: {
+                Text("Scan or move documents into this folder.")
             }
         }
     }
 
     private func grid(_ items: [ScanDocument]) -> some View {
         ScrollView {
-            LazyVGrid(columns: [GridItem(.adaptive(minimum: 150, maximum: 220), spacing: 16)], spacing: 22) {
-                ForEach(items) { document in
-                    cell(for: document) {
-                        DocumentGridCell(
-                            document: document,
-                            isSelecting: isSelecting,
-                            isSelected: selection.contains(document.id)
-                        )
+            VStack(alignment: .leading, spacing: 16) {
+                if showsScopeBar { scopeBar }
+                if items.isEmpty {
+                    emptyScopeState
+                        .padding(.top, 40)
+                } else {
+                    LazyVGrid(
+                        columns: Array(repeating: GridItem(.flexible(), spacing: 14, alignment: .top), count: 3),
+                        spacing: 20
+                    ) {
+                        ForEach(items) { document in
+                            cell(for: document) {
+                                DocumentGridCell(
+                                    document: document,
+                                    isSelecting: isSelecting,
+                                    isSelected: selection.contains(document.id)
+                                )
+                            }
+                        }
                     }
+                    .padding(.horizontal, 16)
                 }
             }
-            .padding(.horizontal)
-            .padding(.top, 8)
+            .padding(.top, 4)
             .padding(.bottom, 24)
         }
     }
 
     private func list(_ items: [ScanDocument]) -> some View {
         List {
+            if showsScopeBar {
+                scopeBar
+                    .listRowInsets(EdgeInsets(top: 4, leading: 0, bottom: 8, trailing: 0))
+                    .listRowSeparator(.hidden)
+                    .listRowBackground(Color.clear)
+            }
             ForEach(items) { document in
                 cell(for: document) {
                     DocumentListRow(
@@ -234,6 +279,9 @@ struct LibraryView: View {
             }
         }
         .listStyle(.plain)
+        .overlay {
+            if items.isEmpty { emptyScopeState }
+        }
     }
 
     @ViewBuilder
@@ -324,10 +372,10 @@ struct LibraryView: View {
         GlassGroup(spacing: 10) {
             HStack(spacing: 10) {
                 Button(action: startScan) {
-                    Label("Scan", systemImage: "doc.viewfinder")
+                    Label("Scan Document", systemImage: "doc.viewfinder")
                         .font(.headline)
-                        .frame(minWidth: 150)
-                        .padding(.vertical, 6)
+                        .padding(.horizontal, 12)
+                        .padding(.vertical, 8)
                 }
                 .prominentActionStyle()
                 .controlSize(.large)
@@ -336,10 +384,10 @@ struct LibraryView: View {
                 Menu {
                     importMenuItems
                 } label: {
-                    Image(systemName: "plus")
+                    Image(systemName: "photo.badge.plus")
                         .font(.headline)
-                        .frame(width: 26, height: 26)
-                        .padding(.vertical, 6)
+                        .frame(width: 28, height: 28)
+                        .padding(.vertical, 8)
                 }
                 .secondaryActionStyle()
                 .controlSize(.large)
@@ -417,22 +465,11 @@ struct LibraryView: View {
                 .disabled(selection.isEmpty)
             }
         } else {
-            ToolbarItem(placement: .topBarLeading) {
+            ToolbarItem(placement: .topBarTrailing) {
                 Button {
                     isShowingSettings = true
                 } label: {
                     Label("Settings", systemImage: "gearshape")
-                }
-            }
-            if !store.isPro {
-                ToolbarItem(placement: .topBarTrailing) {
-                    Button {
-                        router.showPaywall(.settings)
-                    } label: {
-                        Label("Go Pro", systemImage: "crown.fill")
-                    }
-                    .tint(.orange)
-                    .accessibilityLabel(Text("Upgrade to Scanlet Pro"))
                 }
             }
             ToolbarItem(placement: .topBarTrailing) {

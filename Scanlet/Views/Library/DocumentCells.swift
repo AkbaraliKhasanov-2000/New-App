@@ -6,43 +6,45 @@ struct DocumentGridCell: View {
     let isSelected: Bool
 
     var body: some View {
-        VStack(alignment: .leading, spacing: 8) {
-            PaperThumbnail(page: document.coverPage, maxPixelSize: 480, cornerRadius: 12)
-                .aspectRatio(0.77, contentMode: .fit)
-                .overlay(alignment: .topTrailing) {
+        VStack(alignment: .leading, spacing: 6) {
+            // Close to A4 proportions so pages are shown whole, not cropped.
+            PaperThumbnail(page: document.coverPage, maxPixelSize: 360, cornerRadius: 8)
+                .aspectRatio(0.72, contentMode: .fit)
+                .overlay {
+                    if isSelecting && isSelected {
+                        RoundedRectangle(cornerRadius: 8)
+                            .strokeBorder(Color.accentColor, lineWidth: 3)
+                    }
+                }
+                .overlay(alignment: .bottomTrailing) {
                     if isSelecting {
                         SelectionIndicator(isSelected: isSelected)
-                            .padding(8)
-                    } else if document.isFavorite {
+                            .padding(6)
+                    }
+                }
+                .overlay(alignment: .topTrailing) {
+                    if document.isFavorite && !isSelecting {
                         Image(systemName: "star.fill")
-                            .font(.caption.weight(.bold))
-                            .foregroundStyle(.yellow)
-                            .padding(6)
-                            .glassCapsule()
-                            .padding(6)
+                            .font(.system(size: 10, weight: .bold))
+                            .foregroundStyle(.white)
+                            .frame(width: 20, height: 20)
+                            .background(Color.yellow.gradient, in: .circle)
+                            .padding(5)
                             .accessibilityHidden(true)
                     }
                 }
-                .overlay(alignment: .bottomLeading) {
-                    Text(document.pageCount, format: .number)
-                        .font(.caption2.weight(.semibold).monospacedDigit())
-                        .padding(.horizontal, 7)
-                        .padding(.vertical, 3)
-                        .glassCapsule()
-                        .padding(6)
-                        .accessibilityHidden(true)
-                }
-                .scaleEffect(isSelecting && isSelected ? 0.96 : 1)
+                .scaleEffect(isSelecting && isSelected ? 0.95 : 1)
                 .animation(.snappy(duration: 0.2), value: isSelected)
 
-            VStack(alignment: .leading, spacing: 2) {
+            VStack(alignment: .leading, spacing: 1) {
                 Text(document.title)
-                    .font(.subheadline.weight(.semibold))
-                    .lineLimit(2)
+                    .font(.footnote.weight(.semibold))
+                    .lineLimit(1)
                     .foregroundStyle(.primary)
-                Text(document.updatedAt, format: .dateTime.day().month(.abbreviated).year())
-                    .font(.caption)
+                Text(DocumentAccessibility.shortSubtitle(for: document))
+                    .font(.caption2)
                     .foregroundStyle(.secondary)
+                    .lineLimit(1)
             }
             .padding(.horizontal, 2)
         }
@@ -111,6 +113,12 @@ enum DocumentAccessibility {
         let pages = String(localized: "\(document.pageCount) pages")
         let date = document.updatedAt.formatted(.dateTime.day().month(.abbreviated).year())
         return "\(date) · \(pages)"
+    }
+
+    /// Compact "Sep 29 · 3 pages" for the grid.
+    static func shortSubtitle(for document: ScanDocument) -> String {
+        let date = document.updatedAt.formatted(.dateTime.day().month(.abbreviated))
+        return "\(date) · \(String(localized: "\(document.pageCount) pages"))"
     }
 
     static func label(for document: ScanDocument) -> Text {

@@ -18,9 +18,11 @@ struct PaywallView: View {
     var body: some View {
         NavigationStack {
             ScrollView {
-                VStack(spacing: 28) {
+                VStack(spacing: 20) {
                     hero
                     features
+                        .padding(16)
+                        .background(Color(.secondarySystemBackground), in: .rect(cornerRadius: 20, style: .continuous))
                     plans
                 }
                 .padding(.horizontal, 20)
@@ -63,7 +65,7 @@ struct PaywallView: View {
     // MARK: - Hero
 
     private var hero: some View {
-        VStack(spacing: 14) {
+        VStack(spacing: 12) {
             ZStack {
                 RoundedRectangle(cornerRadius: 26, style: .continuous)
                     .fill(LinearGradient(
@@ -71,10 +73,10 @@ struct PaywallView: View {
                         startPoint: .topLeading,
                         endPoint: .bottomTrailing
                     ))
-                    .frame(width: 96, height: 96)
-                    .shadow(color: Color.accentColor.opacity(0.35), radius: 18, y: 8)
+                    .frame(width: 68, height: 68)
+                    .shadow(color: Color.accentColor.opacity(0.3), radius: 12, y: 6)
                 Image(systemName: "doc.viewfinder")
-                    .font(.system(size: 48, weight: .semibold))
+                    .font(.system(size: 34, weight: .semibold))
                     .foregroundStyle(.white)
                     .symbolEffect(.bounce, value: animateHero)
             }
@@ -83,22 +85,21 @@ struct PaywallView: View {
 
             VStack(spacing: 6) {
                 Text(trigger.headline)
-                    .font(.largeTitle.bold())
+                    .font(.title.bold())
                     .multilineTextAlignment(.center)
                     .fixedSize(horizontal: false, vertical: true)
                 Text("Everything you need to scan, sign and share documents.")
-                    .font(.body)
+                    .font(.subheadline)
                     .foregroundStyle(.secondary)
                     .multilineTextAlignment(.center)
             }
         }
-        .padding(.top, 8)
     }
 
     // MARK: - Features
 
     private var features: some View {
-        VStack(alignment: .leading, spacing: 16) {
+        VStack(alignment: .leading, spacing: 12) {
             FeatureRow(symbol: "text.viewfinder", color: .blue,
                        title: "Unlimited Text Recognition",
                        subtitle: "Copy, translate and share text from any page.")
@@ -319,26 +320,30 @@ private struct FeatureRow: View {
     let symbol: String
     let color: Color
     let title: LocalizedStringKey
+    /// Kept for VoiceOver; the visual list stays one line per feature so plans fit on the first screen.
     let subtitle: LocalizedStringKey
 
     var body: some View {
-        HStack(alignment: .top, spacing: 14) {
+        HStack(spacing: 12) {
             Image(systemName: symbol)
-                .font(.system(size: 17, weight: .semibold))
+                .font(.system(size: 13, weight: .semibold))
                 .foregroundStyle(.white)
-                .frame(width: 34, height: 34)
-                .background(color.gradient, in: .rect(cornerRadius: 9, style: .continuous))
+                .frame(width: 26, height: 26)
+                .background(color.gradient, in: .rect(cornerRadius: 7, style: .continuous))
                 .accessibilityHidden(true)
-            VStack(alignment: .leading, spacing: 2) {
-                Text(title)
-                    .font(.body.weight(.semibold))
-                Text(subtitle)
-                    .font(.subheadline)
-                    .foregroundStyle(.secondary)
-            }
-            .fixedSize(horizontal: false, vertical: true)
+            Text(title)
+                .font(.subheadline.weight(.semibold))
+                .lineLimit(1)
+                .minimumScaleFactor(0.85)
+            Spacer(minLength: 0)
+            Image(systemName: "checkmark")
+                .font(.caption.weight(.bold))
+                .foregroundStyle(.tint)
+                .accessibilityHidden(true)
         }
-        .accessibilityElement(children: .combine)
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(Text(title))
+        .accessibilityHint(Text(subtitle))
     }
 }
 

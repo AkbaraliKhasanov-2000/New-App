@@ -29,10 +29,10 @@ struct SettingsView: View {
                             Text(filter.title).tag(filter)
                         }
                     } label: {
-                        Label("Default Filter", systemImage: "camera.filters")
+                        SettingsLabel("Default Filter", symbol: "camera.filters", color: .purple)
                     }
                     Toggle(isOn: $autoCropImports) {
-                        Label("Auto-Crop Imported Photos", systemImage: "crop")
+                        SettingsLabel("Auto-Crop Imported Photos", symbol: "crop", color: .teal)
                     }
                 } header: {
                     Text("Scanning")
@@ -40,7 +40,7 @@ struct SettingsView: View {
 
                 Section {
                     Toggle(isOn: $autoRecognizeText) {
-                        Label("Recognize Text Automatically", systemImage: "text.viewfinder")
+                        SettingsLabel("Recognize Text Automatically", symbol: "text.viewfinder", color: .blue)
                     }
                     NavigationLink {
                         LanguageSettingsView()
@@ -48,7 +48,7 @@ struct SettingsView: View {
                         LabeledContent {
                             Text(languageSummary)
                         } label: {
-                            Label("Recognition Languages", systemImage: "globe")
+                            SettingsLabel("Recognition Languages", symbol: "globe", color: .indigo)
                         }
                     }
                 } header: {
@@ -63,21 +63,21 @@ struct SettingsView: View {
                             Text(size.title).tag(size)
                         }
                     } label: {
-                        Label("Page Size", systemImage: "doc")
+                        SettingsLabel("Page Size", symbol: "doc", color: .orange)
                     }
                     Picker(selection: $exportQuality) {
                         ForEach(ExportQuality.allCases) { quality in
                             Text(quality.title).tag(quality)
                         }
                     } label: {
-                        Label("Quality", systemImage: "dial.medium")
+                        SettingsLabel("Quality", symbol: "dial.medium", color: .gray)
                     }
                 }
 
                 Section {
                     Toggle(isOn: appLockBinding) {
                         HStack {
-                            Label("Require \(AppLock.biometryName)", systemImage: AppLock.biometrySymbol)
+                            SettingsLabel("Require \(AppLock.biometryName)", symbol: AppLock.biometrySymbol, color: .green)
                             if !store.isPro {
                                 Spacer()
                                 ProBadge()
@@ -94,15 +94,15 @@ struct SettingsView: View {
                     Button {
                         requestReview()
                     } label: {
-                        Label("Rate Scanlet", systemImage: "star")
+                        SettingsLabel("Rate Scanlet", symbol: "star", color: .yellow)
                     }
                     ShareLink(item: AppConfig.appStoreURL, message: Text("I scan documents with Scanlet.")) {
-                        Label("Share Scanlet", systemImage: "square.and.arrow.up")
+                        SettingsLabel("Share Scanlet", symbol: "square.and.arrow.up", color: .green)
                     }
                     Button {
                         if let url = supportMailURL { openURL(url) }
                     } label: {
-                        Label("Contact Support", systemImage: "envelope")
+                        SettingsLabel("Contact Support", symbol: "envelope", color: .blue)
                     }
                 }
 
@@ -110,12 +110,12 @@ struct SettingsView: View {
                     Button {
                         openURL(AppConfig.privacyPolicyURL)
                     } label: {
-                        Label("Privacy Policy", systemImage: "hand.raised")
+                        SettingsLabel("Privacy Policy", symbol: "hand.raised", color: .gray)
                     }
                     Button {
                         openURL(AppConfig.termsOfUseURL)
                     } label: {
-                        Label("Terms of Use", systemImage: "doc.text")
+                        SettingsLabel("Terms of Use", symbol: "doc.text", color: .gray)
                     }
                     LabeledContent("Version", value: AppConfig.versionString)
                 } header: {
@@ -295,5 +295,31 @@ struct LanguageSettingsView: View {
             current.append(code)
         }
         stored = current.joined(separator: ",")
+    }
+}
+
+/// Settings row label with a colored icon tile, like the iOS Settings app.
+struct SettingsLabel: View {
+    let title: LocalizedStringKey
+    let symbol: String
+    let color: Color
+
+    init(_ title: LocalizedStringKey, symbol: String, color: Color) {
+        self.title = title
+        self.symbol = symbol
+        self.color = color
+    }
+
+    var body: some View {
+        Label {
+            Text(title)
+                .foregroundStyle(.primary)
+        } icon: {
+            Image(systemName: symbol)
+                .font(.system(size: 14, weight: .semibold))
+                .foregroundStyle(.white)
+                .frame(width: 29, height: 29)
+                .background(color.gradient, in: .rect(cornerRadius: 7, style: .continuous))
+        }
     }
 }

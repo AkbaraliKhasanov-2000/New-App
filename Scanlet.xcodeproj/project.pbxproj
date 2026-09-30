@@ -41,6 +41,7 @@
 		CA560CFE960DEA56B165DC2C /* ScanPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7A2069BB9E55A0A5F313CC8 /* ScanPage.swift */; };
 		CAE7BAD7B368405CAAE3C7A7 /* Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0990FA0221756D3405B7D644 /* Preferences.swift */; };
 		CB3693527846F0E7722794AC /* SignaturePadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E596248DE3A304F3A821624D /* SignaturePadView.swift */; };
+		CDD56F08159443A5FDB00598 /* ScopeBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5FFB6D9DB1BCA6313E3FDF4 /* ScopeBar.swift */; };
 		D27A211193A3948CAC4F39CC /* PageFilter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 856B9DAF8183468AC4A08015 /* PageFilter.swift */; };
 		EC111547ED8F004D188983E6 /* ThumbnailCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89942BBF3FDEC9A68693A380 /* ThumbnailCache.swift */; };
 		F125CA219FDBCE05CDA10661 /* ScanIntents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20DFCE60F257AC6C68DDF4A1 /* ScanIntents.swift */; };
@@ -99,6 +100,7 @@
 		D305A655051ECE14AC218008 /* AppConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfig.swift; sourceTree = "<group>"; };
 		D32783358F1E9E08689829C0 /* CropEditorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CropEditorView.swift; sourceTree = "<group>"; };
 		D4C305BA554434AF6485C205 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D5FFB6D9DB1BCA6313E3FDF4 /* ScopeBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScopeBar.swift; sourceTree = "<group>"; };
 		D7A2069BB9E55A0A5F313CC8 /* ScanPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanPage.swift; sourceTree = "<group>"; };
 		DEF4DA5E9DE111040865B15D /* DocumentCells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentCells.swift; sourceTree = "<group>"; };
 		E596248DE3A304F3A821624D /* SignaturePadView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignaturePadView.swift; sourceTree = "<group>"; };
@@ -112,6 +114,7 @@
 			children = (
 				DEF4DA5E9DE111040865B15D /* DocumentCells.swift */,
 				2FFDBF4E92CAC3E114EA42FD /* LibraryView.swift */,
+				D5FFB6D9DB1BCA6313E3FDF4 /* ScopeBar.swift */,
 			);
 			path = Library;
 			sourceTree = "<group>";
@@ -418,6 +421,7 @@
 				F125CA219FDBCE05CDA10661 /* ScanIntents.swift in Sources */,
 				CA560CFE960DEA56B165DC2C /* ScanPage.swift in Sources */,
 				C1307FCB9218973128061725 /* ScanletApp.swift in Sources */,
+				CDD56F08159443A5FDB00598 /* ScopeBar.swift in Sources */,
 				B2D398204309E1B6A1AEAA08 /* SettingsView.swift in Sources */,
 				2D8BED7EB08981EA1E7F5805 /* ShareSheet.swift in Sources */,
 				670882CE02EFCFE1646FB54C /* SignDocumentView.swift in Sources */,

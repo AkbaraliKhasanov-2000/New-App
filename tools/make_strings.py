@@ -89,6 +89,11 @@ STRINGS = {
     "The selected photos couldn’t be loaded.": ("Не удалось загрузить выбранные фото.", "Tanlangan rasmlarni yuklab bo‘lmadi."),
     "The selected files couldn’t be opened.": ("Не удалось открыть выбранные файлы.", "Tanlangan fayllarni ochib bo‘lmadi."),
 
+    # Redesign
+    "All": ("Все", "Barchasi"),
+    "Add Page": ("Добавить", "Qo‘shish"),
+    "Scan Document": ("Сканировать документ", "Hujjatni skanerlash"),
+
     # Document
     "Scan %@": ("Скан %@", "Skan %@"),
     "%@ Copy": ("%@ (копия)", "%@ (nusxa)"),

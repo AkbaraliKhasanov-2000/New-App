@@ -269,6 +269,22 @@
         }
       }
     },
+    "Add Page": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Добавить"
+          }
+        },
+        "uz": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Qo‘shish"
+          }
+        }
+      }
+    },
     "Add Pages": {
       "localizations": {
         "ru": {
@@ -329,6 +345,22 @@
           "stringUnit": {
             "state": "translated",
             "value": "Imzo qo‘ying, PDF’ni parol bilan himoyalang va istalgan joyga ulashing. Hujjatlaringiz qurilmangizdan chiqmaydi."
+          }
+        }
+      }
+    },
+    "All": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Все"
+          }
+        },
+        "uz": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Barchasi"
           }
         }
       }
@@ -2959,6 +2991,22 @@
           "stringUnit": {
             "state": "translated",
             "value": "Istalgan narsani soniyalarda skanerlang"
+          }
+        }
+      }
+    },
+    "Scan Document": {
+      "localizations": {
+        "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Сканировать документ"
+          }
+        },
+        "uz": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hujjatni skanerlash"
           }
         }
       }
