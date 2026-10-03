@@ -31,7 +31,7 @@ import sys
 from pathlib import Path
 
 import appstore
-from markets import MARKETS, relevance
+from markets import MARKETS, is_search_term, relevance
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE / "data"
@@ -55,7 +55,7 @@ def collect(cc: str):
         for prefix in prefixes:
             for rank, term in enumerate(appstore.hints(prefix, cc)):
                 term = term.strip().lower()
-                if not term or term in found:
+                if not term or term in found or not is_search_term(term):
                     continue
                 found[term] = {"term": term, "seed": seed, "relevance": relevance(term)}
         found.setdefault(seed.lower(), {"term": seed.lower(), "seed": seed, "relevance": relevance(seed)})

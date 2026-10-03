@@ -67,12 +67,23 @@ EXCLUDE = [
     r"скандал", r"translate", r"übersetz", r"tradu", r"çevir", r"переводч", r"翻訳", r"번역", r"homework", r"math",
     r"answer", r"gauth", r"photomath", r"fax", r"printer", r"drucker", r"imprim", r"hp\b", r"canon", r"epson",
     r"brother", r"scaniverse", r"polycam", r"magnifier", r"lupe", r"fingerprint", r"thermal", r"wärme",
+    r"\bcar\b", r"obd", r"elm", r"hair", r"allerg", r"antique", r"\bcat\b", r"\bdog\b", r"breed", r"banknote",
+    r"comic", r"\bart\b", r"bluetooth", r"\bble\b", r"device", r"kiosk", r"\bage\b", r"identif", r"value",
+    r"apprais", r"health", r"calculat", r"otc", r"detect", r"verify", r"wine", r"vinyl", r"record", r"stamp",
+    r"rock", r"stone", r"crystal", r"mushroom", r"insect", r"bug", r"bird", r"tree", r"flower", r"pill", r"drug",
+    r"medic", r"blood", r"heart", r"tooth", r"teeth", r"eye", r"ticket", r"event", r"inventory", r"lager", r"warehouse",
+    r"label", r"ingredi", r"makeup", r"cosmetic", r"barcod", r"isbn", r"pantry", r"license", r"driver", r"passport photo",
 ]
+
+
+def is_search_term(term: str) -> bool:
+    """Autocomplete also suggests app titles ("Doc Fuse: PDF Scanner & Maker"); keep real search phrases only."""
+    return not any(ch in term for ch in ":&|()•·–—!?+") and " - " not in term and len(term.split()) <= 4
 
 
 def relevance(term: str) -> int:
     t = term.lower()
-    if any(re.search(p, t) for p in EXCLUDE):
+    if any(re.search(p, t) for p in EXCLUDE) or not all_words_known(t):
         return 0
     core = any(re.search(p, t) for p in CORE)
     feature = any(re.search(p, t) for p in FEATURE)
@@ -85,3 +96,33 @@ def relevance(term: str) -> int:
     if feature or adjacent:
         return 1
     return 0
+
+# Every word of a relevant term must be a scanning/PDF concept or one of these generic words.
+GENERIC_WORDS = set("""
+app apps application free pro best fast easy quick simple smart mobile phone iphone for to into and with my me the a of
+online offline new ai camera cam doc docs document documents file files paper papers page pages image images photo photos
+picture pictures pic jpg jpeg png maker creator converter convert editor edit reader make print scanner scanners scan scans
+scanning scanned text ocr pdf pdfs sign signature receipt receipts id ids card cards recognition extract extractor copy
+kostenlos gratis dokument dokumente dokumenten scannen zu in für mit und bild bilder foto fotos datei dateien
+texterkennung erstellen umwandeln konvertieren handy beste unterschrift unterschreiben kassenbon beleg belege
+gratuit gratuite de en pour et avec fichier fichiers texte convertir numériser numérisation numériseur meilleur signer
+scanneur reçu reçus
+escáner escaner escanear documentos documento a para y con imagen imágenes archivo convertir aplicación mejor firmar
+firma recibo recibos texto
+scansione scansiona scansionare documenti da per e immagine immagini testo convertire applicazione firma ricevuta ricevute
+grátis escanear arquivo arquivos digitalizar digitalizador aplicativo assinar assinatura imagem com
+scannen documenten van naar voor met afbeelding bestand tekst ondertekenen bon bonnen
+aplikacja darmowy darmowa darmowe skaner skanowanie skanuj skanować dokumentów dokumenty dokument do z na i zdjęcie
+zdjęcia zdjęć plik tekst tekstu podpis paragon paragony
+skanner skanna till och bild fil kvitto kvitton
+приложение бесплатно бесплатный сканер сканирование скан документов документы документ в и с для фото текст текста
+файл камера подпись чек чеки распознавание
+uygulama ücretsiz tarayıcı belge belgeler fotoğraf fotoğraftan metin metne dosya tarama tara ve ile için imza fiş
+tanıma
+アプリ 無料 スキャン スキャナー 書類 文書 文字 認識 読み取り 写真 カメラ 変換 署名 レシート
+앱 무료 스캔 스캐너 문서 텍스트 문자 인식 사진 카메라 변환 추출 서명 영수증
+""".split())
+
+
+def all_words_known(term: str) -> bool:
+    return all(word in GENERIC_WORDS for word in term.lower().replace(",", " ").split())
