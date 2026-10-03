@@ -1,0 +1,39 @@
+Scanlet convierte tu iPhone en un escáner de PDF rápido y privado. Escanea documentos, recibos, DNI, contratos y notas a mano, reconoce texto con OCR en el propio dispositivo y comparte PDF limpios y con búsqueda en segundos.
+
+ESCANEA COMO UN PROFESIONAL
+• Detección automática de bordes, corrección de perspectiva y captura de varias páginas
+• Filtros inteligentes: Auto, Intenso, Grises y Blanco y negro eliminan sombras y hacen el texto más nítido
+• Importa fotos y PDF desde Fotos y Archivos: los documentos de las fotos se recortan automáticamente
+• Recorte manual ajustando las cuatro esquinas; gira, reordena y elimina páginas
+
+IMAGEN A TEXTO (OCR)
+• Reconoce texto impreso en decenas de idiomas, directamente en tu iPhone
+• Copia, comparte o traduce el texto reconocido
+• Busca dentro de todos tus escaneos desde la biblioteca
+• Crea PDF con búsqueda en los que puedes seleccionar y buscar texto en cualquier app de PDF
+
+FIRMA Y PROTEGE
+• Dibuja tu firma una vez y colócala en cualquier página
+• Protege tus PDF con contraseña antes de compartirlos
+• Bloquea toda la app con Face ID
+
+ORGANIZA Y COMPARTE
+• Carpetas, favoritos, ordenación y vista de iconos o lista
+• Combina varios escaneos en un solo documento
+• Exporta en PDF, JPG o texto; elige tamaño A4, US Letter o ajustado a la imagen
+• Comparte por Mail, Mensajes o AirDrop, guarda en Archivos o imprime
+
+PRIVACIDAD DESDE EL DISEÑO
+Scanlet no necesita cuenta ni usa la nube. Tus documentos y el texto reconocido se quedan en tu dispositivo.
+
+Funciona con Siri y Atajos: di “Escanea un documento con Scanlet”.
+
+SCANLET PRO
+Desbloquea reconocimiento de texto ilimitado, PDF con búsqueda, firmas, PDF con contraseña, bloqueo con Face ID y exportaciones sin marca de agua.
+• Plan semanal con 3 días de prueba gratis, o plan mensual
+• El pago se cargará en tu Apple Account al confirmar la compra (al terminar la prueba gratuita, si se ofrece)
+• La suscripción se renueva automáticamente salvo que la canceles al menos 24 horas antes del final del periodo actual
+• Gestiónala o cancélala cuando quieras en los ajustes de tu Apple Account
+
+Condiciones de uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Política de privacidad: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

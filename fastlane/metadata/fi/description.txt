@@ -1,0 +1,39 @@
+Scanlet tekee iPhonestasi nopean ja yksityisen PDF-skannerin. Skannaa dokumentteja, kuitteja, henkilökortteja, sopimuksia ja käsin kirjoitettuja muistiinpanoja, tunnista teksti laitteella tehtävällä OCR:llä ja jaa siistejä, haettavia PDF:iä sekunneissa.
+
+SKANNAA KUIN AMMATTILAINEN
+• Automaattinen reunojen tunnistus, perspektiivin korjaus ja monisivuinen skannaus
+• Älykkäät suodattimet: Auto, Eloisa, Harmaasävy ja Mustavalkoinen poistavat varjot ja terävöittävät tekstiä
+• Tuo kuvia ja PDF:iä Kuvista ja Tiedostoista – kuvissa olevat dokumentit rajataan automaattisesti
+• Manuaalinen rajaus neljän kulman säädöllä, sivujen kierto, järjestely ja poisto
+
+KUVA TEKSTIKSI (OCR)
+• Tunnista painettu teksti kymmenillä kielillä suoraan iPhonella
+• Kopioi, jaa tai käännä tunnistettu teksti
+• Hae kaikista skannauksista kirjastossa
+• Luo haettavia PDF:iä, joissa voit valita ja hakea tekstiä millä tahansa PDF-apilla
+
+ALLEKIRJOITA JA SUOJAA
+• Piirrä allekirjoituksesi kerran ja lisää se mille tahansa sivulle
+• Lukitse PDF:t salasanalla ennen jakamista
+• Suojaa koko appi Face ID:llä
+
+JÄRJESTÄ JA JAA
+• Kansiot, suosikit, lajittelu sekä ruudukko- ja luettelonäkymä
+• Yhdistä useita skannauksia yhdeksi dokumentiksi
+• Vie PDF-, JPG- tai tekstimuodossa; valitse A4, US Letter tai kuvaan sovitettu paperikoko
+• Jaa Mailin, Viestien tai AirDropin kautta, tallenna Tiedostoihin tai tulosta
+
+YKSITYISYYS ENSIN
+Scanletissa ei ole tiliä eikä pilveä. Dokumenttisi ja tunnistettu teksti pysyvät laitteellasi.
+
+Toimii Sirin ja Pikakomentojen kanssa: sano ”Skannaa dokumentti Scanletilla”.
+
+SCANLET PRO
+Avaa rajaton tekstintunnistus, haettavat PDF:t, allekirjoitukset, salasanalla suojatut PDF:t, Face ID ‑lukitus ja viennit ilman vesileimaa.
+• Viikkotilaus, jossa 3 päivän ilmainen kokeilu, tai kuukausitilaus
+• Maksu veloitetaan Apple-tililtäsi, kun osto vahvistetaan (ilmaisen kokeilun jälkeen, jos sellainen tarjotaan)
+• Tilaukset uusiutuvat automaattisesti, ellei niitä peruta vähintään 24 tuntia ennen nykyisen jakson päättymistä
+• Hallitse tai peru tilaus milloin tahansa Apple-tilisi asetuksissa
+
+Käyttöehdot: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Tietosuojakäytäntö: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

@@ -10,10 +10,82 @@
             "value": "Scanlet uses the camera to scan your documents."
           }
         },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet používá fotoaparát ke skenování dokumentů."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το Scanlet χρησιμοποιεί την κάμερα για τη σάρωση των εγγράφων σας."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet usa la cámara para escanear tus documentos."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet käyttää kameraa dokumenttien skannaamiseen."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet koristi kameru za skeniranje dokumenata."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Scanlet a kamerát a dokumentumok beolvasására használja."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet bruker kameraet til å skanne dokumentene dine."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet używa aparatu do skanowania dokumentów."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Scanlet usa a câmera para escanear seus documentos."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Scanlet usa a câmara para digitalizar os seus documentos."
+          }
+        },
         "ru": {
           "stringUnit": {
             "state": "translated",
             "value": "Scanlet использует камеру для сканирования документов."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet používa kameru na skenovanie dokumentov."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet використовує камеру для сканування документів."
           }
         },
         "uz": {
@@ -33,10 +105,82 @@
             "value": "Scanlet uses Face ID to keep your documents private."
           }
         },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet používá Face ID k ochraně vašich dokumentů."
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Το Scanlet χρησιμοποιεί το Face ID για να κρατά τα έγγραφά σας ιδιωτικά."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet usa Face ID para mantener tus documentos en privado."
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet käyttää Face ID:tä dokumenttiesi suojaamiseen."
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet koristi Face ID za zaštitu vaših dokumenata."
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A Scanlet a Face ID-t a dokumentumaid védelmére használja."
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet bruker Face ID for å holde dokumentene dine private."
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet używa Face ID, aby chronić Twoje dokumenty."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Scanlet usa o Face ID para manter seus documentos privados."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O Scanlet usa o Face ID para manter os seus documentos privados."
+          }
+        },
         "ru": {
           "stringUnit": {
             "state": "translated",
             "value": "Scanlet использует Face ID для защиты ваших документов."
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet používa Face ID na ochranu vašich dokumentov."
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet використовує Face ID для захисту ваших документів."
           }
         },
         "uz": {
@@ -56,7 +200,79 @@
             "value": "Scanlet"
           }
         },
+        "cs": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "hr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "hu": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
         "ru": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "sk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanlet"
+          }
+        },
+        "uk": {
           "stringUnit": {
             "state": "translated",
             "value": "Scanlet"

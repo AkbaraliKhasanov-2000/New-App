@@ -1,0 +1,39 @@
+Scanlet gjør iPhonen til en rask og privat PDF-skanner. Skann dokumenter, kvitteringer, ID-kort, kontrakter og håndskrevne notater, gjenkjenn tekst med OCR på enheten, og del rene, søkbare PDF-er på sekunder.
+
+SKANN SOM EN PROFF
+• Automatisk kantgjenkjenning, perspektivkorrigering og skanning av flere sider
+• Smarte filtre: Auto, Livlig, Gråtoner og Svart-hvitt fjerner skygger og gjør teksten skarpere
+• Importer bilder og PDF-er fra Bilder og Filer – dokumenter i bilder beskjæres automatisk
+• Manuell beskjæring med justering av alle fire hjørner, roter, endre rekkefølge og slett sider
+
+BILDE TIL TEKST (OCR)
+• Gjenkjenn trykt tekst på dusinvis av språk, rett på iPhonen
+• Kopier, del eller oversett gjenkjent tekst
+• Søk i alle skanninger fra biblioteket
+• Lag søkbare PDF-er som du kan markere og søke i med alle PDF-apper
+
+SIGNER OG BESKYTT
+• Tegn signaturen din én gang og plasser den på hvilken som helst side
+• Lås PDF-er med passord før du deler dem
+• Beskytt hele appen med Face ID
+
+ORGANISER OG DEL
+• Mapper, favoritter, sortering, rutenett- og listevisning
+• Slå sammen flere skanninger til ett dokument
+• Eksporter som PDF, JPG eller tekst; velg A4, US Letter eller papirstørrelse tilpasset bildet
+• Del via Mail, Meldinger og AirDrop, lagre i Filer eller skriv ut
+
+PERSONVERN FRA BUNNEN AV
+Scanlet har ingen konto og ingen sky. Dokumentene og den gjenkjente teksten blir værende på enheten din.
+
+Fungerer med Siri og Snarveier: si «Skann et dokument med Scanlet».
+
+SCANLET PRO
+Lås opp ubegrenset tekstgjenkjenning, søkbare PDF-er, signaturer, passordbeskyttede PDF-er, lås med Face ID og eksport uten vannmerke.
+• Ukeabonnement med 3 dagers gratis prøveperiode, eller månedsabonnement
+• Betalingen belastes Apple-kontoen din når kjøpet bekreftes (etter gratisperioden, hvis en slik tilbys)
+• Abonnementer fornyes automatisk med mindre de sies opp minst 24 timer før gjeldende periode utløper
+• Administrer eller si opp når som helst i innstillingene for Apple-kontoen
+
+Bruksvilkår: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Personvernerklæring: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

@@ -63,17 +63,18 @@ def max_length(english):
     """Longest allowed translation.
 
     Short strings are buttons, chips, tabs and titles that must stay on one line,
-    so they get a tight budget. Long strings are footers and descriptions that
-    already wrap, so they get a little more room.
+    so they get a tight budget — but never so tight that Apple's standard term
+    (e.g. "Compartilhar", "Política de privacidade") fails; such spots are also
+    guarded in code (single line with scaling, or ViewThatFits).
     """
     n = visible_length(english)
     if n <= 6:
-        return max(n + 6, 10)     # "Done", "Share", "Cancel"
+        return max(n + 7, 12)     # "Share" → "Compartilhar", "Done", "Cancel"
     if n <= 14:
-        return n + 6              # "Page Size", "Restore Purchases"
+        return math.ceil(n * 1.6)  # "Privacy Policy" → "Política de privacidade"
     if n <= 40:
-        return math.ceil(n * 1.3)
-    return math.ceil(n * 1.4)
+        return math.ceil(n * 1.35)
+    return math.ceil(n * 1.45)
 
 
 def english_forms(value):

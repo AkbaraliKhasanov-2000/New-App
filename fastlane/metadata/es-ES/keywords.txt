@@ -1,0 +1,1 @@
+texto,imagen,foto,firma,recibo,factura,dni,convertir,jpg,traducir,contraseña,escaneo,cámara,notas

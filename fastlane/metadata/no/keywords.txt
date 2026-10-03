@@ -1,0 +1,1 @@
+scanner,signatur,signer,kvittering,id,kort,bilde,kamera,konverter,jpg,oversett,passord,notat,scan

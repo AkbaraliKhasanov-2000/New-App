@@ -1,0 +1,1 @@
+escanear,documento,texto,imagem,foto,assinatura,recibo,fatura,cartão,converter,jpg,traduzir,câmara

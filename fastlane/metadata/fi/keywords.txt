@@ -1,0 +1,1 @@
+dokumentti,asiakirja,kuva,teksti,allekirjoitus,kuitti,kortti,muunnin,jpg,käännä,salasana,scan

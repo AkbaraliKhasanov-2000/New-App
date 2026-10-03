@@ -220,13 +220,13 @@ struct PaywallView: View {
                     .fixedSize(horizontal: false, vertical: true)
             }
 
-            HStack(spacing: 18) {
-                Button(isRestoring ? LocalizedStringKey("Restoring…") : LocalizedStringKey("Restore Purchases")) {
-                    Task { await restore() }
+            // One row when it fits; long translations fall back to two rows instead of wrapping words.
+            ViewThatFits(in: .horizontal) {
+                HStack(spacing: 18) { footerLinks }
+                VStack(spacing: 6) {
+                    restoreButton
+                    HStack(spacing: 18) { legalLinks }
                 }
-                .disabled(isRestoring || isPurchasing)
-                Button("Terms of Use") { openURL(AppConfig.termsOfUseURL) }
-                Button("Privacy Policy") { openURL(AppConfig.privacyPolicyURL) }
             }
             .font(.caption.weight(.medium))
             .foregroundStyle(.secondary)
@@ -241,6 +241,28 @@ struct PaywallView: View {
                 .ignoresSafeArea()
                 .mask(LinearGradient(colors: [.clear, .black, .black], startPoint: .top, endPoint: .bottom))
         }
+    }
+
+    @ViewBuilder
+    private var footerLinks: some View {
+        restoreButton
+        legalLinks
+    }
+
+    private var restoreButton: some View {
+        Button(isRestoring ? LocalizedStringKey("Restoring…") : LocalizedStringKey("Restore Purchases")) {
+            Task { await restore() }
+        }
+        .lineLimit(1)
+        .disabled(isRestoring || isPurchasing)
+    }
+
+    @ViewBuilder
+    private var legalLinks: some View {
+        Button("Terms of Use") { openURL(AppConfig.termsOfUseURL) }
+            .lineLimit(1)
+        Button("Privacy Policy") { openURL(AppConfig.privacyPolicyURL) }
+            .lineLimit(1)
     }
 
     private var ctaTitle: LocalizedStringKey {
