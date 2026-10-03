@@ -1,0 +1,51 @@
+{
+ "pdf scanner": {
+  "popularity": 59,
+  "popularity_source": "apple",
+  "difficulty": 82,
+  "results_count": 9,
+  "fetched": "2026-10-03"
+ },
+ "document scanner": {
+  "popularity": 55,
+  "popularity_source": "apple",
+  "difficulty": 71,
+  "results_count": 183,
+  "fetched": "2026-10-03"
+ },
+ "scanner app": {
+  "popularity": 49,
+  "popularity_source": "apple",
+  "difficulty": 82,
+  "results_count": 9,
+  "fetched": "2026-10-03"
+ },
+ "scan": {
+  "popularity": 58,
+  "popularity_source": "apple",
+  "difficulty": 85,
+  "results_count": 9,
+  "fetched": "2026-10-03"
+ },
+ "ocr": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 48,
+  "results_count": 46,
+  "fetched": "2026-10-03"
+ },
+ "text scanner": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 61,
+  "results_count": 9,
+  "fetched": "2026-10-03"
+ },
+ "image to text": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 32,
+  "results_count": 9,
+  "fetched": "2026-10-03"
+ }
+}
