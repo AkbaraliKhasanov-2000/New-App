@@ -1,0 +1,39 @@
+Scanlet premení váš iPhone na rýchly a súkromný PDF skener. Skenujte dokumenty, bločky, preukazy, zmluvy aj ručne písané poznámky, rozpoznávajte text pomocou OCR priamo v zariadení a za pár sekúnd zdieľajte čisté, vyhľadávateľné PDF.
+
+SKENUJTE AKO PROFESIONÁL
+• Automatické rozpoznanie okrajov, korekcia perspektívy a skenovanie viacerých strán
+• Inteligentné filtre: Auto, Živé, Odtiene sivej a Čiernobiele odstránia tiene a zaostria text
+• Import fotiek a PDF z Fotiek a Súborov — dokumenty na fotkách sa orežú automaticky
+• Ručné orezanie so štyrmi rohmi, otáčanie, zmena poradia a mazanie strán
+
+TEXT Z OBRÁZKA (OCR)
+• Rozpoznávanie tlačeného textu v desiatkach jazykov priamo v iPhone
+• Kopírujte, zdieľajte alebo prekladajte rozpoznaný text
+• Vyhľadávajte v každom skene z knižnice
+• Vytvárajte vyhľadávateľné PDF, v ktorých môžete text označiť a hľadať v akejkoľvek PDF aplikácii
+
+PODPISUJTE A CHRÁŇTE
+• Nakreslite podpis raz a vložte ho na ľubovoľnú stranu
+• Pred zdieľaním zamknite PDF heslom
+• Chráňte celú aplikáciu pomocou Face ID
+
+TRIEĎTE A ZDIEĽAJTE
+• Priečinky, obľúbené, zoraďovanie, zobrazenie ikon a zoznamu
+• Zlúčte viac skenov do jedného dokumentu
+• Exportujte ako PDF, JPG alebo text; zvoľte formát A4, US Letter alebo podľa obrázka
+• Zdieľajte cez Mail, Správy, AirDrop, ukladajte do Súborov alebo tlačte
+
+SÚKROMIE NA PRVOM MIESTE
+Scanlet nepotrebuje účet ani cloud. Vaše dokumenty a rozpoznaný text zostávajú vo vašom zariadení.
+
+Funguje so Siri a Skratkami: povedzte „Naskenuj dokument v Scanlete“.
+
+SCANLET PRO
+Odomknite neobmedzené rozpoznávanie textu, vyhľadávateľné PDF, podpisy, PDF chránené heslom, zámok Face ID a exporty bez vodoznaku.
+• Týždenné predplatné s 3-dňovou bezplatnou skúšobnou dobou alebo mesačné predplatné
+• Platba bude zúčtovaná z vášho Apple účtu pri potvrdení nákupu (po skončení bezplatnej skúšobnej doby, ak je ponúkaná)
+• Predplatné sa automaticky obnovuje, ak ho nezrušíte najmenej 24 hodín pred koncom aktuálneho obdobia
+• Predplatné môžete kedykoľvek spravovať alebo zrušiť v nastaveniach Apple účtu
+
+Podmienky použitia: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Zásady ochrany súkromia: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

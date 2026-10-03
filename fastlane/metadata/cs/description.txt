@@ -1,0 +1,39 @@
+Scanlet promění váš iPhone v rychlý a soukromý PDF skener. Skenujte dokumenty, účtenky, průkazy, smlouvy i ručně psané poznámky, rozpoznávejte text pomocí OCR přímo v zařízení a během pár vteřin sdílejte čistá, prohledávatelná PDF.
+
+SKENUJTE JAKO PROFÍK
+• Automatické rozpoznání okrajů, korekce perspektivy a skenování více stránek
+• Chytré filtry: Auto, Živé, Odstíny šedi a Černobílé odstraní stíny a zaostří text
+• Import fotek a PDF z Fotek a Souborů — dokumenty na fotkách se oříznou automaticky
+• Ruční ořez se čtyřmi rohy, otáčení, změna pořadí a mazání stránek
+
+TEXT Z OBRÁZKU (OCR)
+• Rozpoznávání tištěného textu v desítkách jazyků přímo v iPhonu
+• Kopírujte, sdílejte nebo překládejte rozpoznaný text
+• Vyhledávejte v každém skenu z knihovny
+• Vytvářejte prohledávatelná PDF, ve kterých lze text označit a hledat v jakékoli PDF aplikaci
+
+PODEPISUJTE A CHRAŇTE
+• Nakreslete podpis jednou a vložte ho na libovolnou stránku
+• Před sdílením zamkněte PDF heslem
+• Chraňte celou aplikaci pomocí Face ID
+
+TŘIĎTE A SDÍLEJTE
+• Složky, oblíbené, řazení, zobrazení ikon a seznamu
+• Slučte více skenů do jednoho dokumentu
+• Exportujte jako PDF, JPG nebo text; zvolte formát A4, US Letter nebo podle obrázku
+• Sdílejte přes Mail, Zprávy, AirDrop, ukládejte do Souborů nebo tiskněte
+
+SOUKROMÍ NA PRVNÍM MÍSTĚ
+Scanlet nepotřebuje účet ani cloud. Vaše dokumenty a rozpoznaný text zůstávají ve vašem zařízení.
+
+Funguje se Siri a Zkratkami: řekněte „Naskenuj dokument ve Scanletu“.
+
+SCANLET PRO
+Odemkněte neomezené rozpoznávání textu, prohledávatelná PDF, podpisy, PDF chráněná heslem, zámek Face ID a exporty bez vodoznaku.
+• Týdenní předplatné se 3denní zkušební dobou zdarma nebo měsíční předplatné
+• Platba bude stržena z vašeho Apple účtu při potvrzení nákupu (po skončení zkušební doby zdarma, pokud je nabízena)
+• Předplatné se automaticky obnovuje, pokud ho nezrušíte nejméně 24 hodin před koncem aktuálního období
+• Předplatné můžete kdykoli spravovat nebo zrušit v nastavení Apple účtu
+
+Podmínky užívání: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Zásady ochrany soukromí: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

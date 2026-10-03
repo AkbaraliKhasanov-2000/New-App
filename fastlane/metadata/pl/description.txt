@@ -1,0 +1,39 @@
+Scanlet zamienia iPhone’a w szybki i prywatny skaner PDF. Skanuj dokumenty, paragony, dowody, umowy i odręczne notatki, rozpoznawaj tekst dzięki OCR na urządzeniu i udostępniaj czyste PDF z wyszukiwaniem w kilka sekund.
+
+SKANUJ JAK PROFESJONALISTA
+• Automatyczne wykrywanie krawędzi, korekcja perspektywy i skanowanie wielu stron
+• Inteligentne filtry: Auto, Żywe, Skala szarości i Czarno-białe usuwają cienie i wyostrzają tekst
+• Importuj zdjęcia i PDF ze Zdjęć i Plików — dokumenty na zdjęciach są kadrowane automatycznie
+• Ręczne kadrowanie z regulacją czterech narożników, obracanie, zmiana kolejności i usuwanie stron
+
+TEKST ZE ZDJĘCIA (OCR)
+• Rozpoznawanie drukowanego tekstu w dziesiątkach języków, bezpośrednio na iPhonie
+• Kopiuj, udostępniaj lub tłumacz rozpoznany tekst
+• Przeszukuj każdy skan z biblioteki
+• Twórz PDF z wyszukiwaniem, w których zaznaczysz i znajdziesz tekst w każdej aplikacji PDF
+
+PODPISUJ I CHROŃ
+• Narysuj podpis raz i wstawiaj go na dowolnej stronie
+• Zabezpieczaj PDF hasłem przed udostępnieniem
+• Chroń całą aplikację za pomocą Face ID
+
+PORZĄDKUJ I UDOSTĘPNIAJ
+• Foldery, ulubione, sortowanie, widok ikon i listy
+• Łącz kilka skanów w jeden dokument
+• Eksportuj jako PDF, JPG lub tekst; wybierz rozmiar A4, US Letter lub dopasowany do obrazu
+• Udostępniaj przez Mail, Wiadomości, AirDrop, zachowuj w Plikach lub drukuj
+
+PRYWATNOŚĆ OD PODSTAW
+Scanlet nie wymaga konta i nie korzysta z chmury. Twoje dokumenty i rozpoznany tekst zostają na urządzeniu.
+
+Działa z Siri i Skrótami: powiedz „Zeskanuj dokument w Scanlet”.
+
+SCANLET PRO
+Odblokuj nielimitowane rozpoznawanie tekstu, PDF z wyszukiwaniem, podpisy, PDF chronione hasłem, blokadę Face ID i eksport bez znaku wodnego.
+• Plan tygodniowy z 3-dniowym bezpłatnym okresem próbnym lub plan miesięczny
+• Płatność zostanie pobrana z Twojego konta Apple po potwierdzeniu zakupu (po zakończeniu bezpłatnego okresu próbnego, jeśli jest oferowany)
+• Subskrypcja odnawia się automatycznie, chyba że zostanie anulowana co najmniej 24 godziny przed końcem bieżącego okresu
+• Zarządzaj subskrypcją lub anuluj ją w dowolnym momencie w ustawieniach konta Apple
+
+Warunki korzystania: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Polityka prywatności: https://akbaralikhasanov-2000.github.io/New-App/privacy.html
