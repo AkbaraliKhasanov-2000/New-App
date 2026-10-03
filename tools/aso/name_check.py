@@ -1,7 +1,8 @@
 """Name uniqueness check across every live App Store storefront + USPTO trademarks.
 
 For each candidate brand and each storefront:
-  • iTunes Search API (term = brand, 50 results) → app titles in that storefront
+  • App Store web search (apps.apple.com/<cc>/iphone/search?term=<brand>) → the real, ordered
+    results a user sees in that storefront when typing the brand
   • the brand part of every title (text before ":" "-" "–" "|") is compared with the candidate:
         exact      → identical brand (case/diacritics-insensitive)
         similar    → difflib ratio ≥ 0.75, or edit distance ≤ 1 (≤ 2 for names > 8 letters),
@@ -112,17 +113,18 @@ def main(storefront_codes: list[str]):
     if out_path.exists():
         results = json.loads(out_path.read_text())
     for name in CANDIDATES:
-        entry = results.get(name) or {"name": name, "titleLength": len(name + TITLE_SUFFIX), "apps": {}, "marks": None}
+        entry = results.get(name) if results.get(name, {}).get("method") == "web-search" else None
+        entry = entry or {"method": "web-search", "name": name, "titleLength": len(name + TITLE_SUFFIX), "apps": {}, "marks": None}
         entry["marks"] = entry["marks"] if entry["marks"] is not None else uspto(name)
         for cc in storefront_codes:
             if cc in entry["apps"]:
                 continue
             hits = []
-            for app in appstore.itunes_search(name, cc.lower(), limit=50):
-                kind = compare(name, app.get("trackName", ""))
+            # Real App Store search results for the brand in this storefront (same order users see).
+            for app in appstore.search_ranking(name, cc):
+                kind = compare(name, app.get("name") or "")
                 if kind:
-                    hits.append({"kind": kind, "id": app["trackId"], "title": app["trackName"],
-                                 "seller": app.get("sellerName"), "ratings": app.get("userRatingCount", 0)})
+                    hits.append({"kind": kind, "id": int(app["id"]), "title": app["name"]})
             entry["apps"][cc] = hits
             results[name] = entry
             out_path.write_text(json.dumps(results, indent=1, ensure_ascii=False))
