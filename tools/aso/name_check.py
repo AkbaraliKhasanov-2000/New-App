@@ -107,29 +107,41 @@ def uspto(candidate: str) -> list[dict]:
     return [m for m in marks if m["match"]]
 
 
-def main(storefront_codes: list[str]):
-    results = {}
-    out_path = HERE / "data/name_check.json"
-    if out_path.exists():
-        results = json.loads(out_path.read_text())
-    for name in CANDIDATES:
-        entry = results.get(name) if results.get(name, {}).get("method") == "web-search" else None
-        entry = entry or {"method": "web-search", "name": name, "titleLength": len(name + TITLE_SUFFIX), "apps": {}, "marks": None}
-        entry["marks"] = entry["marks"] if entry["marks"] is not None else uspto(name)
-        for cc in storefront_codes:
-            if cc in entry["apps"]:
-                continue
-            hits = []
-            # Real App Store search results for the brand in this storefront (same order users see).
-            for app in appstore.search_ranking(name, cc):
-                kind = compare(name, app.get("name") or "")
-                if kind:
-                    hits.append({"kind": kind, "id": int(app["id"]), "title": app["name"]})
-            entry["apps"][cc] = hits
-            results[name] = entry
-            out_path.write_text(json.dumps(results, indent=1, ensure_ascii=False))
-        print(name, "done", flush=True)
-    write_report(results, storefront_codes)
+def name_path(name: str) -> Path:
+    folder = HERE / "data/names"
+    folder.mkdir(exist_ok=True)
+    return folder / f"{name}.json"
+
+
+def load_results() -> dict:
+    return {p.stem: json.loads(p.read_text()) for p in sorted((HERE / "data/names").glob("*.json"))}
+
+
+def check_name(name: str, storefront_codes: list[str]):
+    path = name_path(name)
+    entry = json.loads(path.read_text()) if path.exists() else None
+    if not entry or entry.get("method") != "web-search":
+        entry = {"method": "web-search", "name": name, "titleLength": len(name + TITLE_SUFFIX), "apps": {}, "marks": None}
+    if entry["marks"] is None:
+        entry["marks"] = uspto(name)
+    for cc in storefront_codes:
+        if cc in entry["apps"]:
+            continue
+        hits = []
+        # Real App Store search results for the brand in this storefront (same order users see).
+        for app in appstore.search_ranking(name, cc):
+            kind = compare(name, app.get("name") or "")
+            if kind:
+                hits.append({"kind": kind, "id": int(app["id"]), "title": app["name"]})
+        entry["apps"][cc] = hits
+        path.write_text(json.dumps(entry, indent=1, ensure_ascii=False))
+    print(name, "done", flush=True)
+
+
+def main(storefront_codes: list[str], names: list[str]):
+    for name in names:
+        check_name(name, storefront_codes)
+    write_report(load_results(), storefront_codes)
 
 
 def verdict(entry) -> tuple[str, str]:
@@ -166,6 +178,9 @@ def write_report(results, storefront_codes):
 
 if __name__ == "__main__":
     storefronts = [s["code"] for s in json.loads((HERE / "data/storefronts.json").read_text())]
-    if len(sys.argv) > 1:
-        storefronts = sys.argv[1:]
-    main(storefronts)
+    # usage: name_check.py [worker_index worker_count]
+    names = CANDIDATES
+    if len(sys.argv) == 3:
+        index, count = int(sys.argv[1]), int(sys.argv[2])
+        names = CANDIDATES[index::count]
+    main(storefronts, names)
