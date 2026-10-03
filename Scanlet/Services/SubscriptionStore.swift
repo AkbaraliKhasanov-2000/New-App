@@ -175,16 +175,19 @@ enum StoreError: LocalizedError {
 }
 
 extension Product.SubscriptionPeriod {
-    /// "3-day", "1-week", "1-month" …
+    /// "3 days", "1 week" … with correct plural forms in every language (e.g. Polish "3 dni" / "5 dni").
     var localizedDuration: String {
-        let unitName: String = switch unit {
-        case .day: value == 1 ? String(localized: "day") : String(localized: "days")
-        case .week: value == 1 ? String(localized: "week") : String(localized: "weeks")
-        case .month: value == 1 ? String(localized: "month") : String(localized: "months")
-        case .year: value == 1 ? String(localized: "year") : String(localized: "years")
-        @unknown default: ""
+        var components = DateComponents()
+        let formatter = DateComponentsFormatter()
+        formatter.unitsStyle = .full
+        switch unit {
+        case .day: components.day = value; formatter.allowedUnits = [.day]
+        case .week: components.weekOfMonth = value; formatter.allowedUnits = [.weekOfMonth]
+        case .month: components.month = value; formatter.allowedUnits = [.month]
+        case .year: components.year = value; formatter.allowedUnits = [.year]
+        @unknown default: components.day = value; formatter.allowedUnits = [.day]
         }
-        return "\(value) \(unitName)"
+        return formatter.string(from: components) ?? "\(value)"
     }
 
     /// "week", "month" … used in "$4.99 / week".

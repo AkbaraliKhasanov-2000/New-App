@@ -58,7 +58,6 @@
     "Date Created": "Datum izrade",
     "Date Modified": "Datum izmjene",
     "day": "dan",
-    "days": "dana",
     "Default Filter": "Zadani filtar",
     "Delete": "Obriši",
     "Delete %lld Documents?": {
@@ -124,7 +123,6 @@
     "Mark documents as favorites to find them here.": "Označite dokumente kao omiljene da biste ih našli ovdje.",
     "Merge": "Spoji",
     "month": "mjesec",
-    "months": "mj.",
     "More": "Više",
     "Move": "Premjesti",
     "Move to Folder": "Premjesti u mapu",
@@ -259,9 +257,7 @@
     "Vivid": "Živo",
     "Vivid colors": "Žive boje",
     "week": "tjedan",
-    "weeks": "tjedna",
     "year": "godina",
-    "years": "god.",
     "Your documents are protected.": "Vaši dokumenti su zaštićeni.",
     "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": "Kupnja čeka odobrenje. Scanlet Pro otključat će se automatski nakon odobrenja."
   },

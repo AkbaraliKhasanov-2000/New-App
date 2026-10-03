@@ -1,0 +1,39 @@
+A Scanlet gyors és privát PDF-szkennerré alakítja az iPhone-odat. Olvass be dokumentumokat, nyugtákat, igazolványokat, szerződéseket és kézzel írt jegyzeteket, ismerd fel a szöveget az eszközön futó OCR-rel, és ossz meg tiszta, kereshető PDF-eket másodpercek alatt.
+
+SZKENNELJ PROFIKÉNT
+• Automatikus szélfelismerés, perspektívajavítás és többoldalas beolvasás
+• Intelligens szűrők: az Auto, Élénk, Szürkeárnyalat és Fekete-fehér eltávolítja az árnyékokat, és élesebbé teszi a szöveget
+• Fotók és PDF-ek importálása a Fotók és a Fájlok appból – a fotókon lévő dokumentumokat automatikusan körülvágja
+• Kézi körülvágás négy sarokkal, oldalak forgatása, átrendezése és törlése
+
+KÉPBŐL SZÖVEG (OCR)
+• Nyomtatott szöveg felismerése több tucat nyelven, közvetlenül az iPhone-on
+• A felismert szöveg másolása, megosztása vagy fordítása
+• Keresés minden beolvasásban a könyvtárból
+• Kereshető PDF-ek, amelyekben bármely PDF-appban kijelölhetsz és kereshetsz
+
+ALÁÍRÁS ÉS VÉDELEM
+• Rajzold meg egyszer az aláírásod, és helyezd el bármelyik oldalon
+• Zárold jelszóval a PDF-eket megosztás előtt
+• Védd az egész appot Face ID-val
+
+RENDSZEREZÉS ÉS MEGOSZTÁS
+• Mappák, kedvencek, rendezés, rács- és listanézet
+• Több beolvasás egyesítése egy dokumentumba
+• Exportálás PDF, JPG vagy szöveg formátumban; A4, US Letter vagy képhez igazított papírméret
+• Megosztás Mailben, Üzenetekben, AirDropon, mentés a Fájlokba vagy nyomtatás
+
+ADATVÉDELEM ALAPBÓL
+A Scanlethez nem kell fiók, és nincs felhő. A dokumentumaid és a felismert szöveg az eszközödön maradnak.
+
+Működik a Sirivel és a Parancsokkal: mondd, hogy „Olvass be egy dokumentumot a Scanlettel”.
+
+SCANLET PRO
+Korlátlan szövegfelismerés, kereshető PDF-ek, aláírások, jelszóval védett PDF-ek, Face ID-zár és vízjel nélküli exportálás.
+• Heti csomag 3 napos ingyenes próbaidővel, vagy havi csomag
+• A díjat a vásárlás megerősítésekor terheljük az Apple-fiókodra (az ingyenes próbaidő után, ha van ilyen)
+• Az előfizetés automatikusan megújul, hacsak le nem mondod legalább 24 órával az aktuális időszak vége előtt
+• Az előfizetést bármikor kezelheted vagy lemondhatod az Apple-fiókod beállításaiban
+
+Felhasználási feltételek: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Adatvédelmi irányelvek: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

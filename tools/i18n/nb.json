@@ -56,7 +56,6 @@
     "Date Created": "Opprettet",
     "Date Modified": "Endret",
     "day": "dag",
-    "days": "dager",
     "Default Filter": "Standardfilter",
     "Delete": "Slett",
     "Delete %lld Documents?": {
@@ -121,7 +120,6 @@
     "Mark documents as favorites to find them here.": "Merk dokumenter som favoritter for å finne dem her.",
     "Merge": "Slå sammen",
     "month": "måned",
-    "months": "måneder",
     "More": "Mer",
     "Move": "Flytt",
     "Move to Folder": "Flytt til mappe",
@@ -256,9 +254,7 @@
     "Vivid": "Livlig",
     "Vivid colors": "Livlige farger",
     "week": "uke",
-    "weeks": "uker",
     "year": "år",
-    "years": "år",
     "Your documents are protected.": "Dokumentene dine er beskyttet.",
     "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": "Kjøpet venter på godkjenning. Scanlet Pro låses opp automatisk når det er godkjent."
   },

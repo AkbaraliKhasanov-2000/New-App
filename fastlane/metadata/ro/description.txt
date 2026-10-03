@@ -1,0 +1,39 @@
+Scanlet transformă iPhone-ul tău într-un scanner PDF rapid și privat. Scanează documente, bonuri, acte de identitate, contracte și notițe scrise de mână, recunoaște textul cu OCR direct pe dispozitiv și partajează în câteva secunde PDF-uri clare și căutabile.
+
+SCANEAZĂ CA UN PROFESIONIST
+• Detectare automată a marginilor, corectarea perspectivei și captură pe mai multe pagini
+• Filtre inteligente: Auto, Intens, Tonuri de gri și Alb-negru elimină umbrele și clarifică textul
+• Importă poze și PDF-uri din Poze și Fișiere – documentele din poze sunt decupate automat
+• Decupare manuală din cele patru colțuri, rotire, reordonare și ștergere a paginilor
+
+IMAGINE ÎN TEXT (OCR)
+• Recunoaște textul tipărit în zeci de limbi, direct pe iPhone
+• Copiază, partajează sau tradu textul recunoscut
+• Caută în fiecare scanare din bibliotecă
+• Creează PDF-uri căutabile, în care poți selecta și căuta text din orice aplicație PDF
+
+SEMNEAZĂ ȘI PROTEJEAZĂ
+• Desenează-ți semnătura o singură dată și plaseaz-o pe orice pagină
+• Blochează PDF-urile cu parolă înainte de a le partaja
+• Protejează întreaga aplicație cu Face ID
+
+ORGANIZEAZĂ ȘI PARTAJEAZĂ
+• Dosare, favorite, sortare, vizualizare în grilă sau listă
+• Combină mai multe scanări într-un singur document
+• Exportă ca PDF, JPG sau text; alege formatul A4, US Letter sau potrivit imaginii
+• Partajează prin Mail, Mesaje, AirDrop, salvează în Fișiere sau tipărește
+
+CONFIDENȚIAL DIN CONSTRUCȚIE
+Scanlet nu are cont și nici cloud. Documentele și textul recunoscut rămân pe dispozitivul tău.
+
+Funcționează cu Siri și Scurtături: spune „Scanează un document cu Scanlet”.
+
+SCANLET PRO
+Deblochează recunoașterea nelimitată a textului, PDF-uri căutabile, semnături, PDF-uri protejate cu parolă, blocarea cu Face ID și exporturi fără filigran.
+• Abonament săptămânal cu perioadă de probă gratuită de 3 zile sau abonament lunar
+• Plata se debitează din contul Apple la confirmarea achiziției (după perioada de probă gratuită, dacă este oferită)
+• Abonamentele se reînnoiesc automat, cu excepția cazului în care sunt anulate cu cel puțin 24 de ore înainte de sfârșitul perioadei curente
+• Gestionează sau anulează oricând din configurările contului Apple
+
+Termeni de utilizare: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Politica de confidențialitate: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

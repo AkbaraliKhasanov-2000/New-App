@@ -56,7 +56,6 @@
     "Date Created": "Luontipäivä",
     "Date Modified": "Muokkauspäivä",
     "day": "päivä",
-    "days": "päivää",
     "Default Filter": "Oletussuodatin",
     "Delete": "Poista",
     "Delete %lld Documents?": {
@@ -121,7 +120,6 @@
     "Mark documents as favorites to find them here.": "Merkitse dokumentteja suosikeiksi, niin löydät ne täältä.",
     "Merge": "Yhdistä",
     "month": "kk",
-    "months": "kuukautta",
     "More": "Lisää",
     "Move": "Siirrä",
     "Move to Folder": "Siirrä kansioon",
@@ -256,9 +254,7 @@
     "Vivid": "Eloisa",
     "Vivid colors": "Eloisat värit",
     "week": "vk",
-    "weeks": "viikkoa",
     "year": "v",
-    "years": "vuotta",
     "Your documents are protected.": "Dokumenttisi ovat suojattuja.",
     "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": "Ostosi odottaa hyväksyntää. Scanlet Pro avautuu automaattisesti, kun se on hyväksytty."
   },

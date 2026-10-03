@@ -1,0 +1,39 @@
+Scanlet, iPhone’unuzu hızlı ve gizli bir PDF tarayıcıya dönüştürür. Belgeleri, fişleri, kimlikleri, sözleşmeleri ve el yazısı notları tarayın, aygıt üzerinde OCR ile metni tanıyın ve temiz, aranabilir PDF’leri saniyeler içinde paylaşın.
+
+PROFESYONEL GİBİ TARAYIN
+• Otomatik kenar algılama, perspektif düzeltme ve çok sayfalı tarama
+• Akıllı filtreler: Otomatik, Canlı, Gri Tonlama ve Siyah Beyaz gölgeleri giderir, metni netleştirir
+• Fotoğraflar ve Dosyalar’dan fotoğraf ve PDF aktarın — fotoğraflardaki belgeler otomatik kırpılır
+• Dört köşeden elle kırpma, sayfaları döndürme, yeniden sıralama ve silme
+
+RESİMDEN METNE (OCR)
+• Basılı metni onlarca dilde, doğrudan iPhone’unuzda tanıyın
+• Tanınan metni kopyalayın, paylaşın veya çevirin
+• Arşivden her taramanın içinde arama yapın
+• Her PDF uygulamasında seçilip aranabilen PDF’ler oluşturun
+
+İMZALAYIN VE KORUYUN
+• İmzanızı bir kez çizin, istediğiniz sayfaya yerleştirin
+• PDF’leri paylaşmadan önce şifreyle kilitleyin
+• Uygulamanın tamamını Face ID ile koruyun
+
+DÜZENLEYİN VE PAYLAŞIN
+• Klasörler, favoriler, sıralama, ızgara ve liste görünümü
+• Birden fazla taramayı tek belgede birleştirin
+• PDF, JPG veya metin olarak dışa aktarın; A4, US Letter ya da görüntüye sığan kâğıt boyutu seçin
+• Mail, Mesajlar, AirDrop ile paylaşın, Dosyalar’a kaydedin veya yazdırın
+
+TASARIMINDAN GİZLİ
+Scanlet’te hesap ve bulut yoktur. Belgeleriniz ve tanınan metin aygıtınızda kalır.
+
+Siri ve Kestirmeler ile çalışır: “Scanlet ile belge tara” deyin.
+
+SCANLET PRO
+Sınırsız metin tanıma, aranabilir PDF’ler, imzalar, şifre korumalı PDF’ler, Face ID kilidi ve filigransız dışa aktarımın kilidini açın.
+• 3 gün ücretsiz denemeli haftalık plan veya aylık plan
+• Ödeme, satın alma onaylandığında Apple Hesabınızdan tahsil edilir (ücretsiz deneme sunuluyorsa deneme bitiminden sonra)
+• Abonelikler, geçerli dönemin bitiminden en az 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir
+• Aboneliğinizi istediğiniz zaman Apple Hesabı ayarlarınızdan yönetin veya iptal edin
+
+Kullanım Koşulları: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Gizlilik Politikası: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

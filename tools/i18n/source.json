@@ -206,10 +206,6 @@
       "en": "day",
       "where": "Models/ScanDocument.swift"
     },
-    "days": {
-      "en": "days",
-      "where": "Services/SubscriptionStore.swift"
-    },
     "Default Filter": {
       "en": "Default Filter",
       "where": "Views/Settings/SettingsView.swift"
@@ -456,10 +452,6 @@
     "month": {
       "en": "month",
       "where": "Models/ScanDocument.swift"
-    },
-    "months": {
-      "en": "months",
-      "where": "Services/SubscriptionStore.swift"
     },
     "More": {
       "en": "More",
@@ -997,17 +989,9 @@
       "en": "week",
       "where": "Views/Paywall/PaywallView.swift"
     },
-    "weeks": {
-      "en": "weeks",
-      "where": "Services/SubscriptionStore.swift"
-    },
     "year": {
       "en": "year",
       "where": "Models/ScanDocument.swift"
-    },
-    "years": {
-      "en": "years",
-      "where": "Services/SubscriptionStore.swift"
     },
     "Your documents are protected.": {
       "en": "Your documents are protected.",

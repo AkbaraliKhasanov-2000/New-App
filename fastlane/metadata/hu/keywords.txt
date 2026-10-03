@@ -1,0 +1,1 @@
+scanner,dokumentum,beolvasás,aláírás,nyugta,számla,igazolvány,fotó,kép,jpg,fordító,jelszó

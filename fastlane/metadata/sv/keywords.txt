@@ -1,0 +1,1 @@
+scanner,scan,signatur,kvitto,id,kort,foto,kamera,jpg,konvertera,översätt,lösenord,skanning,app

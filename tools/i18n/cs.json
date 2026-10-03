@@ -60,7 +60,6 @@
     "Date Created": "Datum vytvoření",
     "Date Modified": "Datum změny",
     "day": "den",
-    "days": "dny",
     "Default Filter": "Výchozí filtr",
     "Delete": "Smazat",
     "Delete %lld Documents?": {
@@ -127,7 +126,6 @@
     "Mark documents as favorites to find them here.": "Označte dokumenty jako oblíbené a najdete je tady.",
     "Merge": "Sloučit",
     "month": "měsíc",
-    "months": "měs.",
     "More": "Další",
     "Move": "Přesunout",
     "Move to Folder": "Přesunout do složky",
@@ -262,9 +260,7 @@
     "Vivid": "Živé",
     "Vivid colors": "Živé barvy",
     "week": "týden",
-    "weeks": "týdny",
     "year": "rok",
-    "years": "roky",
     "Your documents are protected.": "Vaše dokumenty jsou chráněné.",
     "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": "Nákup čeká na schválení. Scanlet Pro se po schválení odemkne automaticky."
   },

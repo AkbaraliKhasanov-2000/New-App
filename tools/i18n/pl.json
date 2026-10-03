@@ -60,7 +60,6 @@
     "Date Created": "Data utworzenia",
     "Date Modified": "Data zmiany",
     "day": "dzień",
-    "days": "dni",
     "Default Filter": "Domyślny filtr",
     "Delete": "Usuń",
     "Delete %lld Documents?": {
@@ -127,7 +126,6 @@
     "Mark documents as favorites to find them here.": "Oznacz dokumenty jako ulubione, aby znaleźć je tutaj.",
     "Merge": "Połącz",
     "month": "miesiąc",
-    "months": "mies.",
     "More": "Więcej",
     "Move": "Przenieś",
     "Move to Folder": "Przenieś do folderu",
@@ -262,9 +260,7 @@
     "Vivid": "Żywe",
     "Vivid colors": "Żywe kolory",
     "week": "tydzień",
-    "weeks": "tyg.",
     "year": "rok",
-    "years": "lata",
     "Your documents are protected.": "Twoje dokumenty są chronione.",
     "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": "Zakup czeka na zatwierdzenie. Scanlet Pro odblokuje się automatycznie po jego zatwierdzeniu."
   },

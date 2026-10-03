@@ -1,0 +1,39 @@
+Scanlet transforme votre iPhone en scanner PDF rapide et privé. Numérisez documents, reçus, pièces d’identité, contrats et notes manuscrites, reconnaissez le texte grâce à l’OCR sur l’appareil et partagez en quelques secondes des PDF nets et interrogeables.
+
+NUMÉRISEZ COMME UN PRO
+• Détection automatique des bords, correction de la perspective et capture multipage
+• Filtres intelligents : Auto, Éclatant, Niveaux de gris et Noir et blanc suppriment les ombres et rendent le texte net
+• Importez photos et PDF depuis Photos et Fichiers : les documents photographiés sont recadrés automatiquement
+• Recadrage manuel par les quatre coins, rotation, réorganisation et suppression des pages
+
+IMAGE EN TEXTE (OCR)
+• Reconnaissance du texte imprimé dans des dizaines de langues, directement sur votre iPhone
+• Copiez, partagez ou traduisez le texte reconnu
+• Recherchez dans tous vos scans depuis la bibliothèque
+• Créez des PDF interrogeables, où le texte se sélectionne et se recherche dans toute app PDF
+
+SIGNEZ ET PROTÉGEZ
+• Dessinez votre signature une seule fois et placez-la sur n’importe quelle page
+• Verrouillez vos PDF par mot de passe avant de les partager
+• Protégez toute l’app avec Face ID
+
+ORGANISEZ ET PARTAGEZ
+• Dossiers, favoris, tri, affichage en grille ou en liste
+• Fusionnez plusieurs scans en un seul document
+• Exportez en PDF, JPG ou texte ; format A4, US Letter ou à la taille de l’image
+• Partagez par Mail, Messages, AirDrop, enregistrez dans Fichiers ou imprimez
+
+CONFIDENTIEL PAR CONCEPTION
+Scanlet ne demande ni compte ni cloud. Vos documents et le texte reconnu restent sur votre appareil.
+
+Compatible avec Siri et Raccourcis : dites « Numérise un document avec Scanlet ».
+
+SCANLET PRO
+Débloquez la reconnaissance de texte illimitée, les PDF interrogeables, les signatures, les PDF protégés par mot de passe, le verrouillage Face ID et les exports sans filigrane.
+• Abonnement hebdomadaire avec 3 jours d’essai gratuit, ou abonnement mensuel
+• Le paiement est débité sur votre compte Apple à la confirmation de l’achat (après l’essai gratuit, s’il est proposé)
+• L’abonnement se renouvelle automatiquement, sauf annulation au moins 24 heures avant la fin de la période en cours
+• Gérez ou annulez à tout moment dans les réglages de votre compte Apple
+
+Conditions d’utilisation : https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Politique de confidentialité : https://akbaralikhasanov-2000.github.io/New-App/privacy.html

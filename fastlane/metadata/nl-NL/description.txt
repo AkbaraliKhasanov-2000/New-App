@@ -1,0 +1,39 @@
+Scanlet maakt van je iPhone een snelle, privé PDF-scanner. Scan documenten, bonnetjes, ID's, contracten en handgeschreven notities, herken tekst met OCR op je apparaat en deel nette, doorzoekbare PDF's in een paar seconden.
+
+SCANNEN ALS EEN PRO
+• Automatische randdetectie, perspectiefcorrectie en scannen van meerdere pagina's
+• Slimme filters: Auto, Levendig, Grijstinten en Zwart-wit verwijderen schaduwen en maken tekst scherper
+• Importeer foto's en PDF's uit Foto's en Bestanden – documenten op foto's worden automatisch bijgesneden
+• Handmatig bijsnijden met vier hoekpunten, pagina's draaien, herschikken en verwijderen
+
+FOTO NAAR TEKST (OCR)
+• Herken gedrukte tekst in tientallen talen, direct op je iPhone
+• Kopieer, deel of vertaal herkende tekst
+• Zoek in elke scan vanuit je bibliotheek
+• Maak doorzoekbare PDF's waarin je in elke PDF-app tekst kunt selecteren en zoeken
+
+ONDERTEKENEN & BEVEILIGEN
+• Teken je handtekening één keer en plaats hem op elke pagina
+• Beveilig PDF's met een wachtwoord voordat je ze deelt
+• Beveilig de hele app met Face ID
+
+ORDENEN & DELEN
+• Mappen, favorieten, sorteren, raster- en lijstweergave
+• Voeg meerdere scans samen tot één document
+• Exporteer als PDF, JPG of tekst; kies A4, US Letter of papierformaat passend bij de afbeelding
+• Deel via Mail, Berichten of AirDrop, bewaar in Bestanden of druk af
+
+PRIVÉ VANAF HET BEGIN
+Scanlet heeft geen account en geen cloud. Je documenten en herkende tekst blijven op je apparaat.
+
+Werkt met Siri en Opdrachten: zeg 'Scan een document met Scanlet'.
+
+SCANLET PRO
+Ontgrendel onbeperkte tekstherkenning, doorzoekbare PDF's, handtekeningen, PDF's met wachtwoord, Face ID-vergrendeling en exports zonder watermerk.
+• Weekabonnement met 3 dagen gratis proberen, of een maandabonnement
+• De betaling wordt bij bevestiging van de aankoop in rekening gebracht via je Apple Account (na de gratis proefperiode, indien aangeboden)
+• Abonnementen worden automatisch verlengd, tenzij je ten minste 24 uur voor het einde van de huidige periode opzegt
+• Beheer of zeg op wanneer je wilt in de instellingen van je Apple Account
+
+Gebruiksvoorwaarden: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacybeleid: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

@@ -257,13 +257,9 @@
     "Your documents are protected.": "Tus documentos están protegidos.",
     "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": "Tu compra está pendiente de aprobación. Scanlet Pro se desbloqueará automáticamente cuando se apruebe.",
     "day": "día",
-    "days": "días",
     "month": "mes",
-    "months": "meses",
     "week": "semana",
-    "weeks": "semanas",
-    "year": "año",
-    "years": "años"
+    "year": "año"
   },
   "infoPlist": {
     "NSCameraUsageDescription": "Scanlet usa la cámara para escanear tus documentos.",

@@ -1,0 +1,39 @@
+Scanlet gör din iPhone till en snabb och privat PDF-skanner. Skanna dokument, kvitton, ID-kort, avtal och handskrivna anteckningar, känn igen text med OCR direkt på enheten och dela rena, sökbara PDF:er på några sekunder.
+
+SKANNA SOM ETT PROFFS
+• Automatisk kantidentifiering, perspektivkorrigering och skanning av flera sidor
+• Smarta filter: Auto, Livfull, Gråskala och Svartvitt tar bort skuggor och gör texten skarpare
+• Importera bilder och PDF:er från Bilder och Filer – dokument i bilder beskärs automatiskt
+• Manuell beskärning med fyra hörn, rotera, ändra ordning och radera sidor
+
+BILD TILL TEXT (OCR)
+• Känn igen tryckt text på dussintals språk, direkt på din iPhone
+• Kopiera, dela eller översätt igenkänd text
+• Sök i alla skanningar från biblioteket
+• Skapa sökbara PDF:er där du kan markera och söka text i alla PDF-appar
+
+SIGNERA OCH SKYDDA
+• Rita din signatur en gång och placera den på valfri sida
+• Lås PDF:er med lösenord innan du delar dem
+• Skydda hela appen med Face ID
+
+ORGANISERA OCH DELA
+• Mappar, favoriter, sortering, rutnäts- och listvy
+• Slå ihop flera skanningar till ett dokument
+• Exportera som PDF, JPG eller text; välj A4, US Letter eller pappersstorlek anpassad till bilden
+• Dela via Mail, Meddelanden eller AirDrop, spara i Filer eller skriv ut
+
+PRIVAT FRÅN GRUNDEN
+Scanlet har inget konto och inget moln. Dina dokument och den igenkända texten stannar på din enhet.
+
+Fungerar med Siri och Genvägar: säg ”Skanna ett dokument med Scanlet”.
+
+SCANLET PRO
+Lås upp obegränsad textigenkänning, sökbara PDF:er, signaturer, lösenordsskyddade PDF:er, Face ID-lås och exporter utan vattenstämpel.
+• Veckoabonnemang med 3 dagars gratis provperiod, eller månadsabonnemang
+• Betalningen debiteras ditt Apple-konto när köpet bekräftas (efter den kostnadsfria provperioden, om en sådan erbjuds)
+• Abonnemang förnyas automatiskt om de inte sägs upp minst 24 timmar innan den aktuella perioden slutar
+• Hantera eller avsluta när som helst i inställningarna för ditt Apple-konto
+
+Användarvillkor: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Integritetspolicy: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

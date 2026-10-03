@@ -1,0 +1,39 @@
+Scanlet macht dein iPhone zu einem schnellen, privaten PDF-Scanner. Scanne Dokumente, Belege, Ausweise, Verträge und handschriftliche Notizen, erkenne Text per OCR direkt auf dem Gerät und teile saubere, durchsuchbare PDFs in Sekunden.
+
+SCANNEN WIE EIN PROFI
+• Automatische Kantenerkennung, Perspektivkorrektur und mehrseitige Aufnahme
+• Intelligente Filter: Auto, Lebendig, Graustufen und Schwarzweiß entfernen Schatten und schärfen Text
+• Importiere Fotos und PDFs aus Fotos und Dateien – Dokumente auf Fotos werden automatisch zugeschnitten
+• Manueller Zuschnitt mit Vier-Ecken-Anpassung, Seiten drehen, neu anordnen und löschen
+
+BILD ZU TEXT (OCR)
+• Erkenne gedruckten Text in Dutzenden Sprachen – direkt auf deinem iPhone
+• Erkannten Text kopieren, teilen oder übersetzen
+• Durchsuche jeden Scan in deiner Mediathek
+• Erstelle durchsuchbare PDFs, in denen du in jeder PDF-App Text markieren und suchen kannst
+
+UNTERSCHREIBEN & SCHÜTZEN
+• Zeichne deine Unterschrift einmal und platziere sie auf jeder Seite
+• Schütze PDFs vor dem Teilen mit einem Passwort
+• Sichere die ganze App mit Face ID
+
+ORGANISIEREN & TEILEN
+• Ordner, Favoriten, Sortierung, Raster- und Listenansicht
+• Füge mehrere Scans zu einem Dokument zusammen
+• Exportiere als PDF, JPG oder Text; wähle A4, US Letter oder an das Bild angepasstes Papierformat
+• Teile per Mail, Nachrichten oder AirDrop, sichere in Dateien oder drucke
+
+PRIVAT VON GRUND AUF
+Scanlet braucht kein Konto und keine Cloud. Deine Dokumente und erkannten Texte bleiben auf deinem Gerät.
+
+Funktioniert mit Siri und Kurzbefehlen: Sag „Scanne ein Dokument mit Scanlet“.
+
+SCANLET PRO
+Schalte unbegrenzte Texterkennung, durchsuchbare PDFs, Unterschriften, passwortgeschützte PDFs, die Face ID-Sperre und Exporte ohne Wasserzeichen frei.
+• Wochenabo mit 3 Tagen kostenlosem Test oder Monatsabo
+• Die Zahlung wird bei Kaufbestätigung über deinen Apple Account abgerechnet (nach dem kostenlosen Test, sofern angeboten)
+• Abos verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden
+• Jederzeit in den Einstellungen deines Apple Accounts verwalten oder kündigen
+
+Nutzungsbedingungen: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Datenschutzerklärung: https://akbaralikhasanov-2000.github.io/New-App/privacy.html
