@@ -1,0 +1,1026 @@
+{
+  "strings": {
+    "%@ Copy": {
+      "en": "%@ Copy",
+      "where": ""
+    },
+    "%@ free": {
+      "en": "%@ free",
+      "where": ""
+    },
+    "%@ free, then %@/%@": {
+      "en": "%@ free, then %@/%@",
+      "where": ""
+    },
+    "%@. Renews automatically until canceled. Cancel anytime in Settings at least 24 hours before the period ends.": {
+      "en": "%@. Renews automatically until canceled. Cancel anytime in Settings at least 24 hours before the period ends.",
+      "where": ""
+    },
+    "%@/%@, cancel anytime": {
+      "en": "%@/%@, cancel anytime",
+      "where": ""
+    },
+    "%lld documents": {
+      "en": {
+        "one": "%lld document",
+        "other": "%lld documents"
+      },
+      "where": ""
+    },
+    "%lld of %lld": {
+      "en": "%lld of %lld",
+      "where": ""
+    },
+    "%lld pages": {
+      "en": {
+        "one": "%lld page",
+        "other": "%lld pages"
+      },
+      "where": ""
+    },
+    "A4": {
+      "en": "A4",
+      "where": "Models/PageFilter.swift"
+    },
+    "About": {
+      "en": "About",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Add Page": {
+      "en": "Add Page",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "Add Pages": {
+      "en": "Add Pages",
+      "where": ""
+    },
+    "Add pages by scanning or importing.": {
+      "en": "Add pages by scanning or importing.",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "Add to Favorites": {
+      "en": "Add to Favorites",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Add your signature, lock PDFs with a password and share anywhere. Your documents never leave your device.": {
+      "en": "Add your signature, lock PDFs with a password and share anywhere. Your documents never leave your device.",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "All": {
+      "en": "All",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "All Documents": {
+      "en": "All Documents",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "All features unlocked. Thank you!": {
+      "en": "All features unlocked. Thank you!",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Apply": {
+      "en": "Apply",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Applying crop…": {
+      "en": "Applying crop…",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Auto": {
+      "en": "Auto",
+      "where": "Models/PageFilter.swift"
+    },
+    "Auto Detect": {
+      "en": "Auto Detect",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Auto-Crop Imported Photos": {
+      "en": "Auto-Crop Imported Photos",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Automatic": {
+      "en": "Automatic",
+      "where": "Models/PageFilter.swift"
+    },
+    "Automatic enhancement": {
+      "en": "Automatic enhancement",
+      "where": "Models/PageFilter.swift"
+    },
+    "Automatic works for most documents. Choose specific languages to improve accuracy for mixed or uncommon text.": {
+      "en": "Automatic works for most documents. Choose specific languages to improve accuracy for mixed or uncommon text.",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "B&W": {
+      "en": "B&W",
+      "where": "Models/PageFilter.swift"
+    },
+    "Balanced": {
+      "en": "Balanced",
+      "where": "Models/PageFilter.swift"
+    },
+    "Best Quality": {
+      "en": "Best Quality",
+      "where": "Models/PageFilter.swift"
+    },
+    "Black": {
+      "en": "Black",
+      "where": "Models/PageFilter.swift"
+    },
+    "Black and white": {
+      "en": "Black and white",
+      "where": "Models/PageFilter.swift"
+    },
+    "Blue": {
+      "en": "Blue",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Bottom-left corner": {
+      "en": "Bottom-left corner",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Bottom-right corner": {
+      "en": "Bottom-right corner",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Camera Unavailable": {
+      "en": "Camera Unavailable",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Cancel": {
+      "en": "Cancel",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Choose a page below, then pick a signature.": {
+      "en": "Choose a page below, then pick a signature.",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Clean, professional exports.": {
+      "en": "Clean, professional exports.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Clear": {
+      "en": "Clear",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Close": {
+      "en": "Close",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Contact Support": {
+      "en": "Contact Support",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Continue": {
+      "en": "Continue",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Copy All": {
+      "en": "Copy All",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "Copy, translate and share text from any page.": {
+      "en": "Copy, translate and share text from any page.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Create": {
+      "en": "Create",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Create Searchable PDFs": {
+      "en": "Create Searchable PDFs",
+      "where": "Services/AppRouter.swift"
+    },
+    "Crop": {
+      "en": "Crop",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Date Created": {
+      "en": "Date Created",
+      "where": "Services/Preferences.swift"
+    },
+    "Date Modified": {
+      "en": "Date Modified",
+      "where": "Services/Preferences.swift"
+    },
+    "day": {
+      "en": "day",
+      "where": "Models/ScanDocument.swift"
+    },
+    "days": {
+      "en": "days",
+      "where": "Services/SubscriptionStore.swift"
+    },
+    "Default Filter": {
+      "en": "Default Filter",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Delete": {
+      "en": "Delete",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Delete %lld Documents?": {
+      "en": {
+        "one": "Delete %lld Document?",
+        "other": "Delete %lld Documents?"
+      },
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Delete Document": {
+      "en": "Delete Document",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Delete Document?": {
+      "en": "Delete Document?",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Delete Folder": {
+      "en": "Delete Folder",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Delete Folder?": {
+      "en": "Delete Folder?",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Delete Page": {
+      "en": "Delete Page",
+      "where": "Views/Document/PageEditorView.swift"
+    },
+    "Delete Page?": {
+      "en": "Delete Page?",
+      "where": "Views/Document/PageEditorView.swift"
+    },
+    "Deselect All": {
+      "en": "Deselect All",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Document scanning isn’t supported on this device. You can import photos instead.": {
+      "en": "Document scanning isn’t supported on this device. You can import photos instead.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Documents": {
+      "en": "Documents",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Documents in this folder will be moved to All Documents.": {
+      "en": "Documents in this folder will be moved to All Documents.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Done": {
+      "en": "Done",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Double-tap to edit this page.": {
+      "en": "Double-tap to edit this page.",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "Drag to move. Pinch to resize.": {
+      "en": "Drag to move. Pinch to resize.",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Draw once, place your signature in seconds.": {
+      "en": "Draw once, place your signature in seconds.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Duplicate": {
+      "en": "Duplicate",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Each page is exported as a separate JPG image.": {
+      "en": "Each page is exported as a separate JPG image.",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Edges are detected and straightened automatically. Documents, receipts, IDs and notes come out crisp and clean.": {
+      "en": "Edges are detected and straightened automatically. Documents, receipts, IDs and notes come out crisp and clean.",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Edit Page": {
+      "en": "Edit Page",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "Empty Folder": {
+      "en": "Empty Folder",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Enter a name for this folder.": {
+      "en": "Enter a name for this folder.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Everything you need to scan, sign and share documents.": {
+      "en": "Everything you need to scan, sign and share documents.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Export": {
+      "en": "Export",
+      "where": "Models/PageFilter.swift"
+    },
+    "Export %@": {
+      "en": "Export %@",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "Export Failed": {
+      "en": "Export Failed",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Export Without Watermark": {
+      "en": "Export Without Watermark",
+      "where": "Services/AppRouter.swift"
+    },
+    "Exports the recognized text of every page as a plain text file.": {
+      "en": "Exports the recognized text of every page as a plain text file.",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Extract Text": {
+      "en": "Extract Text",
+      "where": ""
+    },
+    "Face ID App Lock": {
+      "en": "Face ID App Lock",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Favorite": {
+      "en": "Favorite",
+      "where": "Models/ScanDocument.swift"
+    },
+    "Favorites": {
+      "en": "Favorites",
+      "where": "Views/Library/ScopeBar.swift"
+    },
+    "Find words inside your scans in any PDF app.": {
+      "en": "Find words inside your scans in any PDF app.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Fit to Image": {
+      "en": "Fit to Image",
+      "where": "Models/PageFilter.swift"
+    },
+    "Folders": {
+      "en": "Folders",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Format": {
+      "en": "Format",
+      "where": "Models/PageFilter.swift"
+    },
+    "Free exports include a small footer.": {
+      "en": "Free exports include a small footer.",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Free for %@, then %@. Renews automatically until canceled. Cancel anytime in Settings at least 24 hours before the trial ends.": {
+      "en": "Free for %@, then %@. Renews automatically until canceled. Cancel anytime in Settings at least 24 hours before the trial ends.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Free Text Recognitions Used": {
+      "en": "Free Text Recognitions Used",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "Full Page": {
+      "en": "Full Page",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Get Started": {
+      "en": "Get Started",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Go Pro": {
+      "en": "Go Pro",
+      "where": ""
+    },
+    "Grayscale": {
+      "en": "Grayscale",
+      "where": "Models/PageFilter.swift"
+    },
+    "I scan documents with Scanlet.": {
+      "en": "I scan documents with Scanlet.",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Icons": {
+      "en": "Icons",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Import": {
+      "en": "Import",
+      "where": "Intents/ScanIntents.swift"
+    },
+    "Import from Files": {
+      "en": "Import from Files",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Import from Photos": {
+      "en": "Import from Photos",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Import Photos": {
+      "en": "Import Photos",
+      "where": "Intents/ScanIntents.swift"
+    },
+    "Ink Color": {
+      "en": "Ink Color",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "JPG": {
+      "en": "JPG",
+      "where": "Models/PageFilter.swift"
+    },
+    "Keep your documents private.": {
+      "en": "Keep your documents private.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Languages": {
+      "en": "Languages",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Layout": {
+      "en": "Layout",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "List": {
+      "en": "List",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Lock Scanlet with Face ID": {
+      "en": "Lock Scanlet with Face ID",
+      "where": "Services/AppRouter.swift"
+    },
+    "Manage Subscription": {
+      "en": "Manage Subscription",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Mark documents as favorites to find them here.": {
+      "en": "Mark documents as favorites to find them here.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Merge": {
+      "en": "Merge",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "month": {
+      "en": "month",
+      "where": "Models/ScanDocument.swift"
+    },
+    "months": {
+      "en": "months",
+      "where": "Services/SubscriptionStore.swift"
+    },
+    "More": {
+      "en": "More",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Move": {
+      "en": "Move",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Move to Folder": {
+      "en": "Move to Folder",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Name": {
+      "en": "Name",
+      "where": "Intents/ScanIntents.swift"
+    },
+    "New Folder": {
+      "en": "New Folder",
+      "where": "Views/Library/ScopeBar.swift"
+    },
+    "New Folder…": {
+      "en": "New Folder…",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "New Signature": {
+      "en": "New Signature",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "No active Scanlet Pro subscription was found for this Apple Account.": {
+      "en": "No active Scanlet Pro subscription was found for this Apple Account.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "No Documents Yet": {
+      "en": "No Documents Yet",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "No Favorites": {
+      "en": "No Favorites",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "No Pages": {
+      "en": "No Pages",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "No Text Found": {
+      "en": "No Text Found",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "No Watermark": {
+      "en": "No Watermark",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Nothing to Restore": {
+      "en": "Nothing to Restore",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "OK": {
+      "en": "OK",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Opens the camera to scan a document": {
+      "en": "Opens the camera to scan a document",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Options": {
+      "en": "Options",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Organize Pages": {
+      "en": "Organize Pages",
+      "where": "Views/Document/PageOrganizerView.swift"
+    },
+    "Original": {
+      "en": "Original",
+      "where": "Models/PageFilter.swift"
+    },
+    "Original colors": {
+      "en": "Original colors",
+      "where": "Models/PageFilter.swift"
+    },
+    "Page": {
+      "en": "Page",
+      "where": "Models/PageFilter.swift"
+    },
+    "Page %lld": {
+      "en": "Page %lld",
+      "where": "Models/ScanPage.swift"
+    },
+    "Page %lld of %lld": {
+      "en": "Page %lld of %lld",
+      "where": "Models/ScanPage.swift"
+    },
+    "Page Size": {
+      "en": "Page Size",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Passcode": {
+      "en": "Passcode",
+      "where": "Services/AppLock.swift"
+    },
+    "Password": {
+      "en": "Password",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Password Protection": {
+      "en": "Password Protection",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Password-Protected PDFs": {
+      "en": "Password-Protected PDFs",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "PDF": {
+      "en": "PDF",
+      "where": "Intents/ScanIntents.swift"
+    },
+    "Place Signature": {
+      "en": "Place Signature",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Plans are unavailable right now.": {
+      "en": "Plans are unavailable right now.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Plans are unavailable right now. Check your connection and try again.": {
+      "en": "Plans are unavailable right now. Check your connection and try again.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Privacy": {
+      "en": "Privacy",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Privacy Policy": {
+      "en": "Privacy Policy",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "PRO": {
+      "en": "PRO",
+      "where": "Views/Components/GlassStyles.swift"
+    },
+    "Pro feature": {
+      "en": "Pro feature",
+      "where": "Views/Components/GlassStyles.swift"
+    },
+    "Processing pages…": {
+      "en": "Processing pages…",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Protect PDFs with a Password": {
+      "en": "Protect PDFs with a Password",
+      "where": "Services/AppRouter.swift"
+    },
+    "Purchase Failed": {
+      "en": "Purchase Failed",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Purchase Pending": {
+      "en": "Purchase Pending",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Quality": {
+      "en": "Quality",
+      "where": "Models/PageFilter.swift"
+    },
+    "Rate Scanlet": {
+      "en": "Rate Scanlet",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Recognition Languages": {
+      "en": "Recognition Languages",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Recognize Text Automatically": {
+      "en": "Recognize Text Automatically",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Recognizing text…": {
+      "en": "Recognizing text…",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "Red": {
+      "en": "Red",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Remove from Favorites": {
+      "en": "Remove from Favorites",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Remove “Scanned with Scanlet”": {
+      "en": "Remove “Scanned with Scanlet”",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Rename": {
+      "en": "Rename",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Rename Document": {
+      "en": "Rename Document",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Rename Folder": {
+      "en": "Rename Folder",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Rename Folder…": {
+      "en": "Rename Folder…",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Require %@": {
+      "en": "Require %@",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Restore Failed": {
+      "en": "Restore Failed",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Restore Purchases": {
+      "en": "Restore Purchases",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Restoring…": {
+      "en": "Restoring…",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Rotate Left": {
+      "en": "Rotate Left",
+      "where": "Views/Document/PageEditorView.swift"
+    },
+    "Rotate Right": {
+      "en": "Rotate Right",
+      "where": "Views/Document/PageEditorView.swift"
+    },
+    "Save": {
+      "en": "Save",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "SAVE %lld%%": {
+      "en": "SAVE %lld%%",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Saved signature": {
+      "en": "Saved signature",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Scan": {
+      "en": "Scan",
+      "where": "Intents/ScanIntents.swift"
+    },
+    "Scan %@": {
+      "en": "Scan %@",
+      "where": "Intents/ScanIntents.swift"
+    },
+    "Scan Anything in Seconds": {
+      "en": "Scan Anything in Seconds",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Scan Document": {
+      "en": "Scan Document",
+      "where": "Intents/ScanIntents.swift"
+    },
+    "Scan or move documents into this folder.": {
+      "en": "Scan or move documents into this folder.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Scan Pages": {
+      "en": "Scan Pages",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "Scan paper documents, receipts and notes into sharp, searchable PDFs.": {
+      "en": "Scan paper documents, receipts and notes into sharp, searchable PDFs.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Scan Your First Document": {
+      "en": "Scan Your First Document",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Scanlet Is Locked": {
+      "en": "Scanlet Is Locked",
+      "where": "App/RootView.swift"
+    },
+    "Scanlet Pro": {
+      "en": "Scanlet Pro",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Scanlet reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.": {
+      "en": "Scanlet reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Scanlet stores your documents only on this iPhone.": {
+      "en": "Scanlet stores your documents only on this iPhone.",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Scanned with Scanlet": {
+      "en": "Scanned with Scanlet",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Scanning": {
+      "en": "Scanning",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Search titles and text": {
+      "en": "Search titles and text",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Searchable PDFs": {
+      "en": "Searchable PDFs",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Searchable PDFs let you find and copy text in any PDF app. Text is recognized on your iPhone.": {
+      "en": "Searchable PDFs let you find and copy text in any PDF app. Text is recognized on your iPhone.",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Searchable Text (OCR)": {
+      "en": "Searchable Text (OCR)",
+      "where": "Views/Export/ExportView.swift"
+    },
+    "Select": {
+      "en": "Select",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Select All": {
+      "en": "Select All",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Settings": {
+      "en": "Settings",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Share": {
+      "en": "Share",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Share Page": {
+      "en": "Share Page",
+      "where": "Views/Document/DocumentDetailView.swift"
+    },
+    "Share Scanlet": {
+      "en": "Share Scanlet",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Share sensitive files safely.": {
+      "en": "Share sensitive files safely.",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Sign": {
+      "en": "Sign",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Sign Documents": {
+      "en": "Sign Documents",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Sign Documents Instantly": {
+      "en": "Sign Documents Instantly",
+      "where": "Services/AppRouter.swift"
+    },
+    "Sign here": {
+      "en": "Sign here",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Sign, Protect and Share": {
+      "en": "Sign, Protect and Share",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Signature": {
+      "en": "Signature",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Signature Size": {
+      "en": "Signature Size",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Signatures are stored only on this device.": {
+      "en": "Signatures are stored only on this device.",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Signing…": {
+      "en": "Signing…",
+      "where": "Views/Signature/SignDocumentView.swift"
+    },
+    "Skip": {
+      "en": "Skip",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Small File": {
+      "en": "Small File",
+      "where": "Models/PageFilter.swift"
+    },
+    "Something Went Wrong": {
+      "en": "Something Went Wrong",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Sort By": {
+      "en": "Sort By",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Start Free Trial": {
+      "en": "Start Free Trial",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Support": {
+      "en": "Support",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Terms of Use": {
+      "en": "Terms of Use",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Text": {
+      "en": "Text",
+      "where": "Models/PageFilter.swift"
+    },
+    "Text is recognized on your iPhone, so you can search inside your scans. Nothing is uploaded.": {
+      "en": "Text is recognized on your iPhone, so you can search inside your scans. Nothing is uploaded.",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Text Recognition": {
+      "en": "Text Recognition",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "The file couldn’t be created. Please try again.": {
+      "en": "The file couldn’t be created. Please try again.",
+      "where": "Services/DocumentExporter.swift"
+    },
+    "The purchase couldn’t be verified. Please try again.": {
+      "en": "The purchase couldn’t be verified. Please try again.",
+      "where": "Services/SubscriptionStore.swift"
+    },
+    "The selected files couldn’t be opened.": {
+      "en": "The selected files couldn’t be opened.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "The selected photos couldn’t be loaded.": {
+      "en": "The selected photos couldn’t be loaded.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "This can’t be undone.": {
+      "en": "This can’t be undone.",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "This document has no pages to export.": {
+      "en": "This document has no pages to export.",
+      "where": "Services/DocumentExporter.swift"
+    },
+    "Top-left corner": {
+      "en": "Top-left corner",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Top-right corner": {
+      "en": "Top-right corner",
+      "where": "Views/Document/CropEditorView.swift"
+    },
+    "Translate": {
+      "en": "Translate",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "Try a sharper scan with good lighting, or pick recognition languages in Settings.": {
+      "en": "Try a sharper scan with good lighting, or pick recognition languages in Settings.",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "Try Again": {
+      "en": "Try Again",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Turn Images into Text": {
+      "en": "Turn Images into Text",
+      "where": "Views/Onboarding/OnboardingView.swift"
+    },
+    "Turn off app lock": {
+      "en": "Turn off app lock",
+      "where": "Services/AppLock.swift"
+    },
+    "Turn on app lock": {
+      "en": "Turn on app lock",
+      "where": "Services/AppLock.swift"
+    },
+    "Unfavorite": {
+      "en": "Unfavorite",
+      "where": "Views/Library/LibraryView.swift"
+    },
+    "Unlimited OCR, signatures, no watermark": {
+      "en": "Unlimited OCR, signatures, no watermark",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Unlimited Text Recognition": {
+      "en": "Unlimited Text Recognition",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "Unlock Scanlet Pro": {
+      "en": "Unlock Scanlet Pro",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "Unlock with %@": {
+      "en": "Unlock with %@",
+      "where": "App/RootView.swift"
+    },
+    "Unlock your documents": {
+      "en": "Unlock your documents",
+      "where": "Services/AppLock.swift"
+    },
+    "Upgrade to Scanlet Pro": {
+      "en": "Upgrade to Scanlet Pro",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "Upgrade to Scanlet Pro for unlimited text recognition, searchable PDFs and more.": {
+      "en": "Upgrade to Scanlet Pro for unlimited text recognition, searchable PDFs and more.",
+      "where": "Views/Document/RecognizedTextView.swift"
+    },
+    "US Legal": {
+      "en": "US Legal",
+      "where": "Models/PageFilter.swift"
+    },
+    "US Letter": {
+      "en": "US Letter",
+      "where": "Models/PageFilter.swift"
+    },
+    "Version": {
+      "en": "Version",
+      "where": "Views/Settings/SettingsView.swift"
+    },
+    "View": {
+      "en": "View",
+      "where": "Views/Signature/SignaturePadView.swift"
+    },
+    "Vivid": {
+      "en": "Vivid",
+      "where": "Models/PageFilter.swift"
+    },
+    "Vivid colors": {
+      "en": "Vivid colors",
+      "where": "Models/PageFilter.swift"
+    },
+    "week": {
+      "en": "week",
+      "where": "Views/Paywall/PaywallView.swift"
+    },
+    "weeks": {
+      "en": "weeks",
+      "where": "Services/SubscriptionStore.swift"
+    },
+    "year": {
+      "en": "year",
+      "where": "Models/ScanDocument.swift"
+    },
+    "years": {
+      "en": "years",
+      "where": "Services/SubscriptionStore.swift"
+    },
+    "Your documents are protected.": {
+      "en": "Your documents are protected.",
+      "where": "App/RootView.swift"
+    },
+    "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": {
+      "en": "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.",
+      "where": "Views/Paywall/PaywallView.swift"
+    }
+  },
+  "infoPlist": {
+    "NSCameraUsageDescription": "Scanlet uses the camera to scan your documents.",
+    "NSFaceIDUsageDescription": "Scanlet uses Face ID to keep your documents private.",
+    "CFBundleDisplayName": "Scanlet"
+  }
+}

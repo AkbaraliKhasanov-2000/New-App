@@ -84,6 +84,18 @@ jobs:
           xcrun simctl launch "$UDID" com.scanlet.app $COMMON -AppleLanguages "(uz)" -AppleLocale uz_UZ
           shot 07-library-uzbek 10
 
+          # German is one of the longest UI languages: check nothing wraps or truncates.
+          xcrun simctl ui "$UDID" appearance light
+          DE='-AppleLanguages (de) -AppleLocale de_DE'
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON $DE
+          shot 08-library-german 10
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON $DE -demoScreen detail
+          shot 09-document-german 10
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON $DE -demoScreen paywall
+          shot 10-paywall-german 10
+          xcrun simctl launch "$UDID" com.scanlet.app $COMMON $DE -demoScreen settings
+          shot 11-settings-german 8
+
           # Crash check: fail if the app produced crash reports.
           ls ~/Library/Logs/DiagnosticReports/ 2>/dev/null | grep -i scanlet && exit 1 || echo "No crashes"
 

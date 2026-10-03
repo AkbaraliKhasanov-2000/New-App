@@ -374,6 +374,8 @@ struct LibraryView: View {
                 Button(action: startScan) {
                     Label("Scan Document", systemImage: "doc.viewfinder")
                         .font(.headline)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.75)
                         .padding(.horizontal, 12)
                         .padding(.vertical, 8)
                 }

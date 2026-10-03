@@ -200,6 +200,8 @@ struct PaywallView: View {
                         ProgressView().tint(.white)
                     } else {
                         Text(ctaTitle)
+                            .lineLimit(1)
+                            .minimumScaleFactor(0.75)
                     }
                 }
                 .font(.headline)
@@ -367,9 +369,13 @@ private struct PlanCard: View {
                     HStack(spacing: 8) {
                         Text(product.displayName)
                             .font(.headline)
+                            .lineLimit(1)
+                            .minimumScaleFactor(0.8)
                         if let badge {
                             Text(badge)
                                 .font(.caption2.weight(.heavy))
+                                .lineLimit(1)
+                                .fixedSize()
                                 .foregroundStyle(.white)
                                 .padding(.horizontal, 7)
                                 .padding(.vertical, 3)

@@ -1,0 +1,39 @@
+Scanlet turns your iPhone into a fast, private PDF scanner. Scan documents, receipts, IDs, contracts and handwritten notes, recognize text with on-device OCR, and share clean, searchable PDFs in seconds.
+
+SCAN LIKE A PRO
+• Automatic edge detection, perspective correction and multi-page capture
+• Smart filters: Auto, Vivid, Grayscale and Black & White remove shadows and sharpen text
+• Import photos and PDFs from Photos and Files — documents in photos are cropped automatically
+• Manual crop with four-corner adjustment, rotate, reorder and delete pages
+
+IMAGE TO TEXT (OCR)
+• Recognize printed text in dozens of languages, right on your iPhone
+• Copy, share or translate recognized text
+• Search inside every scan from the library
+• Create searchable PDFs you can select and search in any PDF app
+
+SIGN & PROTECT
+• Draw your signature once and place it on any page
+• Lock PDFs with a password before sharing
+• Protect the whole app with Face ID
+
+ORGANIZE & SHARE
+• Folders, favorites, sorting, grid and list views
+• Merge several scans into one document
+• Export as PDF, JPG or text; choose A4, US Letter or fit-to-image paper size
+• Share by Mail, Messages, AirDrop, save to Files or print
+
+PRIVATE BY DESIGN
+Scanlet has no account and no cloud. Your documents and recognized text stay on your device.
+
+Works with Siri and Shortcuts: say “Scan a document with Scanlet”.
+
+SCANLET PRO
+Unlock unlimited text recognition, searchable PDFs, signatures, password-protected PDFs, Face ID lock and watermark-free exports.
+• Weekly plan with a 3-day free trial, or a monthly plan
+• Payment is charged to your Apple Account at confirmation of purchase (after the free trial, if one is offered)
+• Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period
+• Manage or cancel anytime in your Apple Account settings
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://akbaralikhasanov-2000.github.io/New-App/privacy.html

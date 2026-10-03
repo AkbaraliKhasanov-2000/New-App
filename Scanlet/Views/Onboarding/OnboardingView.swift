@@ -58,6 +58,8 @@ struct OnboardingView: View {
                 } label: {
                     Text(index < pages.count - 1 ? LocalizedStringKey("Continue") : LocalizedStringKey("Get Started"))
                         .font(.headline)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.75)
                         .frame(maxWidth: .infinity)
                         .padding(.vertical, 8)
                 }

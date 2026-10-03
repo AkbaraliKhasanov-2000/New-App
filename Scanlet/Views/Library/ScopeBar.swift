@@ -40,6 +40,7 @@ struct ScopeBar: View {
                     .font(.caption.weight(.semibold))
                 title
                     .lineLimit(1)
+                    .minimumScaleFactor(0.85)
             }
             .font(.subheadline.weight(.semibold))
             .padding(.horizontal, 14)

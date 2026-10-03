@@ -111,6 +111,8 @@ struct LockScreenView: View {
                 } label: {
                     Label("Unlock with \(AppLock.biometryName)", systemImage: AppLock.biometrySymbol)
                         .font(.headline)
+                        .lineLimit(1)
+                        .minimumScaleFactor(0.75)
                         .padding(.horizontal, 8)
                         .padding(.vertical, 6)
                 }

@@ -7,7 +7,7 @@ options:
   developmentLanguage: en
   createIntermediateGroups: true
   useBaseInternationalization: false
-knownRegions: [en, ru, uz, Base]
+knownRegions: [en, Base, ru, uz, de, fr, es, it, pt-PT, pt-BR, nl, pl, uk, tr, sv, da, nb, fi, cs, sk, ro, hu, el, hr]
 
 settings:
   base:

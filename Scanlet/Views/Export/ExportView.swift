@@ -81,6 +81,8 @@ struct ExportView: View {
                         }
                     }
                     .font(.headline)
+                    .lineLimit(1)
+                    .minimumScaleFactor(0.75)
                     .frame(maxWidth: .infinity)
                     .padding(.vertical, 6)
                 }
