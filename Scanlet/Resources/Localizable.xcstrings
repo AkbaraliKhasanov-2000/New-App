@@ -172,7 +172,7 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "%@ ilmaiseksi"
+            "value": "%@ maksutta"
           }
         },
         "fr": {
@@ -2022,7 +2022,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Info"
+            "value": "Información"
           }
         },
         "fi": {
@@ -2170,7 +2170,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ajouter page"
+            "value": "Nouvelle page"
           }
         },
         "hr": {
@@ -2212,13 +2212,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Inserir página"
+            "value": "Nova página"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Inserir página"
+            "value": "Nova página"
           }
         },
         "ro": {
@@ -2306,7 +2306,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ajouter pages"
+            "value": "Nouvelles pages"
           }
         },
         "hr": {
@@ -2324,7 +2324,7 @@
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Aggiungi pagine"
+            "value": "Nuove pagine"
           }
         },
         "nb": {
@@ -2348,13 +2348,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Inserir páginas"
+            "value": "Novas páginas"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Inserir páginas"
+            "value": "Novas páginas"
           }
         },
         "ro": {
@@ -2366,7 +2366,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Добавить стр."
+            "value": "Добавить"
           }
         },
         "sk": {
@@ -2696,7 +2696,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Προσθέστε υπογραφή, κλειδώστε PDF με συνθηματικό και μοιραστείτε τα. Τα έγγραφα δεν φεύγουν από τη συσκευή σας."
+            "value": "Προσθέστε υπογραφή, κλειδώστε PDF με συνθηματικό και μοιραστείτε τα παντού. Τα έγγραφα δεν φεύγουν από τη συσκευή σας."
           }
         },
         "es": {
@@ -2974,7 +2974,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Todos los docs"
+            "value": "Todos los documentos"
           }
         },
         "fi": {
@@ -3630,7 +3630,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Rozpoznat"
+            "value": "Autodetekce"
           }
         },
         "da": {
@@ -3654,7 +3654,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Detectar"
+            "value": "Autodetectar"
           }
         },
         "fi": {
@@ -3672,19 +3672,19 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Automatski"
+            "value": "Autodetekcija"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Automatikus"
+            "value": "Szélek észlelése"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Rilevamento auto"
+            "value": "Autorilevamento"
           }
         },
         "nb": {
@@ -3702,25 +3702,25 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Wykryj"
+            "value": "Autowykrywanie"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Detectar"
+            "value": "Autodetectar"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Detetar"
+            "value": "Deteção automática"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Detectare auto"
+            "value": "Autodetectare"
           }
         },
         "ru": {
@@ -3732,7 +3732,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Rozpoznať"
+            "value": "Autodetekcia"
           }
         },
         "sv": {
@@ -3766,7 +3766,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ořezávat importované fotky"
+            "value": "Automaticky ořezávat importy"
           }
         },
         "da": {
@@ -3796,7 +3796,7 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tuotujen kuvien autorajaus"
+            "value": "Rajaa tuodut kuvat automaattisesti"
           }
         },
         "fr": {
@@ -3808,19 +3808,19 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Obreži uvezene fotografije"
+            "value": "Automatski obreži uvezene slike"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Importált fotók autom. vágása"
+            "value": "Importált fotók automatikus vágása"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ritaglia auto le foto importate"
+            "value": "Ritaglio automatico foto importate"
           }
         },
         "nb": {
@@ -3838,7 +3838,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kadruj importowane zdjęcia"
+            "value": "Autokadrowanie zdjęć z importu"
           }
         },
         "pt-BR": {
@@ -3856,7 +3856,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Decupare auto a pozelor importate"
+            "value": "Decupare automată la import"
           }
         },
         "ru": {
@@ -3868,7 +3868,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Orezávať importované fotky"
+            "value": "Automaticky orezávať importy"
           }
         },
         "sv": {
@@ -3886,7 +3886,7 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Автообрізання імпорт. фото"
+            "value": "Автообрізання імпортованих фото"
           }
         },
         "uz": {
@@ -4358,7 +4358,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "FF"
+            "value": "Fekete-fehér"
           }
         },
         "it": {
@@ -4382,7 +4382,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Cz-b"
+            "value": "Czarno-białe"
           }
         },
         "pt-BR": {
@@ -4476,7 +4476,7 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tasapaino"
+            "value": "Tasapainoinen"
           }
         },
         "fr": {
@@ -4494,7 +4494,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Közepes"
+            "value": "Optimális"
           }
         },
         "it": {
@@ -5150,7 +5150,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Abajo izquierda"
+            "value": "Abajo a la izquierda"
           }
         },
         "fi": {
@@ -5286,7 +5286,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Abajo derecha"
+            "value": "Abajo a la derecha"
           }
         },
         "fi": {
@@ -5576,7 +5576,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Poništi"
+            "value": "Odustani"
           }
         },
         "hu": {
@@ -5830,7 +5830,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Exporta limpio y profesional."
+            "value": "Exportaciones limpias y profesionales."
           }
         },
         "fi": {
@@ -5878,7 +5878,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Czyste, profesjonalne pliki."
+            "value": "Czyste, profesjonalne eksporty."
           }
         },
         "pt-BR": {
@@ -6232,13 +6232,13 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Υποστήριξη"
+            "value": "Επικοινωνία"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Contactar soporte"
+            "value": "Contactar con soporte"
           }
         },
         "fi": {
@@ -6262,7 +6262,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Támogatás"
+            "value": "Írj a támogatásnak"
           }
         },
         "it": {
@@ -6298,7 +6298,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Contactar suporte"
+            "value": "Contactar o suporte"
           }
         },
         "ro": {
@@ -6334,7 +6334,7 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Підтримка"
+            "value": "Написати в підтримку"
           }
         },
         "uz": {
@@ -6534,7 +6534,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Másold mindet"
+            "value": "Másolás"
           }
         },
         "it": {
@@ -6582,7 +6582,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Всё в буфер"
+            "value": "Скопировать"
           }
         },
         "sk": {
@@ -6612,7 +6612,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "To‘liq nusxa"
+            "value": "Nusxa olish"
           }
         }
       }
@@ -6712,7 +6712,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Copiază, traduce și partajează textul din orice pagină."
+            "value": "Copiază, tradu și partajează textul din orice pagină."
           }
         },
         "ru": {
@@ -6742,7 +6742,7 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Копіюйте, перекладайте й поширюйте текст зі сторінок."
+            "value": "Копіюйте, перекладайте й поширюйте текст з будь-якої сторінки."
           }
         },
         "uz": {
@@ -6942,7 +6942,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kereshető PDF-ek"
+            "value": "Készíts kereshető PDF-eket"
           }
         },
         "it": {
@@ -7144,13 +7144,13 @@
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kırpma"
+            "value": "Kırp"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Обрізання"
+            "value": "Обрізати"
           }
         },
         "uz": {
@@ -7226,7 +7226,7 @@
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Opprettet"
+            "value": "Opprettelsesdato"
           }
         },
         "nl": {
@@ -7362,7 +7362,7 @@
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Endret"
+            "value": "Endringsdato"
           }
         },
         "nl": {
@@ -7592,13 +7592,13 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Προεπιλ. φίλτρο"
+            "value": "Προεπιλεγμένο φίλτρο"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Filtro por omisión"
+            "value": "Filtro predeterminado"
           }
         },
         "fi": {
@@ -7622,7 +7622,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Alapszűrő"
+            "value": "Alapértelmezett szűrő"
           }
         },
         "it": {
@@ -7694,7 +7694,7 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Стандарт. фільтр"
+            "value": "Фільтр за замовчуванням"
           }
         },
         "uz": {
@@ -8508,7 +8508,7 @@
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Slet dokument?"
+            "value": "Slet dokumentet?"
           }
         },
         "de": {
@@ -8610,7 +8610,7 @@
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Radera dokument?"
+            "value": "Radera dokumentet?"
           }
         },
         "tr": {
@@ -8780,7 +8780,7 @@
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Slet mappe?"
+            "value": "Slet mappen?"
           }
         },
         "de": {
@@ -8882,7 +8882,7 @@
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Radera mapp?"
+            "value": "Radera mappen?"
           }
         },
         "tr": {
@@ -9036,7 +9036,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sahifa o‘chirish"
+            "value": "Sahifani o‘chirish"
           }
         }
       }
@@ -9052,7 +9052,7 @@
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Slet side?"
+            "value": "Slet siden?"
           }
         },
         "de": {
@@ -9154,7 +9154,7 @@
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Radera sida?"
+            "value": "Radera sidan?"
           }
         },
         "tr": {
@@ -9218,7 +9218,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tout décocher"
+            "value": "Tout désélectionner"
           }
         },
         "hr": {
@@ -9614,7 +9614,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Los documentos de esta carpeta se moverán a Todos los docs."
+            "value": "Los documentos de esta carpeta se moverán a Todos los documentos."
           }
         },
         "fi": {
@@ -9958,7 +9958,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Коснитесь дважды для правки."
+            "value": "Коснитесь дважды, чтобы изменить."
           }
         },
         "sk": {
@@ -10004,7 +10004,7 @@
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Træk for at flytte. Knib for størrelse."
+            "value": "Træk for at flytte. Knib for at skalere."
           }
         },
         "de": {
@@ -10016,7 +10016,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Σύρετε: μετακίνηση. Τσίμπημα: μέγεθος."
+            "value": "Σύρετε ή τσιμπήστε για προσαρμογή."
           }
         },
         "es": {
@@ -10034,7 +10034,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Glissez pour déplacer. Pincez : taille."
+            "value": "Glissez ou pincez pour ajuster."
           }
         },
         "hr": {
@@ -10052,7 +10052,7 @@
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Trascina: sposta. Pizzica: dimensione."
+            "value": "Trascina o pizzica per regolarla."
           }
         },
         "nb": {
@@ -10088,13 +10088,13 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Trage: mută. Ciupește: redimensionează."
+            "value": "Trage sau ciupește pentru a ajusta."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Перетащите для сдвига. Щипок — размер."
+            "value": "Перетащите или измените размер щипком."
           }
         },
         "sk": {
@@ -10106,13 +10106,13 @@
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Dra för att flytta, nyp för storlek."
+            "value": "Dra för att flytta. Nyp för att skala."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sürükle: taşı. Kıstır: boyutlandır."
+            "value": "Sürükleyerek veya kıstırarak ayarlayın."
           }
         },
         "uk": {
@@ -10176,7 +10176,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nacrtajte jednom, umetnite potpis u sekundi."
+            "value": "Nacrtajte jednom, umetnite potpis u nekoliko sekundi."
           }
         },
         "hu": {
@@ -10774,7 +10774,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Изменить стр."
+            "value": "Правка страницы"
           }
         },
         "sk": {
@@ -10798,7 +10798,7 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Редагувати"
+            "value": "Правка сторінки"
           }
         },
         "uz": {
@@ -11252,7 +11252,7 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vie"
+            "value": "Vienti"
           }
         },
         "fr": {
@@ -12074,7 +12074,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Verrou Face ID"
+            "value": "Verrouillage Face ID"
           }
         },
         "hr": {
@@ -12134,7 +12134,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Защита Face ID"
+            "value": "Блокировка Face ID"
           }
         },
         "sk": {
@@ -12174,7 +12174,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Oblíbené"
+            "value": "Oblíbený"
           }
         },
         "da": {
@@ -12276,7 +12276,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Obľúbené"
+            "value": "Obľúbený"
           }
         },
         "sv": {
@@ -12600,7 +12600,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Βάσει εικόνας"
+            "value": "Προσαρμογή σε εικόνα"
           }
         },
         "es": {
@@ -12630,7 +12630,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kép mérete"
+            "value": "Képhez igazítás"
           }
         },
         "it": {
@@ -12642,7 +12642,7 @@
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tilpass bildet"
+            "value": "Tilpass til bilde"
           }
         },
         "nl": {
@@ -12654,7 +12654,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Do obrazu"
+            "value": "Dopasuj do obrazu"
           }
         },
         "pt-BR": {
@@ -13014,7 +13014,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Las exportaciones gratis llevan un pequeño pie."
+            "value": "Exportar gratis añade un pequeño pie de página."
           }
         },
         "fi": {
@@ -13044,7 +13044,7 @@
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Export gratuiti con un piccolo piè di pagina."
+            "value": "Gli export gratis hanno un piccolo piè di pagina."
           }
         },
         "nb": {
@@ -13688,7 +13688,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Αναβάθμιση"
+            "value": "Απόκτηση Pro"
           }
         },
         "es": {
@@ -13766,7 +13766,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Pro"
+            "value": "Получить Pro"
           }
         },
         "sk": {
@@ -13796,7 +13796,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Pro"
+            "value": "Pro olish"
           }
         }
       }
@@ -13830,7 +13830,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Grises"
+            "value": "Tonos de gris"
           }
         },
         "fi": {
@@ -17314,7 +17314,7 @@
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Inget aktivt Scanlet Pro-abonnemang hittades för det här Apple-kontot."
+            "value": "Ingen aktiv Scanlet Pro-prenumeration hittades för det här Apple-kontot."
           }
         },
         "tr": {
@@ -17420,13 +17420,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nenhum documento"
+            "value": "Nenhum documento ainda"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sem documentos"
+            "value": "Ainda sem documentos"
           }
         },
         "ro": {
@@ -17750,7 +17750,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Žádný text"
+            "value": "Text nebyl nalezen"
           }
         },
         "da": {
@@ -17774,7 +17774,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sin texto"
+            "value": "No se encontró texto"
           }
         },
         "fi": {
@@ -17792,7 +17792,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nema teksta"
+            "value": "Tekst nije pronađen"
           }
         },
         "hu": {
@@ -17828,13 +17828,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nenhum texto"
+            "value": "Texto não encontrado"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sem texto"
+            "value": "Texto não encontrado"
           }
         },
         "ro": {
@@ -17852,7 +17852,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Žiadny text"
+            "value": "Text sa nenašiel"
           }
         },
         "sv": {
@@ -18478,7 +18478,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Beállítások"
+            "value": "Opciók"
           }
         },
         "it": {
@@ -18686,13 +18686,13 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Упорядкувати"
+            "value": "Упорядкувати сторінки"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sahifa tartibi"
+            "value": "Sahifalarni tartiblash"
           }
         }
       }
@@ -19460,13 +19460,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tam. da página"
+            "value": "Tamanho"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tam. da página"
+            "value": "Tamanho"
           }
         },
         "ro": {
@@ -19874,7 +19874,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Palavra-passe do PDF"
+            "value": "Proteção com palavra-passe"
           }
         },
         "ro": {
@@ -19968,7 +19968,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "PDF zaštićen lozinkom"
+            "value": "PDF-ovi zaštićeni lozinkom"
           }
         },
         "hu": {
@@ -20442,7 +20442,7 @@
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Abonnemang är inte tillgängliga just nu."
+            "value": "Prenumerationer är inte tillgängliga nu."
           }
         },
         "tr": {
@@ -20578,7 +20578,7 @@
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Abonnemang är inte tillgängliga just nu. Kontrollera anslutningen och försök igen."
+            "value": "Prenumerationer är inte tillgängliga nu. Kontrollera anslutningen och försök igen."
           }
         },
         "tr": {
@@ -20696,7 +20696,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Intimitate"
+            "value": "Date private"
           }
         },
         "ru": {
@@ -20766,7 +20766,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Pol. de privacidad"
+            "value": "Política de privacidad"
           }
         },
         "fi": {
@@ -20820,13 +20820,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Pol. de privacidade"
+            "value": "Política de privacidade"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Pol. de privacidade"
+            "value": "Política de privacidade"
           }
         },
         "ro": {
@@ -20844,7 +20844,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ochrana súkromia"
+            "value": "Zásady ochrany súkromia"
           }
         },
         "sv": {
@@ -22664,7 +22664,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Αφαίρεση «Σάρωση με Scanlet»"
+            "value": "Αφαίρεση «Σαρώθηκε με Scanlet»"
           }
         },
         "es": {
@@ -22742,7 +22742,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Убрать «Scanned with Scanlet»"
+            "value": "Убрать «Отсканировано в Scanlet»"
           }
         },
         "sk": {
@@ -22866,7 +22866,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mudar nome"
+            "value": "Mudar o nome"
           }
         },
         "ro": {
@@ -22908,7 +22908,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nomlash"
+            "value": "Qayta nomlash"
           }
         }
       }
@@ -22978,7 +22978,7 @@
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nytt dokumentnavn"
+            "value": "Endre dokumentnavn"
           }
         },
         "nl": {
@@ -23002,7 +23002,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mudar nome"
+            "value": "Mudar o nome"
           }
         },
         "ro": {
@@ -23014,7 +23014,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Переименовать файл"
+            "value": "Переименовать"
           }
         },
         "sk": {
@@ -23044,7 +23044,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Hujjatni nomlash"
+            "value": "Qayta nomlash"
           }
         }
       }
@@ -23138,7 +23138,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mudar nome da pasta"
+            "value": "Mudar o nome da pasta"
           }
         },
         "ro": {
@@ -23180,7 +23180,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Jildni nomlash"
+            "value": "Jildni qayta nomlash"
           }
         }
       }
@@ -23274,7 +23274,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mudar nome da pasta…"
+            "value": "Mudar o nome da pasta…"
           }
         },
         "ro": {
@@ -23316,7 +23316,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Jildni nomlash…"
+            "value": "Jildni qayta nomlash…"
           }
         }
       }
@@ -23474,7 +23474,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Abruf fehlgeschlagen"
+            "value": "Nicht wiederhergestellt"
           }
         },
         "el": {
@@ -23522,7 +23522,7 @@
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Gjenopprettingsfeil"
+            "value": "Kunne ikke gjenopprette"
           }
         },
         "nl": {
@@ -23746,7 +23746,7 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Wird abgerufen …"
+            "value": "Wird geladen …"
           }
         },
         "el": {
@@ -23894,7 +23894,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Girar a la izq."
+            "value": "Girar a izquierda"
           }
         },
         "fi": {
@@ -24030,7 +24030,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Girar a la dcha."
+            "value": "Girar a derecha"
           }
         },
         "fi": {
@@ -24450,7 +24450,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Signature mémorisée"
+            "value": "Signature enregistrée"
           }
         },
         "hr": {
@@ -24628,7 +24628,7 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Escanear"
+            "value": "Documento"
           }
         },
         "pt-PT": {
@@ -24716,13 +24716,13 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skannaa %@"
+            "value": "Skannaus %@"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Numériser %@"
+            "value": "Scan %@"
           }
         },
         "hr": {
@@ -24740,13 +24740,13 @@
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scansiona %@"
+            "value": "Scansione %@"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skann %@"
+            "value": "Skanning %@"
           }
         },
         "nl": {
@@ -24776,7 +24776,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanează %@"
+            "value": "Scanare %@"
           }
         },
         "ru": {
@@ -24864,7 +24864,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skenirajte sve u sekundi"
+            "value": "Skenirajte sve u nekoliko sekundi"
           }
         },
         "hu": {
@@ -24894,7 +24894,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skanuj wszystko w sekundy"
+            "value": "Skanuj wszystko w kilka sekund"
           }
         },
         "pt-BR": {
@@ -24994,7 +24994,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanner un document"
+            "value": "Numériser un document"
           }
         },
         "hr": {
@@ -25042,7 +25042,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nova digitalização"
+            "value": "Digitalizar documento"
           }
         },
         "ro": {
@@ -25266,7 +25266,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scan de pages"
+            "value": "Numériser"
           }
         },
         "hr": {
@@ -25326,7 +25326,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Скан страниц"
+            "value": "Сканировать"
           }
         },
         "sk": {
@@ -25356,7 +25356,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Varaq skanerlash"
+            "value": "Skanerlash"
           }
         }
       }
@@ -25580,13 +25580,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Escaneie seu 1º documento"
+            "value": "Escaneie seu primeiro documento"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Digitalize o 1.º documento"
+            "value": "Digitalize o primeiro documento"
           }
         },
         "ro": {
@@ -26000,7 +26000,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet citește textul direct pe iPhone. Caută în fiecare scanare, copiază, traduce și creează PDF-uri căutabile."
+            "value": "Scanlet citește textul direct pe iPhone. Caută în fiecare scanare, copiază, tradu și creează PDF-uri căutabile."
           }
         },
         "ru": {
@@ -26200,7 +26200,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Σάρωση με Scanlet"
+            "value": "Σαρώθηκε με Scanlet"
           }
         },
         "es": {
@@ -27170,7 +27170,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tout cocher"
+            "value": "Tout choisir"
           }
         },
         "hr": {
@@ -27484,7 +27484,7 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Enviar"
+            "value": "Compartilhar"
           }
         },
         "pt-PT": {
@@ -27620,7 +27620,7 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Enviar página"
+            "value": "Compartilhar"
           }
         },
         "pt-PT": {
@@ -27638,7 +27638,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Поделиться стр."
+            "value": "Поделиться"
           }
         },
         "sk": {
@@ -27750,13 +27750,13 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Poleć Scanlet"
+            "value": "Udostępnij Scanlet"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Indicar o Scanlet"
+            "value": "Compartilhar Scanlet"
           }
         },
         "pt-PT": {
@@ -27838,7 +27838,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Comparte archivos sensibles a salvo."
+            "value": "Comparte archivos sensibles sin riesgos."
           }
         },
         "fi": {
@@ -27862,7 +27862,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Küldj bizalmas fájlokat biztonságosan."
+            "value": "Bizalmas fájlok biztonságos megosztása."
           }
         },
         "it": {
@@ -27892,7 +27892,7 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Envie arquivos privados com segurança."
+            "value": "Compartilhe dados sensíveis sem riscos."
           }
         },
         "pt-PT": {
@@ -27980,7 +27980,7 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Signeeraa"
+            "value": "Allekirjoita"
           }
         },
         "fr": {
@@ -28086,7 +28086,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Podepisování"
+            "value": "Podepisování dokumentů"
           }
         },
         "da": {
@@ -28116,7 +28116,7 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Signeeraa dokumentit"
+            "value": "Allekirjoita dokumentit"
           }
         },
         "fr": {
@@ -28128,7 +28128,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Potpisivanje"
+            "value": "Potpisivanje dokumenata"
           }
         },
         "hu": {
@@ -28188,7 +28188,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Podpisovanie"
+            "value": "Podpisovanie dokumentov"
           }
         },
         "sv": {
@@ -28222,7 +28222,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Podepisujte dokumenty hned"
+            "value": "Podepisujte dokumenty okamžitě"
           }
         },
         "da": {
@@ -28252,13 +28252,13 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Allekirjoita hetkessä"
+            "value": "Allekirjoita dokumentit hetkessä"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Signez vos docs en un instant"
+            "value": "Signez vos documents en un éclair"
           }
         },
         "hr": {
@@ -28282,7 +28282,7 @@
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Signer dokumenter på sekunder"
+            "value": "Signer dokumenter umiddelbart"
           }
         },
         "nl": {
@@ -28324,7 +28324,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Podpisujte dokumenty hneď"
+            "value": "Podpisujte dokumenty okamžite"
           }
         },
         "sv": {
@@ -28460,7 +28460,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Podpíšte sa"
+            "value": "Podpíšte sa sem"
           }
         },
         "sv": {
@@ -28584,7 +28584,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Semnezi, protejezi, partajezi"
+            "value": "Semnează, protejează, partajează"
           }
         },
         "ru": {
@@ -28844,13 +28844,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tam. da assinatura"
+            "value": "Tamanho da assinatura"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tam. da assinatura"
+            "value": "Tamanho da assinatura"
           }
         },
         "ro": {
@@ -29068,7 +29068,7 @@
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Signeerataan…"
+            "value": "Käsitellään…"
           }
         },
         "fr": {
@@ -29654,7 +29654,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sortuj wg"
+            "value": "Sortowanie"
           }
         },
         "pt-BR": {
@@ -29814,7 +29814,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Начать бесплатно"
+            "value": "Попробовать бесплатно"
           }
         },
         "sk": {
@@ -30026,7 +30026,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Conditions d’usage"
+            "value": "Conditions générales"
           }
         },
         "hr": {
@@ -30038,7 +30038,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Licencfeltételek"
+            "value": "Feltételek"
           }
         },
         "it": {
@@ -30086,7 +30086,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Условия сервиса"
+            "value": "Условия пользования"
           }
         },
         "sk": {
@@ -30434,7 +30434,7 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Reconnaissance texte"
+            "value": "Détection de texte"
           }
         },
         "hr": {
@@ -30488,7 +30488,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Recunoaștere text"
+            "value": "Recunoașterea textului"
           }
         },
         "ru": {
@@ -31144,7 +31144,7 @@
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Niet ongedaan te maken."
+            "value": "Dit is onomkeerbaar."
           }
         },
         "pl": {
@@ -31374,7 +31374,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Arriba izquierda"
+            "value": "Arriba a la izquierda"
           }
         },
         "fi": {
@@ -31510,7 +31510,7 @@
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Arriba derecha"
+            "value": "Arriba a la derecha"
           }
         },
         "fi": {
@@ -31712,7 +31712,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Traduce"
+            "value": "Tradu"
           }
         },
         "ru": {
@@ -31912,7 +31912,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Δοκιμή ξανά"
+            "value": "Δοκιμάστε ξανά"
           }
         },
         "es": {
@@ -31942,7 +31942,7 @@
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Újra"
+            "value": "Próbáld újra"
           }
         },
         "it": {
@@ -32108,13 +32108,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Imagens em texto"
+            "value": "Transforme imagens em texto"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Imagens em texto"
+            "value": "Transforme imagens em texto"
           }
         },
         "ro": {
@@ -32166,7 +32166,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vypnout zámek"
+            "value": "Vypnout zámek aplikace"
           }
         },
         "da": {
@@ -32268,7 +32268,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vypnúť zámok"
+            "value": "Vypnúť zámok aplikácie"
           }
         },
         "sv": {
@@ -32302,7 +32302,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zapnout zámek"
+            "value": "Zapnout zámek aplikace"
           }
         },
         "da": {
@@ -32404,7 +32404,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zapnúť zámok"
+            "value": "Zapnúť zámok aplikácie"
           }
         },
         "sv": {
@@ -32438,7 +32438,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odebrat"
+            "value": "Zrušit oblíbení"
           }
         },
         "da": {
@@ -32480,7 +32480,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ukloni"
+            "value": "Ukloni omiljeno"
           }
         },
         "hu": {
@@ -32510,7 +32510,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Usuń z ulub."
+            "value": "Usuń gwiazdkę"
           }
         },
         "pt-BR": {
@@ -32534,13 +32534,13 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Убрать"
+            "value": "Из избранного"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odobrať"
+            "value": "Zrušiť obľúbenie"
           }
         },
         "sv": {
@@ -32564,7 +32564,7 @@
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Olib tashlash"
+            "value": "Sevimlidan olish"
           }
         }
       }
@@ -32586,13 +32586,13 @@
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Unbegrenzt OCR, Signaturen, ohne Wasserzeichen"
+            "value": "Unbegrenzte OCR, Signaturen, ohne Wasserzeichen"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Απεριόριστο OCR, υπογραφές, χωρίς σήμα"
+            "value": "Απεριόριστο OCR, υπογραφές, χωρίς υδατογράφημα"
           }
         },
         "es": {
@@ -32640,13 +32640,13 @@
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Onbeperkt OCR, handtekeningen, geen watermerk"
+            "value": "Onbeperkte OCR, handtekeningen, geen watermerk"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bez limitu OCR, podpisy, bez znaku wodnego"
+            "value": "Nielimitowany OCR, podpisy, bez znaku wodnego"
           }
         },
         "pt-BR": {
@@ -32694,7 +32694,7 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Необмежений OCR, підписи, без знака"
+            "value": "Необмежений OCR, підписи, без водяного знака"
           }
         },
         "uz": {
@@ -32752,7 +32752,7 @@
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Neograničeno prepoznavanje"
+            "value": "Neograničeno prepoznavanje teksta"
           }
         },
         "hu": {
@@ -32782,7 +32782,7 @@
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Rozpoznawanie bez limitu"
+            "value": "Rozpoznawanie tekstu bez limitu"
           }
         },
         "pt-BR": {
@@ -32800,7 +32800,7 @@
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Recunoaștere text nelimitată"
+            "value": "Recunoaștere nelimitată a textului"
           }
         },
         "ru": {
@@ -32812,7 +32812,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Neobmedzené rozpoznávanie"
+            "value": "Neobmedzené rozpoznávanie textu"
           }
         },
         "sv": {
@@ -32830,7 +32830,7 @@
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Необмежене розпізнавання"
+            "value": "Необмежене розпізнавання тексту"
           }
         },
         "uz": {
@@ -32982,7 +32982,7 @@
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odemknout: %@"
+            "value": "Odemknout pomocí %@"
           }
         },
         "da": {
@@ -33018,13 +33018,13 @@
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Débloquer avec %@"
+            "value": "Déverrouiller par %@"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Otključaj: %@"
+            "value": "Otključaj pomoću %@"
           }
         },
         "hu": {
@@ -33084,7 +33084,7 @@
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odomknúť: %@"
+            "value": "Odomknúť pomocou %@"
           }
         },
         "sv": {
@@ -33338,7 +33338,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passe para Scanlet Pro"
+            "value": "Passar para o Scanlet Pro"
           }
         },
         "ro": {
@@ -33474,7 +33474,7 @@
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passe para Scanlet Pro para ter reconhecimento ilimitado de texto, PDF pesquisáveis e mais."
+            "value": "Passe para o Scanlet Pro para ter reconhecimento ilimitado de texto, PDF pesquisáveis e mais."
           }
         },
         "ro": {
@@ -34012,13 +34012,13 @@
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Visualizar"
+            "value": "Visualização"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vista"
+            "value": "Visualização"
           }
         },
         "ro": {
@@ -34124,7 +34124,7 @@
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vivido"
+            "value": "Vivace"
           }
         },
         "nb": {
@@ -34166,7 +34166,7 @@
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ярко"
+            "value": "Яркий"
           }
         },
         "sk": {
