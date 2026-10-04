@@ -213,6 +213,27 @@ LOCALES: dict[str, dict] = {
             "(D64), kassenbon scanner app L3 (D25), unterschrift erstellen L3 (D29), scan to pdf L4, pdf "
             "unterschreiben L5 (D30), pdf zu bild L5, pdf in jpg umwandeln L5 (D39), unterschrift pdf L6 (D41).",
     ),
+    "fr-FR": dict(
+        markets="FR (+US, BE, CH)",
+        name="{brand}: Scanner PDF Document",
+        subtitle="Scan, OCR, Signature & Texte",
+        keywords="numériser,image,photo,jpg,fichier,doc,reçu,facture,identité,carte,convertisseur,traduire,caméra",
+        promo="Numérisez vos documents en PDF en quelques secondes, reconnaissez le texte par OCR sur l'iPhone "
+              "et signez. Sans compte ni cloud.",
+        why="FR autocomplete: scanner pdf L2 (D74), scan L2, ocr scanner L3 (D68), signature pdf L3 (D36), "
+            "scanner L3, scan document L4 (D69), scan pdf L4, pdf jpg L5, scan texte L6 (D52), scan fichier L6 "
+            "(D29), scan signature L6 (D45), image en texte L8 (D42). 'gratuit' terms excluded (pricing, 2.3.7).",
+    ),
+    "fr-CA": dict(
+        markets="CA (with en-CA)",
+        name="{brand}: Numériser Documents",
+        subtitle="Scanneur PDF, OCR et signature",
+        keywords="texte,image,photo,reçu,facture,carte,jpg,convertisseur,traduire,caméra,fichier,scan,numérisation",
+        promo="Numérisez vos documents en PDF en quelques secondes, reconnaissez le texte par OCR sur l'iPhone "
+              "et signez. Sans compte ni nuage.",
+        why="CA French autocomplete returns 'numériser' and 'scanneur' (seed terms) plus 'scanner gratuit', "
+            "'scan document gratuit', 'scanner document gratuit' (L5–L9). English core comes from en-CA.",
+    ),
     "pl": dict(
         markets="PL",
         name="{brand}: Skaner dokumentów",
