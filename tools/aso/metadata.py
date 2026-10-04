@@ -260,7 +260,7 @@ LOCALES: dict[str, dict] = {
         markets="ES (extra slot)", extra=True,
         name="{brand}: Escanejar Documents",
         subtitle="Escàner PDF, OCR i signatura",
-        keywords="escaneig,text,imatge,foto,rebut,factura,convertir,jpg,traduir,càmera,signar,escaneja",
+        keywords="escaneig,imatge,foto,rebut,traduir,càmera,signar,escaneja,fitxer,targeta,arxiu,paper",
         promo="Escaneja documents a PDF en segons, reconeix text amb OCR a l'iPhone i signa. Sense compte ni núvol.",
         why="Spain indexes ca as well; ES results include Catalan titles such as 'OCR Escaneig de Text'. "
             "App UI is not in Catalan, so this slot is optional.",
