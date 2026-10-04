@@ -1,1 +1,1 @@
-scan,ocr,convertisseur,signature,reçu,facture,identité,carte,photo,jpg,traduire,caméra,papier
+numériser,image,photo,jpg,fichier,doc,reçu,facture,identité,carte,convertisseur,traduire,caméra

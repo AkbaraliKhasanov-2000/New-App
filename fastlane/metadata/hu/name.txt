@@ -1,1 +1,1 @@
-Scanlet: PDF szkenner és OCR
+Scanmuse: PDF szkenner és OCR

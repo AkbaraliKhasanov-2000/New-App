@@ -1,1 +1,1 @@
-Scanlet: Scanner PDF Document
+Scanmuse: Scanner PDF Document

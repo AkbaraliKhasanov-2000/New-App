@@ -1,1 +1,1 @@
-Scanlet: Skaner dokumentów PDF
+Scanmuse: Skaner dokumentów

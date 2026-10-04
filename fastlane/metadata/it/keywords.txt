@@ -1,1 +1,1 @@
-scansiona,ocr,convertitore,firma,ricevuta,scontrino,fattura,identità,carta,foto,jpg,traduci,scan
+scansiona,foto,immagine,ricevuta,scontrino,fattura,identità,carta,jpg,convertitore,traduci,scan,app

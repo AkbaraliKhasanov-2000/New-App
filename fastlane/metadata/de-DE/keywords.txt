@@ -1,1 +1,1 @@
-unterschrift,beleg,quittung,ausweis,foto,kamera,jpg,konverter,übersetzen,passwort,texterkennung
+kassenbon,beleg,unterschreiben,erstellen,app,foto,bild,jpg,umwandeln,texterkennung,ausweis,scan

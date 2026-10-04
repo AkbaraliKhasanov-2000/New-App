@@ -1,4 +1,4 @@
-A Scanlet gyors és privát PDF-szkennerré alakítja az iPhone-odat. Olvass be dokumentumokat, nyugtákat, igazolványokat, szerződéseket és kézzel írt jegyzeteket, ismerd fel a szöveget az eszközön futó OCR-rel, és ossz meg tiszta, kereshető PDF-eket másodpercek alatt.
+A Scanmuse gyors és privát PDF-szkennerré alakítja az iPhone-odat. Olvass be dokumentumokat, nyugtákat, igazolványokat, szerződéseket és kézzel írt jegyzeteket, ismerd fel a szöveget az eszközön futó OCR-rel, és ossz meg tiszta, kereshető PDF-eket másodpercek alatt.
 
 SZKENNELJ PROFIKÉNT
 • Automatikus szélfelismerés, perspektívajavítás és többoldalas beolvasás
@@ -24,11 +24,11 @@ RENDSZEREZÉS ÉS MEGOSZTÁS
 • Megosztás Mailben, Üzenetekben, AirDropon, mentés a Fájlokba vagy nyomtatás
 
 ADATVÉDELEM ALAPBÓL
-A Scanlethez nem kell fiók, és nincs felhő. A dokumentumaid és a felismert szöveg az eszközödön maradnak.
+A Scanmusehez nem kell fiók, és nincs felhő. A dokumentumaid és a felismert szöveg az eszközödön maradnak.
 
-Működik a Sirivel és a Parancsokkal: mondd, hogy „Olvass be egy dokumentumot a Scanlettel”.
+Működik a Sirivel és a Parancsokkal: mondd, hogy „Olvass be egy dokumentumot a Scanmusetel”.
 
-SCANLET PRO
+SCANMUSE PRO
 Korlátlan szövegfelismerés, kereshető PDF-ek, aláírások, jelszóval védett PDF-ek, Face ID-zár és vízjel nélküli exportálás.
 • Heti csomag 3 napos ingyenes próbaidővel, vagy havi csomag
 • A díjat a vásárlás megerősítésekor terheljük az Apple-fiókodra (az ingyenes próbaidő után, ha van ilyen)

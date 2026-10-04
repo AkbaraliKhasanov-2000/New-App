@@ -1,4 +1,4 @@
-Scanlet, iPhone’unuzu hızlı ve gizli bir PDF tarayıcıya dönüştürür. Belgeleri, fişleri, kimlikleri, sözleşmeleri ve el yazısı notları tarayın, aygıt üzerinde OCR ile metni tanıyın ve temiz, aranabilir PDF’leri saniyeler içinde paylaşın.
+Scanmuse, iPhone’unuzu hızlı ve gizli bir PDF tarayıcıya dönüştürür. Belgeleri, fişleri, kimlikleri, sözleşmeleri ve el yazısı notları tarayın, aygıt üzerinde OCR ile metni tanıyın ve temiz, aranabilir PDF’leri saniyeler içinde paylaşın.
 
 PROFESYONEL GİBİ TARAYIN
 • Otomatik kenar algılama, perspektif düzeltme ve çok sayfalı tarama
@@ -24,11 +24,11 @@ DÜZENLEYİN VE PAYLAŞIN
 • Mail, Mesajlar, AirDrop ile paylaşın, Dosyalar’a kaydedin veya yazdırın
 
 TASARIMINDAN GİZLİ
-Scanlet’te hesap ve bulut yoktur. Belgeleriniz ve tanınan metin aygıtınızda kalır.
+Scanmuse’te hesap ve bulut yoktur. Belgeleriniz ve tanınan metin aygıtınızda kalır.
 
-Siri ve Kestirmeler ile çalışır: “Scanlet ile belge tara” deyin.
+Siri ve Kestirmeler ile çalışır: “Scanmuse ile belge tara” deyin.
 
-SCANLET PRO
+SCANMUSE PRO
 Sınırsız metin tanıma, aranabilir PDF’ler, imzalar, şifre korumalı PDF’ler, Face ID kilidi ve filigransız dışa aktarımın kilidini açın.
 • 3 gün ücretsiz denemeli haftalık plan veya aylık plan
 • Ödeme, satın alma onaylandığında Apple Hesabınızdan tahsil edilir (ücretsiz deneme sunuluyorsa deneme bitiminden sonra)

@@ -1,1 +1,1 @@
-scannen,handtekening,bon,kassabon,id,kaart,camera,jpg,converter,vertalen,wachtwoord,afbeelding,app
+scan,document,foto,tekst,bon,kassabon,handtekening,afbeelding,jpg,vertalen,wachtwoord,id

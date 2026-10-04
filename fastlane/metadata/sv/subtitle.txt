@@ -1,1 +1,1 @@
-Skanna dokument, text ur bild
+PDF skanner, OCR och signatur

@@ -1,4 +1,4 @@
-Scanlet maakt van je iPhone een snelle, privé PDF-scanner. Scan documenten, bonnetjes, ID's, contracten en handgeschreven notities, herken tekst met OCR op je apparaat en deel nette, doorzoekbare PDF's in een paar seconden.
+Scanmuse maakt van je iPhone een snelle, privé PDF-scanner. Scan documenten, bonnetjes, ID's, contracten en handgeschreven notities, herken tekst met OCR op je apparaat en deel nette, doorzoekbare PDF's in een paar seconden.
 
 SCANNEN ALS EEN PRO
 • Automatische randdetectie, perspectiefcorrectie en scannen van meerdere pagina's
@@ -24,11 +24,11 @@ ORDENEN & DELEN
 • Deel via Mail, Berichten of AirDrop, bewaar in Bestanden of druk af
 
 PRIVÉ VANAF HET BEGIN
-Scanlet heeft geen account en geen cloud. Je documenten en herkende tekst blijven op je apparaat.
+Scanmuse heeft geen account en geen cloud. Je documenten en herkende tekst blijven op je apparaat.
 
-Werkt met Siri en Opdrachten: zeg 'Scan een document met Scanlet'.
+Werkt met Siri en Opdrachten: zeg 'Scan een document met Scanmuse'.
 
-SCANLET PRO
+SCANMUSE PRO
 Ontgrendel onbeperkte tekstherkenning, doorzoekbare PDF's, handtekeningen, PDF's met wachtwoord, Face ID-vergrendeling en exports zonder watermerk.
 • Weekabonnement met 3 dagen gratis proberen, of een maandabonnement
 • De betaling wordt bij bevestiging van de aankoop in rekening gebracht via je Apple Account (na de gratis proefperiode, indien aangeboden)

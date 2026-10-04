@@ -1,0 +1,1 @@
+receipts,app,ocr,photos,pictures,picture,files,handwriting,notes,lock,password,print,reader,maker

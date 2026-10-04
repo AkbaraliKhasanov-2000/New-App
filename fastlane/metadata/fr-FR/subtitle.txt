@@ -1,1 +1,1 @@
-Numériser & image en texte
+Scan, OCR, Signature & Texte

@@ -1,1 +1,1 @@
-Scanlet: Escáner PDF y OCR
+Scanmuse: Escáner PDF y OCR

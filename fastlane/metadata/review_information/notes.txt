@@ -1,9 +1,9 @@
-Scanlet is a document scanner. No account or login is required.
+Scanmuse is a document scanner. No account or login is required.
 
 How to test:
 1. Tap "Scan" to open the system document camera (a real device is required; on the simulator use + > Import from Photos).
 2. Open a document to edit pages, extract text (OCR), sign, organize pages or export.
-3. Pro features (unlimited OCR, searchable PDFs, signatures, password-protected PDFs, Face ID lock, no watermark) are unlocked by the auto-renewable subscriptions in the "Scanlet Pro" group: com.scanlet.app.pro.weekly (3-day free trial) and com.scanlet.app.pro.monthly.
+3. Pro features (unlimited OCR, searchable PDFs, signatures, password-protected PDFs, Face ID lock, no watermark) are unlocked by the auto-renewable subscriptions in the "Scanmuse Pro" group: com.scanlet.app.pro.weekly (3-day free trial) and com.scanlet.app.pro.monthly.
 4. The paywall shows the price, trial length, renewal terms, Restore Purchases, Terms of Use and Privacy Policy links.
 
 All processing (OCR, image filters, PDF creation) happens on-device. The app collects no data.

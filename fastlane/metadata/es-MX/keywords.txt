@@ -1,1 +1,1 @@
-escaner,escanea,documento,foto,firma,recibo,convertir,imagen,scanning,file,copy,invoice,doc,notas
+escaner,scanner,fotos,texto,imagen,firma,recibo,factura,convertir,jpg,traducir,cámara,ine

@@ -1,1 +1,1 @@
-texto,imagem,foto,assinatura,recibo,nota,fiscal,rg,cnh,converter,jpg,traduzir,digitalizar,senha
+scanner,documento,texto,imagem,foto,assinatura,recibo,nota,fiscal,rg,cnh,jpg,converter

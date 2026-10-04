@@ -1,0 +1,1 @@
+picture,images,png,jpeg,convert,documents,pages,quick,crop,enhance,filter

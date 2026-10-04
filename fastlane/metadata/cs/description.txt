@@ -1,4 +1,4 @@
-Scanlet promění váš iPhone v rychlý a soukromý PDF skener. Skenujte dokumenty, účtenky, průkazy, smlouvy i ručně psané poznámky, rozpoznávejte text pomocí OCR přímo v zařízení a během pár vteřin sdílejte čistá, prohledávatelná PDF.
+Scanmuse promění váš iPhone v rychlý a soukromý PDF skener. Skenujte dokumenty, účtenky, průkazy, smlouvy i ručně psané poznámky, rozpoznávejte text pomocí OCR přímo v zařízení a během pár vteřin sdílejte čistá, prohledávatelná PDF.
 
 SKENUJTE JAKO PROFÍK
 • Automatické rozpoznání okrajů, korekce perspektivy a skenování více stránek
@@ -24,11 +24,11 @@ TŘIĎTE A SDÍLEJTE
 • Sdílejte přes Mail, Zprávy, AirDrop, ukládejte do Souborů nebo tiskněte
 
 SOUKROMÍ NA PRVNÍM MÍSTĚ
-Scanlet nepotřebuje účet ani cloud. Vaše dokumenty a rozpoznaný text zůstávají ve vašem zařízení.
+Scanmuse nepotřebuje účet ani cloud. Vaše dokumenty a rozpoznaný text zůstávají ve vašem zařízení.
 
-Funguje se Siri a Zkratkami: řekněte „Naskenuj dokument ve Scanletu“.
+Funguje se Siri a Zkratkami: řekněte „Naskenuj dokument ve Scanmuseu“.
 
-SCANLET PRO
+SCANMUSE PRO
 Odemkněte neomezené rozpoznávání textu, prohledávatelná PDF, podpisy, PDF chráněná heslem, zámek Face ID a exporty bez vodoznaku.
 • Týdenní předplatné se 3denní zkušební dobou zdarma nebo měsíční předplatné
 • Platba bude stržena z vašeho Apple účtu při potvrzení nákupu (po skončení zkušební doby zdarma, pokud je nabízena)

@@ -1,4 +1,4 @@
-Scanlet tekee iPhonestasi nopean ja yksityisen PDF-skannerin. Skannaa dokumentteja, kuitteja, henkilökortteja, sopimuksia ja käsin kirjoitettuja muistiinpanoja, tunnista teksti laitteella tehtävällä OCR:llä ja jaa siistejä, haettavia PDF:iä sekunneissa.
+Scanmuse tekee iPhonestasi nopean ja yksityisen PDF-skannerin. Skannaa dokumentteja, kuitteja, henkilökortteja, sopimuksia ja käsin kirjoitettuja muistiinpanoja, tunnista teksti laitteella tehtävällä OCR:llä ja jaa siistejä, haettavia PDF:iä sekunneissa.
 
 SKANNAA KUIN AMMATTILAINEN
 • Automaattinen reunojen tunnistus, perspektiivin korjaus ja monisivuinen skannaus
@@ -24,11 +24,11 @@ JÄRJESTÄ JA JAA
 • Jaa Mailin, Viestien tai AirDropin kautta, tallenna Tiedostoihin tai tulosta
 
 YKSITYISYYS ENSIN
-Scanletissa ei ole tiliä eikä pilveä. Dokumenttisi ja tunnistettu teksti pysyvät laitteellasi.
+Scanmuseissa ei ole tiliä eikä pilveä. Dokumenttisi ja tunnistettu teksti pysyvät laitteellasi.
 
-Toimii Sirin ja Pikakomentojen kanssa: sano ”Skannaa dokumentti Scanletilla”.
+Toimii Sirin ja Pikakomentojen kanssa: sano ”Skannaa dokumentti Scanmuseilla”.
 
-SCANLET PRO
+SCANMUSE PRO
 Avaa rajaton tekstintunnistus, haettavat PDF:t, allekirjoitukset, salasanalla suojatut PDF:t, Face ID ‑lukitus ja viennit ilman vesileimaa.
 • Viikkotilaus, jossa 3 päivän ilmainen kokeilu, tai kuukausitilaus
 • Maksu veloitetaan Apple-tililtäsi, kun osto vahvistetaan (ilmaisen kokeilun jälkeen, jos sellainen tarjotaan)

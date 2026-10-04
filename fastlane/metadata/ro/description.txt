@@ -1,4 +1,4 @@
-Scanlet transformă iPhone-ul tău într-un scanner PDF rapid și privat. Scanează documente, bonuri, acte de identitate, contracte și notițe scrise de mână, recunoaște textul cu OCR direct pe dispozitiv și partajează în câteva secunde PDF-uri clare și căutabile.
+Scanmuse transformă iPhone-ul tău într-un scanner PDF rapid și privat. Scanează documente, bonuri, acte de identitate, contracte și notițe scrise de mână, recunoaște textul cu OCR direct pe dispozitiv și partajează în câteva secunde PDF-uri clare și căutabile.
 
 SCANEAZĂ CA UN PROFESIONIST
 • Detectare automată a marginilor, corectarea perspectivei și captură pe mai multe pagini
@@ -24,11 +24,11 @@ ORGANIZEAZĂ ȘI PARTAJEAZĂ
 • Partajează prin Mail, Mesaje, AirDrop, salvează în Fișiere sau tipărește
 
 CONFIDENȚIAL DIN CONSTRUCȚIE
-Scanlet nu are cont și nici cloud. Documentele și textul recunoscut rămân pe dispozitivul tău.
+Scanmuse nu are cont și nici cloud. Documentele și textul recunoscut rămân pe dispozitivul tău.
 
-Funcționează cu Siri și Scurtături: spune „Scanează un document cu Scanlet”.
+Funcționează cu Siri și Scurtături: spune „Scanează un document cu Scanmuse”.
 
-SCANLET PRO
+SCANMUSE PRO
 Deblochează recunoașterea nelimitată a textului, PDF-uri căutabile, semnături, PDF-uri protejate cu parolă, blocarea cu Face ID și exporturi fără filigran.
 • Abonament săptămânal cu perioadă de probă gratuită de 3 zile sau abonament lunar
 • Plata se debitează din contul Apple la confirmarea achiziției (după perioada de probă gratuită, dacă este oferită)

@@ -1,1 +1,1 @@
-Fotoğraftan Metne, OCR Tarama
+Tarama, OCR Metin Tanıma, İmza

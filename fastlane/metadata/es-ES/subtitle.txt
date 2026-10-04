@@ -1,1 +1,1 @@
-Escanear documentos y firmar
+Escáner PDF, OCR y firmar

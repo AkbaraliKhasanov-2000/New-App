@@ -1,1 +1,1 @@
-Scanlet: Skener PDF dokladov
+Scanmuse: Skener PDF dokladov

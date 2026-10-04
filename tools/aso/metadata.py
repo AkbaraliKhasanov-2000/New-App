@@ -265,6 +265,17 @@ LOCALES: dict[str, dict] = {
         why="Spain indexes ca as well; ES results include Catalan titles such as 'OCR Escaneig de Text'. "
             "App UI is not in Catalan, so this slot is optional.",
     ),
+    "it": dict(
+        markets="IT",
+        name="{brand}: Scansione Documenti",
+        subtitle="Scanner PDF, OCR testo e firma",
+        keywords="scansiona,foto,immagine,ricevuta,scontrino,fattura,identità,carta,jpg,convertitore,traduci,scan,app",
+        promo="Scansiona documenti in PDF in pochi secondi, riconosci il testo con l'OCR sull'iPhone e firma. "
+              "Nessun account, nessun cloud.",
+        why="IT autocomplete: scanner L2 (D84), scanner pdf L2 (D70), ocr scanner L3 (D63), ocr scan L3, "
+            "scansione documenti L3 (D46), firma pdf L4 (D23), pdf da foto L5, scansiona documenti pdf L5 (D42), "
+            "da foto a testo L5 (D46), scanner documenti L5, scansione L5, scansiona documenti L5.",
+    ),
     "pl": dict(
         markets="PL",
         name="{brand}: Skaner dokumentów",

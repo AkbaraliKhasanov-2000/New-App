@@ -1,0 +1,1 @@
+texte,image,photo,reçu,facture,carte,jpg,convertisseur,traduire,caméra,fichier,scan,numérisation

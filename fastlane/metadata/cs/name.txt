@@ -1,1 +1,1 @@
-Scanlet: PDF skener dokumentů
+Scanmuse: PDF skener dokumentů

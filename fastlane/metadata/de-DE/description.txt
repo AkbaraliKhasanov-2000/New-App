@@ -1,4 +1,4 @@
-Scanlet macht dein iPhone zu einem schnellen, privaten PDF-Scanner. Scanne Dokumente, Belege, Ausweise, Verträge und handschriftliche Notizen, erkenne Text per OCR direkt auf dem Gerät und teile saubere, durchsuchbare PDFs in Sekunden.
+Scanmuse macht dein iPhone zu einem schnellen, privaten PDF-Scanner. Scanne Dokumente, Belege, Ausweise, Verträge und handschriftliche Notizen, erkenne Text per OCR direkt auf dem Gerät und teile saubere, durchsuchbare PDFs in Sekunden.
 
 SCANNEN WIE EIN PROFI
 • Automatische Kantenerkennung, Perspektivkorrektur und mehrseitige Aufnahme
@@ -24,11 +24,11 @@ ORGANISIEREN & TEILEN
 • Teile per Mail, Nachrichten oder AirDrop, sichere in Dateien oder drucke
 
 PRIVAT VON GRUND AUF
-Scanlet braucht kein Konto und keine Cloud. Deine Dokumente und erkannten Texte bleiben auf deinem Gerät.
+Scanmuse braucht kein Konto und keine Cloud. Deine Dokumente und erkannten Texte bleiben auf deinem Gerät.
 
-Funktioniert mit Siri und Kurzbefehlen: Sag „Scanne ein Dokument mit Scanlet“.
+Funktioniert mit Siri und Kurzbefehlen: Sag „Scanne ein Dokument mit Scanmuse“.
 
-SCANLET PRO
+SCANMUSE PRO
 Schalte unbegrenzte Texterkennung, durchsuchbare PDFs, Unterschriften, passwortgeschützte PDFs, die Face ID-Sperre und Exporte ohne Wasserzeichen frei.
 • Wochenabo mit 3 Tagen kostenlosem Test oder Monatsabo
 • Die Zahlung wird bei Kaufbestätigung über deinen Apple Account abgerechnet (nach dem kostenlosen Test, sofern angeboten)

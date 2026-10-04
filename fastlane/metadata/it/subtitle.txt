@@ -1,1 +1,1 @@
-Scansione e immagine in testo
+Scanner PDF, OCR testo e firma

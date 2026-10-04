@@ -1,1 +1,1 @@
-skan,skanowanie,dokument,paragon,dowód,konwerter,jpg,zdjęcie,aparat,tłumacz,hasło,folder,faktura
+skanowanie,dokumenty,dokument,zdjęcia,zdjęcie,paragon,dowód,jpg,konwerter,faktura,hasło,skan

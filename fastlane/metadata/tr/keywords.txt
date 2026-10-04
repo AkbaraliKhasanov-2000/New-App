@@ -1,1 +1,1 @@
-scanner,tara,evrak,imza,fiş,kimlik,fotoğraf,resim,yazı,jpg,dönüştürücü,çeviri,şifre
+scanner,tara,evrak,fiş,kimlik,fotoğraf,fotoğraftan,metne,resim,yazı,jpg,çeviri,şifre

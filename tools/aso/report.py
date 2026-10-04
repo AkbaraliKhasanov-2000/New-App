@@ -75,7 +75,7 @@ def market_table(cc):
 
 def build():
     storefronts = json.loads((DATA / "storefronts.json").read_text())
-    out = ["# Scanlet ASO tadqiqoti (to'liq ma'lumotlar bilan)", "",
+    out = ["# ASO tadqiqoti: PDF skaner + OCR (to'liq ma'lumotlar bilan)", "",
            "> Har bir raqam `tools/aso/` skriptlari orqali ochiq manbalardan olingan. So'rov javoblari "
            "`tools/aso/.cache` da saqlanadi, shuning uchun natijalarni qayta tekshirish mumkin.", ""]
 

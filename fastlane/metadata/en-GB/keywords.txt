@@ -1,1 +1,1 @@
-converter,sign,signature,receipt,id,card,photo,camera,paper,notes,jpg,editor,translate,cam,picture
+receipt,sign,signer,jpg,converter,photo,image,camera,maker,doc,id,card,paper,translate,copy,extract
