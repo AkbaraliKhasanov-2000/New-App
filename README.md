@@ -1,4 +1,4 @@
-# Scanlet: PDF Doc Scanner & OCR
+# Scanmuse: PDF Document Scanner
 
 iPhone uchun PDF skaner va OCR ilovasi. SwiftUI'da yozilgan, iOS 26+ da Liquid Glass dizaynidan foydalanadi va iOS 17 dan boshlab qo'llab-quvvatlanadi. Apple Human Interface Guidelines asosida qurilgan.
 
@@ -14,7 +14,7 @@ iPhone uchun PDF skaner va OCR ilovasi. SwiftUI'da yozilgan, iOS 26+ da Liquid G
 - **Imzo**: PencilKit orqali chiziladi, saqlanadi, sahifaga sudrab joylashtiriladi va o'lchami o'zgartiriladi.
 - **Kutubxona**: jildlar, sevimlilar, saralash, grid va list ko'rinishlari, bir nechtasini tanlash, birlashtirish, ko'chirish.
 - **Maxfiylik**: Face ID, Touch ID yoki parol bilan qulflash, App Switcher'da kontentni yashirish. Ma'lumotlar faqat qurilmada saqlanadi.
-- **Siri va Shortcuts**: "Scan a document with Scanlet" va "Convert photos to PDF with Scanlet" buyruqlari.
+- **Siri va Shortcuts**: "Scan a document with Scanmuse" va "Convert photos to PDF with Scanmuse" buyruqlari.
 - **Obuna**: StoreKit 2 asosida haftalik ($4.99, 3 kun bepul) va oylik ($9.99) tariflar, sinov muddatiga huquqni tekshirish va xaridlarni tiklash.
 - **Tillar**: English, Русский, O'zbekcha (String Catalog, ko'plik shakllari bilan).
 - **Accessibility**: VoiceOver belgilari, Dynamic Type, haptic javoblar.
@@ -27,6 +27,7 @@ iPhone uchun PDF skaner va OCR ilovasi. SwiftUI'da yozilgan, iOS 26+ da Liquid G
 ## Ishga tushirish
 
 1. `Scanlet.xcodeproj` ni Xcode'da oching.
+   (Ichki loyiha, target va bundle ID nomlari `Scanlet` bo'lib qoladi — foydalanuvchiga ko'rinmaydi; ekrandagi nom `Scanmuse`.)
 2. *Signing & Capabilities* bo'limida o'z Team'ingizni tanlang. Kerak bo'lsa, Bundle ID'ni (`com.scanlet.app`) o'zgartiring.
 3. **Run** tugmasini bosing. Scheme'ga `Products.storekit` ulangan, shuning uchun xaridlarni simulyatorda ham sinab ko'rish mumkin.
 4. Testlar uchun **⌘U** ni bosing.
@@ -37,7 +38,7 @@ Loyiha faylini qayta yaratish uchun: `brew install xcodegen && xcodegen generate
 
 ## App Store'ga chiqarishdan oldin
 
-1. App Store Connect'da `com.scanlet.app.pro.weekly` va `com.scanlet.app.pro.monthly` obunalarini **Scanlet Pro** guruhida yarating. Haftalik tarifga 3 kunlik bepul sinov qo'shing.
+1. App Store Connect'da `com.scanlet.app.pro.weekly` va `com.scanlet.app.pro.monthly` obunalarini **Scanmuse Pro** guruhida yarating. Haftalik tarifga 3 kunlik bepul sinov qo'shing.
 2. `Scanlet/App/AppConfig.swift` faylida `appStoreID` va `supportEmail` qiymatlarini yangilang.
 3. Repozitoriyada GitHub Pages'ni yoqing (Settings → Pages → `main` / `docs`). Maxfiylik siyosati `…/New-App/privacy.html` manzilida chiqadi.
 4. Metama'lumotlar `fastlane/metadata/` papkasida tayyor (en-US, ru, es-MX).

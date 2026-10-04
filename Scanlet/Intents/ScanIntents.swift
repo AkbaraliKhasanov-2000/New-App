@@ -1,9 +1,9 @@
 import AppIntents
 
-/// "Scan a document with Scanlet" — Siri, Spotlight, Shortcuts and the Action button.
+/// "Scan a document with Scanmuse" — Siri, Spotlight, Shortcuts and the Action button.
 struct ScanDocumentIntent: AppIntent {
     static let title: LocalizedStringResource = "Scan Document"
-    static let description = IntentDescription("Opens Scanlet and starts scanning a document.")
+    static let description = IntentDescription("Opens Scanmuse and starts scanning a document.")
     static let openAppWhenRun = true
 
     @MainActor
@@ -15,7 +15,7 @@ struct ScanDocumentIntent: AppIntent {
 
 struct ImportPhotosIntent: AppIntent {
     static let title: LocalizedStringResource = "Import Photos to PDF"
-    static let description = IntentDescription("Opens Scanlet and lets you turn photos into a PDF.")
+    static let description = IntentDescription("Opens Scanmuse and lets you turn photos into a PDF.")
     static let openAppWhenRun = true
 
     @MainActor

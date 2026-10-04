@@ -35,12 +35,12 @@ enum PaywallTrigger: Equatable {
 
     var headline: LocalizedStringKey {
         switch self {
-        case .onboarding, .settings: "Unlock Scanlet Pro"
+        case .onboarding, .settings: "Unlock Scanmuse Pro"
         case .export: "Export Without Watermark"
         case .textExtraction: "Unlimited Text Recognition"
         case .signature: "Sign Documents Instantly"
         case .password: "Protect PDFs with a Password"
-        case .appLock: "Lock Scanlet with Face ID"
+        case .appLock: "Lock Scanmuse with Face ID"
         case .searchablePDF: "Create Searchable PDFs"
         }
     }

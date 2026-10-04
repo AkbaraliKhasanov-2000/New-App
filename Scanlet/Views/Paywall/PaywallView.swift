@@ -304,7 +304,7 @@ struct PaywallView: View {
             case .pending:
                 alert = PaywallAlert(
                     title: String(localized: "Purchase Pending"),
-                    message: String(localized: "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.")
+                    message: String(localized: "Your purchase is waiting for approval. Scanmuse Pro unlocks automatically once it’s approved.")
                 )
             case .cancelled:
                 break
@@ -325,7 +325,7 @@ struct PaywallView: View {
             } else {
                 alert = PaywallAlert(
                     title: String(localized: "Nothing to Restore"),
-                    message: String(localized: "No active Scanlet Pro subscription was found for this Apple Account.")
+                    message: String(localized: "No active Scanmuse Pro subscription was found for this Apple Account.")
                 )
             }
         } catch {

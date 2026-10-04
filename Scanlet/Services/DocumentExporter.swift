@@ -64,7 +64,7 @@ enum DocumentExporter {
 
     static func writePDF(pages: [PageSnapshot], to url: URL, options: ExportOptions) throws {
         let metadata: [String: Any] = [
-            kCGPDFContextCreator as String: "Scanlet",
+            kCGPDFContextCreator as String: "Scanmuse",
             kCGPDFContextTitle as String: url.deletingPathExtension().lastPathComponent,
         ]
         let format = UIGraphicsPDFRendererFormat()
@@ -196,7 +196,7 @@ enum DocumentExporter {
     }
 
     private static func drawWatermark(in pageRect: CGRect) {
-        let text = String(localized: "Scanned with Scanlet") as NSString
+        let text = String(localized: "Scanned with Scanmuse") as NSString
         let attributes: [NSAttributedString.Key: Any] = [
             .font: UIFont.systemFont(ofSize: 8, weight: .medium),
             .foregroundColor: UIColor(white: 0.45, alpha: 0.85),
@@ -237,7 +237,7 @@ enum DocumentExporter {
         let size = CGSize(width: image.size.width * image.scale, height: image.size.height * image.scale)
         return UIGraphicsImageRenderer(size: size, format: format).image { _ in
             image.draw(in: CGRect(origin: .zero, size: size))
-            let text = String(localized: "Scanned with Scanlet") as NSString
+            let text = String(localized: "Scanned with Scanmuse") as NSString
             let fontSize = max(12, size.width * 0.018)
             let attributes: [NSAttributedString.Key: Any] = [
                 .font: UIFont.systemFont(ofSize: fontSize, weight: .medium),

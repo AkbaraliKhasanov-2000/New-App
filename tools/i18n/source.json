@@ -385,8 +385,8 @@
       "en": "Grayscale",
       "where": "Models/PageFilter.swift"
     },
-    "I scan documents with Scanlet.": {
-      "en": "I scan documents with Scanlet.",
+    "I scan documents with Scanmuse.": {
+      "en": "I scan documents with Scanmuse.",
       "where": "Views/Settings/SettingsView.swift"
     },
     "Icons": {
@@ -433,8 +433,8 @@
       "en": "List",
       "where": "Views/Settings/SettingsView.swift"
     },
-    "Lock Scanlet with Face ID": {
-      "en": "Lock Scanlet with Face ID",
+    "Lock Scanmuse with Face ID": {
+      "en": "Lock Scanmuse with Face ID",
       "where": "Services/AppRouter.swift"
     },
     "Manage Subscription": {
@@ -481,8 +481,8 @@
       "en": "New Signature",
       "where": "Views/Signature/SignaturePadView.swift"
     },
-    "No active Scanlet Pro subscription was found for this Apple Account.": {
-      "en": "No active Scanlet Pro subscription was found for this Apple Account.",
+    "No active Scanmuse Pro subscription was found for this Apple Account.": {
+      "en": "No active Scanmuse Pro subscription was found for this Apple Account.",
       "where": "Views/Paywall/PaywallView.swift"
     },
     "No Documents Yet": {
@@ -617,8 +617,8 @@
       "en": "Quality",
       "where": "Models/PageFilter.swift"
     },
-    "Rate Scanlet": {
-      "en": "Rate Scanlet",
+    "Rate Scanmuse": {
+      "en": "Rate Scanmuse",
       "where": "Views/Settings/SettingsView.swift"
     },
     "Recognition Languages": {
@@ -641,8 +641,8 @@
       "en": "Remove from Favorites",
       "where": "Views/Library/LibraryView.swift"
     },
-    "Remove “Scanned with Scanlet”": {
-      "en": "Remove “Scanned with Scanlet”",
+    "Remove “Scanned with Scanmuse”": {
+      "en": "Remove “Scanned with Scanmuse”",
       "where": "Views/Export/ExportView.swift"
     },
     "Rename": {
@@ -729,24 +729,24 @@
       "en": "Scan Your First Document",
       "where": "Views/Library/LibraryView.swift"
     },
-    "Scanlet Is Locked": {
-      "en": "Scanlet Is Locked",
+    "Scanmuse Is Locked": {
+      "en": "Scanmuse Is Locked",
       "where": "App/RootView.swift"
     },
-    "Scanlet Pro": {
-      "en": "Scanlet Pro",
+    "Scanmuse Pro": {
+      "en": "Scanmuse Pro",
       "where": "Views/Settings/SettingsView.swift"
     },
-    "Scanlet reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.": {
-      "en": "Scanlet reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.",
+    "Scanmuse reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.": {
+      "en": "Scanmuse reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.",
       "where": "Views/Onboarding/OnboardingView.swift"
     },
-    "Scanlet stores your documents only on this iPhone.": {
-      "en": "Scanlet stores your documents only on this iPhone.",
+    "Scanmuse stores your documents only on this iPhone.": {
+      "en": "Scanmuse stores your documents only on this iPhone.",
       "where": "Views/Settings/SettingsView.swift"
     },
-    "Scanned with Scanlet": {
-      "en": "Scanned with Scanlet",
+    "Scanned with Scanmuse": {
+      "en": "Scanned with Scanmuse",
       "where": "Views/Export/ExportView.swift"
     },
     "Scanning": {
@@ -789,8 +789,8 @@
       "en": "Share Page",
       "where": "Views/Document/DocumentDetailView.swift"
     },
-    "Share Scanlet": {
-      "en": "Share Scanlet",
+    "Share Scanmuse": {
+      "en": "Share Scanmuse",
       "where": "Views/Settings/SettingsView.swift"
     },
     "Share sensitive files safely.": {
@@ -941,8 +941,8 @@
       "en": "Unlimited Text Recognition",
       "where": "Views/Paywall/PaywallView.swift"
     },
-    "Unlock Scanlet Pro": {
-      "en": "Unlock Scanlet Pro",
+    "Unlock Scanmuse Pro": {
+      "en": "Unlock Scanmuse Pro",
       "where": "Views/Document/RecognizedTextView.swift"
     },
     "Unlock with %@": {
@@ -953,12 +953,12 @@
       "en": "Unlock your documents",
       "where": "Services/AppLock.swift"
     },
-    "Upgrade to Scanlet Pro": {
-      "en": "Upgrade to Scanlet Pro",
+    "Upgrade to Scanmuse Pro": {
+      "en": "Upgrade to Scanmuse Pro",
       "where": "Views/Settings/SettingsView.swift"
     },
-    "Upgrade to Scanlet Pro for unlimited text recognition, searchable PDFs and more.": {
-      "en": "Upgrade to Scanlet Pro for unlimited text recognition, searchable PDFs and more.",
+    "Upgrade to Scanmuse Pro for unlimited text recognition, searchable PDFs and more.": {
+      "en": "Upgrade to Scanmuse Pro for unlimited text recognition, searchable PDFs and more.",
       "where": "Views/Document/RecognizedTextView.swift"
     },
     "US Legal": {
@@ -997,14 +997,14 @@
       "en": "Your documents are protected.",
       "where": "App/RootView.swift"
     },
-    "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": {
-      "en": "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.",
+    "Your purchase is waiting for approval. Scanmuse Pro unlocks automatically once it’s approved.": {
+      "en": "Your purchase is waiting for approval. Scanmuse Pro unlocks automatically once it’s approved.",
       "where": "Views/Paywall/PaywallView.swift"
     }
   },
   "infoPlist": {
-    "NSCameraUsageDescription": "Scanlet uses the camera to scan your documents.",
-    "NSFaceIDUsageDescription": "Scanlet uses Face ID to keep your documents private.",
-    "CFBundleDisplayName": "Scanlet"
+    "NSCameraUsageDescription": "Scanmuse uses the camera to scan your documents.",
+    "NSFaceIDUsageDescription": "Scanmuse uses Face ID to keep your documents private.",
+    "CFBundleDisplayName": "Scanmuse"
   }
 }

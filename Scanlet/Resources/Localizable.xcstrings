@@ -13937,138 +13937,138 @@
         }
       }
     },
-    "I scan documents with Scanlet.": {
+    "I scan documents with Scanmuse.": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skenuji dokumenty se Scanletem."
+            "value": "Skenuji dokumenty v aplikaci Scanmuse."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Jeg scanner dokumenter med Scanlet."
+            "value": "Jeg scanner dokumenter med Scanmuse."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ich scanne Dokumente mit Scanlet."
+            "value": "Ich scanne Dokumente mit Scanmuse."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Σαρώνω έγγραφα με το Scanlet."
+            "value": "Σαρώνω έγγραφα με το Scanmuse."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Escaneo mis documentos con Scanlet."
+            "value": "Escaneo mis documentos con Scanmuse."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skannaan dokumentit Scanletilla."
+            "value": "Skannaan dokumentit Scanmusella."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Je numérise mes documents avec Scanlet."
+            "value": "Je numérise mes documents avec Scanmuse."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skeniram dokumente sa Scanletom."
+            "value": "Skeniram dokumente u aplikaciji Scanmuse."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlettel olvasom be a dokumentumokat."
+            "value": "Scanmuse-zal olvasom be a dokumentumokat."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scansiono i documenti con Scanlet."
+            "value": "Scansiono i documenti con Scanmuse."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Jeg skanner dokumenter med Scanlet."
+            "value": "Jeg skanner dokumenter med Scanmuse."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ik scan documenten met Scanlet."
+            "value": "Ik scan documenten met Scanmuse."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skanuję dokumenty w Scanlet."
+            "value": "Skanuję dokumenty w Scanmuse."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Escaneio meus documentos com o Scanlet."
+            "value": "Escaneio meus documentos com o Scanmuse."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Digitalizo documentos com o Scanlet."
+            "value": "Digitalizo documentos com o Scanmuse."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanez documente cu Scanlet."
+            "value": "Scanez documente cu Scanmuse."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Я сканирую документы в Scanlet."
+            "value": "Я сканирую документы в Scanmuse."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skenujem dokumenty v Scanlete."
+            "value": "Skenujem dokumenty v aplikácii Scanmuse."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Jag skannar dokument med Scanlet."
+            "value": "Jag skannar dokument med Scanmuse."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Belgelerimi Scanlet ile tarıyorum."
+            "value": "Belgelerimi Scanmuse ile tarıyorum."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Я сканую документи в Scanlet."
+            "value": "Я сканую документи в Scanmuse."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Hujjatlarni Scanlet bilan skanerlayman."
+            "value": "Hujjatlarni Scanmuse bilan skanerlayman."
           }
         }
       }
@@ -15569,138 +15569,138 @@
         }
       }
     },
-    "Lock Scanlet with Face ID": {
+    "Lock Scanmuse with Face ID": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zamykat Scanlet pomocí Face ID"
+            "value": "Zamykat Scanmuse pomocí Face ID"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lås Scanlet med Face ID"
+            "value": "Lås Scanmuse med Face ID"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet mit Face ID sperren"
+            "value": "Scanmuse mit Face ID sperren"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Κλειδώστε το Scanlet με Face ID"
+            "value": "Κλειδώστε το Scanmuse με Face ID"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bloquea Scanlet con Face ID"
+            "value": "Bloquea Scanmuse con Face ID"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lukitse Scanlet Face ID:llä"
+            "value": "Lukitse Scanmuse Face ID:llä"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Verrouiller Scanlet avec Face ID"
+            "value": "Verrouiller Scanmuse avec Face ID"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zaključaj Scanlet Face ID-jem"
+            "value": "Zaključaj Scanmuse Face ID-jem"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zárold a Scanletet Face ID-val"
+            "value": "Zárold a Scanmuse-t Face ID-val"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Blocca Scanlet con Face ID"
+            "value": "Blocca Scanmuse con Face ID"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lås Scanlet med Face ID"
+            "value": "Lås Scanmuse med Face ID"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vergrendel Scanlet met Face ID"
+            "value": "Vergrendel Scanmuse met Face ID"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Blokuj Scanlet za pomocą Face ID"
+            "value": "Blokuj Scanmuse za pomocą Face ID"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bloqueie o Scanlet com Face ID"
+            "value": "Bloqueie o Scanmuse com Face ID"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bloqueie o Scanlet com Face ID"
+            "value": "Bloqueie o Scanmuse com Face ID"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Blochează Scanlet cu Face ID"
+            "value": "Blochează Scanmuse cu Face ID"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Блокировка Scanlet через Face ID"
+            "value": "Блокировка Scanmuse через Face ID"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zamykať Scanlet pomocou Face ID"
+            "value": "Zamykať Scanmuse pomocou Face ID"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lås Scanlet med Face ID"
+            "value": "Lås Scanmuse med Face ID"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet’i Face ID ile Kilitleyin"
+            "value": "Scanmuse’i Face ID ile Kilitleyin"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Блокуйте Scanlet через Face ID"
+            "value": "Блокуйте Scanmuse через Face ID"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet’ni Face ID bilan qulflang"
+            "value": "Scanmuse’ni Face ID bilan qulflang"
           }
         }
       }
@@ -17201,138 +17201,138 @@
         }
       }
     },
-    "No active Scanlet Pro subscription was found for this Apple Account.": {
+    "No active Scanmuse Pro subscription was found for this Apple Account.": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Pro tento Apple účet nebylo nalezeno aktivní předplatné Scanlet Pro."
+            "value": "Pro tento Apple účet nebylo nalezeno aktivní předplatné Scanmuse Pro."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Der blev ikke fundet et aktivt Scanlet Pro-abonnement til denne Apple-konto."
+            "value": "Der blev ikke fundet et aktivt Scanmuse Pro-abonnement til denne Apple-konto."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Für diesen Apple Account wurde kein aktives Scanlet Pro-Abo gefunden."
+            "value": "Für diesen Apple Account wurde kein aktives Scanmuse Pro-Abo gefunden."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Δεν βρέθηκε ενεργή συνδρομή Scanlet Pro για αυτόν τον Λογαριασμό Apple."
+            "value": "Δεν βρέθηκε ενεργή συνδρομή Scanmuse Pro για αυτόν τον Λογαριασμό Apple."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "No se ha encontrado ninguna suscripción activa a Scanlet Pro para esta Apple Account."
+            "value": "No se ha encontrado ninguna suscripción activa a Scanmuse Pro para esta Apple Account."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tälle Apple-tilille ei löytynyt aktiivista Scanlet Pro ‑tilausta."
+            "value": "Tälle Apple-tilille ei löytynyt aktiivista Scanmuse Pro ‑tilausta."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Aucun abonnement Scanlet Pro actif n’a été trouvé pour ce compte Apple."
+            "value": "Aucun abonnement Scanmuse Pro actif n’a été trouvé pour ce compte Apple."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Za ovaj Apple račun nije pronađena aktivna pretplata na Scanlet Pro."
+            "value": "Za ovaj Apple račun nije pronađena aktivna pretplata na Scanmuse Pro."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nem található aktív Scanlet Pro-előfizetés ehhez az Apple-fiókhoz."
+            "value": "Nem található aktív Scanmuse Pro-előfizetés ehhez az Apple-fiókhoz."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nessun abbonamento Scanlet Pro attivo trovato per questo Account Apple."
+            "value": "Nessun abbonamento Scanmuse Pro attivo trovato per questo Account Apple."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Fant ikke noe aktivt Scanlet Pro-abonnement for denne Apple-kontoen."
+            "value": "Fant ikke noe aktivt Scanmuse Pro-abonnement for denne Apple-kontoen."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Er is geen actief Scanlet Pro-abonnement gevonden voor deze Apple Account."
+            "value": "Er is geen actief Scanmuse Pro-abonnement gevonden voor deze Apple Account."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nie znaleziono aktywnej subskrypcji Scanlet Pro dla tego konta Apple."
+            "value": "Nie znaleziono aktywnej subskrypcji Scanmuse Pro dla tego konta Apple."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nenhuma assinatura ativa do Scanlet Pro foi encontrada para esta Conta Apple."
+            "value": "Nenhuma assinatura ativa do Scanmuse Pro foi encontrada para esta Conta Apple."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Não foi encontrada nenhuma subscrição ativa do Scanlet Pro para esta Conta Apple."
+            "value": "Não foi encontrada nenhuma subscrição ativa do Scanmuse Pro para esta Conta Apple."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nu s-a găsit niciun abonament Scanlet Pro activ pentru acest cont Apple."
+            "value": "Nu s-a găsit niciun abonament Scanmuse Pro activ pentru acest cont Apple."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Для этого Аккаунта Apple не найдено активной подписки Scanlet Pro."
+            "value": "Для этого Аккаунта Apple не найдено активной подписки Scanmuse Pro."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Pre tento Apple účet sa nenašlo aktívne predplatné Scanlet Pro."
+            "value": "Pre tento Apple účet sa nenašlo aktívne predplatné Scanmuse Pro."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ingen aktiv Scanlet Pro-prenumeration hittades för det här Apple-kontot."
+            "value": "Ingen aktiv Scanmuse Pro-prenumeration hittades för det här Apple-kontot."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bu Apple Hesabı için etkin bir Scanlet Pro aboneliği bulunamadı."
+            "value": "Bu Apple Hesabı için etkin bir Scanmuse Pro aboneliği bulunamadı."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Для цього облікового запису Apple не знайдено активної підписки Scanlet Pro."
+            "value": "Для цього облікового запису Apple не знайдено активної підписки Scanmuse Pro."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ushbu Apple hisobi uchun faol Scanlet Pro obunasi topilmadi."
+            "value": "Ushbu Apple hisobi uchun faol Scanmuse Pro obunasi topilmadi."
           }
         }
       }
@@ -21825,138 +21825,138 @@
         }
       }
     },
-    "Rate Scanlet": {
+    "Rate Scanmuse": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ohodnotit Scanlet"
+            "value": "Ohodnotit Scanmuse"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Bedøm Scanlet"
+            "value": "Bedøm Scanmuse"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet bewerten"
+            "value": "Scanmuse bewerten"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Αξιολόγηση Scanlet"
+            "value": "Αξιολόγηση Scanmuse"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Valorar Scanlet"
+            "value": "Valorar Scanmuse"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Arvioi Scanlet"
+            "value": "Arvioi Scanmuse"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Noter Scanlet"
+            "value": "Noter Scanmuse"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ocijeni Scanlet"
+            "value": "Ocijeni Scanmuse"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet értékelése"
+            "value": "Scanmuse értékelése"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Valuta Scanlet"
+            "value": "Valuta Scanmuse"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Vurder Scanlet"
+            "value": "Vurder Scanmuse"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Beoordeel Scanlet"
+            "value": "Beoordeel Scanmuse"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Oceń Scanlet"
+            "value": "Oceń Scanmuse"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Avaliar o Scanlet"
+            "value": "Avaliar o Scanmuse"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Avaliar o Scanlet"
+            "value": "Avaliar o Scanmuse"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Evaluează Scanlet"
+            "value": "Evaluează Scanmuse"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Оценить Scanlet"
+            "value": "Оценить Scanmuse"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ohodnotiť Scanlet"
+            "value": "Ohodnotiť Scanmuse"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Betygsätt Scanlet"
+            "value": "Betygsätt Scanmuse"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet’i Puanla"
+            "value": "Scanmuse’i Puanla"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Оцінити Scanlet"
+            "value": "Оцінити Scanmuse"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanletni baholash"
+            "value": "Scanmuse’ni baholash"
           }
         }
       }
@@ -22641,132 +22641,132 @@
         }
       }
     },
-    "Remove “Scanned with Scanlet”": {
+    "Remove “Scanned with Scanmuse”": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odstranit „Naskenováno Scanletem“"
+            "value": "Odstranit „Naskenováno: Scanmuse“"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Fjern »Scannet med Scanlet«"
+            "value": "Fjern »Scannet med Scanmuse«"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "„Gescannt mit Scanlet“ entfernen"
+            "value": "„Gescannt mit Scanmuse“ entfernen"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Αφαίρεση «Σαρώθηκε με Scanlet»"
+            "value": "Αφαίρεση «Σαρώθηκε με Scanmuse»"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Quitar “Escaneado con Scanlet”"
+            "value": "Quitar “Escaneado con Scanmuse”"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Poista ”Skannattu Scanletilla”"
+            "value": "Poista ”Skannattu Scanmusella”"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Retirer « Numérisé avec Scanlet »"
+            "value": "Retirer « Numérisé avec Scanmuse »"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ukloni „Skenirano Scanletom”"
+            "value": "Ukloni „Skenirano: Scanmuse”"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "„Scanlettel beolvasva” eltávolítása"
+            "value": "„Scanmuse-zal beolvasva” eltávolítása"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Rimuovi “Scansionato con Scanlet”"
+            "value": "Rimuovi “Scansionato con Scanmuse”"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Fjern «Skannet med Scanlet»"
+            "value": "Fjern «Skannet med Scanmuse»"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Verwijder ‘Gescand met Scanlet’"
+            "value": "Verwijder ‘Gescand met Scanmuse’"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Usuń „Skanowane w Scanlet”"
+            "value": "Usuń „Skanowane w Scanmuse”"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Remover “Escaneado com Scanlet”"
+            "value": "Remover “Escaneado com Scanmuse”"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Remover “Digitalizado com Scanlet”"
+            "value": "Remover “Digitalizado com Scanmuse”"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Elimină „Scanat cu Scanlet”"
+            "value": "Elimină „Scanat cu Scanmuse”"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Убрать «Отсканировано в Scanlet»"
+            "value": "Убрать «Отсканировано в Scanmuse»"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odstrániť „Naskenované v Scanlete“"
+            "value": "Odstrániť „Naskenované: Scanmuse“"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ta bort ”Skannad med Scanlet”"
+            "value": "Ta bort ”Skannad med Scanmuse”"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "“Scanlet ile tarandı” yazısını kaldır"
+            "value": "“Scanmuse ile tarandı” yazısını kaldır"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Прибрати «Скановано в Scanlet»"
+            "value": "Прибрати «Скановано в Scanmuse»"
           }
         },
         "uz": {
@@ -25633,682 +25633,682 @@
         }
       }
     },
-    "Scanlet Is Locked": {
+    "Scanmuse Is Locked": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet je zamčený"
+            "value": "Scanmuse je zamčený"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet er låst"
+            "value": "Scanmuse er låst"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet ist gesperrt"
+            "value": "Scanmuse ist gesperrt"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Το Scanlet κλείδωσε"
+            "value": "Το Scanmuse κλείδωσε"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet está bloqueado"
+            "value": "Scanmuse está bloqueado"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet on lukittu"
+            "value": "Scanmuse on lukittu"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet est verrouillé"
+            "value": "Scanmuse est verrouillé"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet je zaključan"
+            "value": "Scanmuse je zaključan"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "A Scanlet zárolva"
+            "value": "A Scanmuse zárolva"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet è bloccato"
+            "value": "Scanmuse è bloccato"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet er låst"
+            "value": "Scanmuse er låst"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet is vergrendeld"
+            "value": "Scanmuse is vergrendeld"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet zablokowany"
+            "value": "Scanmuse zablokowany"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet está bloqueado"
+            "value": "Scanmuse está bloqueado"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet está bloqueado"
+            "value": "Scanmuse está bloqueado"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet este blocat"
+            "value": "Scanmuse este blocat"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet заблокирован"
+            "value": "Scanmuse заблокирован"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet je zamknutý"
+            "value": "Scanmuse je zamknutý"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet är låst"
+            "value": "Scanmuse är låst"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Kilitli"
+            "value": "Scanmuse Kilitli"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet заблоковано"
+            "value": "Scanmuse заблоковано"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet qulflangan"
+            "value": "Scanmuse qulflangan"
           }
         }
       }
     },
-    "Scanlet Pro": {
+    "Scanmuse Pro": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro"
+            "value": "Scanmuse Pro"
           }
         }
       }
     },
-    "Scanlet reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.": {
+    "Scanmuse reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs.": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet čte text přímo v iPhonu. Prohledávejte skeny, kopírujte, překládejte a tvořte prohledávatelná PDF."
+            "value": "Scanmuse čte text přímo v iPhonu. Prohledávejte skeny, kopírujte, překládejte a tvořte prohledávatelná PDF."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet læser tekst direkte på din iPhone. Søg i alle scanninger, kopiér, oversæt og opret søgbare PDF'er."
+            "value": "Scanmuse læser tekst direkte på din iPhone. Søg i alle scanninger, kopiér, oversæt og opret søgbare PDF'er."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet liest Text direkt auf deinem iPhone. Durchsuche jeden Scan, kopiere, übersetze und erstelle durchsuchbare PDFs."
+            "value": "Scanmuse liest Text direkt auf deinem iPhone. Durchsuche jeden Scan, kopiere, übersetze und erstelle durchsuchbare PDFs."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Το Scanlet διαβάζει κείμενο στο iPhone σας. Αναζητήστε σε κάθε σάρωση, αντιγράψτε, μεταφράστε, φτιάξτε PDF με αναζήτηση."
+            "value": "Το Scanmuse διαβάζει κείμενο στο iPhone σας. Αναζητήστε σε κάθε σάρωση, αντιγράψτε, μεταφράστε, φτιάξτε PDF με αναζήτηση."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet lee el texto en tu iPhone. Busca en todos tus escaneos, copia, traduce y crea PDF con búsqueda."
+            "value": "Scanmuse lee el texto en tu iPhone. Busca en todos tus escaneos, copia, traduce y crea PDF con búsqueda."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet lukee tekstin suoraan iPhonella. Hae skannauksista, kopioi, käännä ja luo haettavia PDF:iä."
+            "value": "Scanmuse lukee tekstin suoraan iPhonella. Hae skannauksista, kopioi, käännä ja luo haettavia PDF:iä."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet lit le texte directement sur votre iPhone. Cherchez dans chaque scan, copiez, traduisez et créez des PDF interrogeables."
+            "value": "Scanmuse lit le texte directement sur votre iPhone. Cherchez dans chaque scan, copiez, traduisez et créez des PDF interrogeables."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet čita tekst izravno na iPhoneu. Pretražujte skenove, kopirajte, prevodite i izradite pretražive PDF-ove."
+            "value": "Scanmuse čita tekst izravno na iPhoneu. Pretražujte skenove, kopirajte, prevodite i izradite pretražive PDF-ove."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "A Scanlet az iPhone-on ismeri fel a szöveget. Keress a beolvasásokban, másolj, fordíts, és készíts kereshető PDF-et."
+            "value": "A Scanmuse az iPhone-on ismeri fel a szöveget. Keress a beolvasásokban, másolj, fordíts, és készíts kereshető PDF-et."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet legge il testo direttamente sul tuo iPhone. Cerca in ogni scansione, copia, traduci e crea PDF ricercabili."
+            "value": "Scanmuse legge il testo direttamente sul tuo iPhone. Cerca in ogni scansione, copia, traduci e crea PDF ricercabili."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet leser tekst rett på iPhonen. Søk i alle skanninger, kopier, oversett og lag søkbare PDF-er."
+            "value": "Scanmuse leser tekst rett på iPhonen. Søk i alle skanninger, kopier, oversett og lag søkbare PDF-er."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet leest tekst direct op je iPhone. Doorzoek elke scan, kopieer, vertaal en maak doorzoekbare PDF's."
+            "value": "Scanmuse leest tekst direct op je iPhone. Doorzoek elke scan, kopieer, vertaal en maak doorzoekbare PDF's."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet odczytuje tekst na iPhonie. Przeszukuj skany, kopiuj, tłumacz i twórz PDF z wyszukiwaniem."
+            "value": "Scanmuse odczytuje tekst na iPhonie. Przeszukuj skany, kopiuj, tłumacz i twórz PDF z wyszukiwaniem."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet lê texto no próprio iPhone. Pesquise em tudo, copie, traduza e crie PDFs pesquisáveis."
+            "value": "O Scanmuse lê texto no próprio iPhone. Pesquise em tudo, copie, traduza e crie PDFs pesquisáveis."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet lê texto no próprio iPhone. Pesquise em tudo, copie, traduza e crie PDF pesquisáveis."
+            "value": "O Scanmuse lê texto no próprio iPhone. Pesquise em tudo, copie, traduza e crie PDF pesquisáveis."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet citește textul direct pe iPhone. Caută în fiecare scanare, copiază, tradu și creează PDF-uri căutabile."
+            "value": "Scanmuse citește textul direct pe iPhone. Caută în fiecare scanare, copiază, tradu și creează PDF-uri căutabile."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet распознаёт текст прямо на iPhone. Ищите по сканам, копируйте, переводите и создавайте PDF с поиском."
+            "value": "Scanmuse распознаёт текст прямо на iPhone. Ищите по сканам, копируйте, переводите и создавайте PDF с поиском."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet číta text priamo v iPhone. Prehľadávajte skeny, kopírujte, prekladajte a tvorte vyhľadávateľné PDF."
+            "value": "Scanmuse číta text priamo v iPhone. Prehľadávajte skeny, kopírujte, prekladajte a tvorte vyhľadávateľné PDF."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet läser text direkt på din iPhone. Sök i alla skanningar, kopiera, översätt och skapa sökbara PDF:er."
+            "value": "Scanmuse läser text direkt på din iPhone. Sök i alla skanningar, kopiera, översätt och skapa sökbara PDF:er."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet metni doğrudan iPhone’unuzda okur. Taramalarda arayın, kopyalayın, çevirin ve aranabilir PDF oluşturun."
+            "value": "Scanmuse metni doğrudan iPhone’unuzda okur. Taramalarda arayın, kopyalayın, çevirin ve aranabilir PDF oluşturun."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet розпізнає текст прямо на iPhone. Шукайте в сканах, копіюйте, перекладайте й створюйте PDF з пошуком."
+            "value": "Scanmuse розпізнає текст прямо на iPhone. Шукайте в сканах, копіюйте, перекладайте й створюйте PDF з пошуком."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet matnni to‘g‘ridan-to‘g‘ri iPhone’da o‘qiydi. Skanlar ichidan qidiring, nusxalang, tarjima qiling va qidiriladigan PDF yarating."
+            "value": "Scanmuse matnni to‘g‘ridan-to‘g‘ri iPhone’da o‘qiydi. Skanlar ichidan qidiring, nusxalang, tarjima qiling va qidiriladigan PDF yarating."
           }
         }
       }
     },
-    "Scanlet stores your documents only on this iPhone.": {
+    "Scanmuse stores your documents only on this iPhone.": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet ukládá dokumenty jen v tomto iPhonu."
+            "value": "Scanmuse ukládá dokumenty jen v tomto iPhonu."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet gemmer kun dine dokumenter på denne iPhone."
+            "value": "Scanmuse gemmer kun dine dokumenter på denne iPhone."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet speichert deine Dokumente nur auf diesem iPhone."
+            "value": "Scanmuse speichert deine Dokumente nur auf diesem iPhone."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Το Scanlet αποθηκεύει τα έγγραφά σας μόνο σε αυτό το iPhone."
+            "value": "Το Scanmuse αποθηκεύει τα έγγραφά σας μόνο σε αυτό το iPhone."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet guarda tus documentos solo en este iPhone."
+            "value": "Scanmuse guarda tus documentos solo en este iPhone."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet tallentaa dokumenttisi vain tähän iPhoneen."
+            "value": "Scanmuse tallentaa dokumenttisi vain tähän iPhoneen."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet stocke vos documents uniquement sur cet iPhone."
+            "value": "Scanmuse stocke vos documents uniquement sur cet iPhone."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet sprema dokumente samo na ovaj iPhone."
+            "value": "Scanmuse sprema dokumente samo na ovaj iPhone."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "A Scanlet csak ezen az iPhone-on tárolja a dokumentumaidat."
+            "value": "A Scanmuse csak ezen az iPhone-on tárolja a dokumentumaidat."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet salva i tuoi documenti solo su questo iPhone."
+            "value": "Scanmuse salva i tuoi documenti solo su questo iPhone."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet lagrer dokumentene dine bare på denne iPhonen."
+            "value": "Scanmuse lagrer dokumentene dine bare på denne iPhonen."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet bewaart je documenten alleen op deze iPhone."
+            "value": "Scanmuse bewaart je documenten alleen op deze iPhone."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet przechowuje dokumenty tylko na tym iPhonie."
+            "value": "Scanmuse przechowuje dokumenty tylko na tym iPhonie."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet armazena seus documentos apenas neste iPhone."
+            "value": "O Scanmuse armazena seus documentos apenas neste iPhone."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet guarda os documentos apenas neste iPhone."
+            "value": "O Scanmuse guarda os documentos apenas neste iPhone."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet stochează documentele doar pe acest iPhone."
+            "value": "Scanmuse stochează documentele doar pe acest iPhone."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet хранит документы только на этом iPhone."
+            "value": "Scanmuse хранит документы только на этом iPhone."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet ukladá dokumenty len v tomto iPhone."
+            "value": "Scanmuse ukladá dokumenty len v tomto iPhone."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet sparar dina dokument endast på den här iPhonen."
+            "value": "Scanmuse sparar dina dokument endast på den här iPhonen."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet belgelerinizi yalnızca bu iPhone’da saklar."
+            "value": "Scanmuse belgelerinizi yalnızca bu iPhone’da saklar."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet зберігає документи лише на цьому iPhone."
+            "value": "Scanmuse зберігає документи лише на цьому iPhone."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet hujjatlaringizni faqat shu iPhone’da saqlaydi."
+            "value": "Scanmuse hujjatlaringizni faqat shu iPhone’da saqlaydi."
           }
         }
       }
     },
-    "Scanned with Scanlet": {
+    "Scanned with Scanmuse": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Naskenováno Scanletem"
+            "value": "Naskenováno: Scanmuse"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scannet med Scanlet"
+            "value": "Scannet med Scanmuse"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Gescannt mit Scanlet"
+            "value": "Gescannt mit Scanmuse"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Σαρώθηκε με Scanlet"
+            "value": "Σαρώθηκε με Scanmuse"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Escaneado con Scanlet"
+            "value": "Escaneado con Scanmuse"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skannattu Scanletilla"
+            "value": "Skannattu Scanmusella"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Numérisé avec Scanlet"
+            "value": "Numérisé avec Scanmuse"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skenirano Scanletom"
+            "value": "Skenirano: Scanmuse"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlettel beolvasva"
+            "value": "Scanmuse-zal beolvasva"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scansionato con Scanlet"
+            "value": "Scansionato con Scanmuse"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skannet med Scanlet"
+            "value": "Skannet med Scanmuse"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Gescand met Scanlet"
+            "value": "Gescand met Scanmuse"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skanowane w Scanlet"
+            "value": "Skanowane w Scanmuse"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Escaneado com Scanlet"
+            "value": "Escaneado com Scanmuse"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Digitalizado com Scanlet"
+            "value": "Digitalizado com Scanmuse"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanat cu Scanlet"
+            "value": "Scanat cu Scanmuse"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Отсканировано в Scanlet"
+            "value": "Отсканировано в Scanmuse"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Naskenované v Scanlete"
+            "value": "Naskenované: Scanmuse"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Skannad med Scanlet"
+            "value": "Skannad med Scanmuse"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet ile tarandı"
+            "value": "Scanmuse ile tarandı"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Скановано в Scanlet"
+            "value": "Скановано в Scanmuse"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet bilan skanerlangan"
+            "value": "Scanmuse bilan skanerlangan"
           }
         }
       }
@@ -27673,138 +27673,138 @@
         }
       }
     },
-    "Share Scanlet": {
+    "Share Scanmuse": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sdílet Scanlet"
+            "value": "Sdílet Scanmuse"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Del Scanlet"
+            "value": "Del Scanmuse"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet teilen"
+            "value": "Scanmuse teilen"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Κοινοποίηση Scanlet"
+            "value": "Κοινοποίηση Scanmuse"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Compartir Scanlet"
+            "value": "Compartir Scanmuse"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Jaa Scanlet"
+            "value": "Jaa Scanmuse"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Partager Scanlet"
+            "value": "Partager Scanmuse"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Podijeli Scanlet"
+            "value": "Podijeli Scanmuse"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet megosztása"
+            "value": "Scanmuse megosztása"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Condividi Scanlet"
+            "value": "Condividi Scanmuse"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Del Scanlet"
+            "value": "Del Scanmuse"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Deel Scanlet"
+            "value": "Deel Scanmuse"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Udostępnij Scanlet"
+            "value": "Udostępnij Scanmuse"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Compartilhar Scanlet"
+            "value": "Compartilhar Scanmuse"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Partilhar Scanlet"
+            "value": "Partilhar Scanmuse"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Partajează Scanlet"
+            "value": "Partajează Scanmuse"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Поделиться Scanlet"
+            "value": "Поделиться Scanmuse"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zdieľať Scanlet"
+            "value": "Zdieľať Scanmuse"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Dela Scanlet"
+            "value": "Dela Scanmuse"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet’i Paylaş"
+            "value": "Scanmuse’i Paylaş"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Поділитися Scanlet"
+            "value": "Поділитися Scanmuse"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet’ni ulashish"
+            "value": "Scanmuse’ni ulashish"
           }
         }
       }
@@ -32841,138 +32841,138 @@
         }
       }
     },
-    "Unlock Scanlet Pro": {
+    "Unlock Scanmuse Pro": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odemknout Scanlet Pro"
+            "value": "Odemknout Scanmuse Pro"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lås Scanlet Pro op"
+            "value": "Lås Scanmuse Pro op"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro freischalten"
+            "value": "Scanmuse Pro freischalten"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ξεκλείδωμα Scanlet Pro"
+            "value": "Ξεκλείδωμα Scanmuse Pro"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Desbloquea Scanlet Pro"
+            "value": "Desbloquea Scanmuse Pro"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Avaa Scanlet Pro"
+            "value": "Avaa Scanmuse Pro"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Débloquer Scanlet Pro"
+            "value": "Débloquer Scanmuse Pro"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Otključaj Scanlet Pro"
+            "value": "Otključaj Scanmuse Pro"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro feloldása"
+            "value": "Scanmuse Pro feloldása"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sblocca Scanlet Pro"
+            "value": "Sblocca Scanmuse Pro"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lås opp Scanlet Pro"
+            "value": "Lås opp Scanmuse Pro"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ontgrendel Scanlet Pro"
+            "value": "Ontgrendel Scanmuse Pro"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odblokuj Scanlet Pro"
+            "value": "Odblokuj Scanmuse Pro"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Desbloquear Scanlet Pro"
+            "value": "Desbloquear Scanmuse Pro"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Desbloquear Scanlet Pro"
+            "value": "Desbloquear Scanmuse Pro"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Deblochează Scanlet Pro"
+            "value": "Deblochează Scanmuse Pro"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Открыть Scanlet Pro"
+            "value": "Открыть Scanmuse Pro"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Odomknúť Scanlet Pro"
+            "value": "Odomknúť Scanmuse Pro"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Lås upp Scanlet Pro"
+            "value": "Lås upp Scanmuse Pro"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro’yu Aç"
+            "value": "Scanmuse Pro’yu Aç"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Відкрити Scanlet Pro"
+            "value": "Відкрити Scanmuse Pro"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro’ni ochish"
+            "value": "Scanmuse Pro’ni ochish"
           }
         }
       }
@@ -33249,274 +33249,274 @@
         }
       }
     },
-    "Upgrade to Scanlet Pro": {
+    "Upgrade to Scanmuse Pro": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Přejít na Scanlet Pro"
+            "value": "Přejít na Scanmuse Pro"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Opgrader til Scanlet Pro"
+            "value": "Opgrader til Scanmuse Pro"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Upgrade auf Scanlet Pro"
+            "value": "Upgrade auf Scanmuse Pro"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Αναβάθμιση σε Scanlet Pro"
+            "value": "Αναβάθμιση σε Scanmuse Pro"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mejora a Scanlet Pro"
+            "value": "Mejora a Scanmuse Pro"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Päivitä Scanlet Prohon"
+            "value": "Päivitä Scanmuse Prohon"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passer à Scanlet Pro"
+            "value": "Passer à Scanmuse Pro"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Prijeđi na Scanlet Pro"
+            "value": "Prijeđi na Scanmuse Pro"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Váltás Scanlet Pro-ra"
+            "value": "Váltás Scanmuse Pro-ra"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passa a Scanlet Pro"
+            "value": "Passa a Scanmuse Pro"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Oppgrader til Scanlet Pro"
+            "value": "Oppgrader til Scanmuse Pro"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Upgrade naar Scanlet Pro"
+            "value": "Upgrade naar Scanmuse Pro"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Przejdź na Scanlet Pro"
+            "value": "Przejdź na Scanmuse Pro"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Assine o Scanlet Pro"
+            "value": "Assine o Scanmuse Pro"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passar para o Scanlet Pro"
+            "value": "Passar para o Scanmuse Pro"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Treci la Scanlet Pro"
+            "value": "Treci la Scanmuse Pro"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Перейти на Scanlet Pro"
+            "value": "Перейти на Scanmuse Pro"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Prejsť na Scanlet Pro"
+            "value": "Prejsť na Scanmuse Pro"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Uppgradera till Scanlet Pro"
+            "value": "Uppgradera till Scanmuse Pro"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro’ya Yükselt"
+            "value": "Scanmuse Pro’ya Yükselt"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Перейти на Scanlet Pro"
+            "value": "Перейти на Scanmuse Pro"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet Pro’ga o‘tish"
+            "value": "Scanmuse Pro’ga o‘tish"
           }
         }
       }
     },
-    "Upgrade to Scanlet Pro for unlimited text recognition, searchable PDFs and more.": {
+    "Upgrade to Scanmuse Pro for unlimited text recognition, searchable PDFs and more.": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Přejděte na Scanlet Pro pro neomezené rozpoznávání textu, prohledávatelná PDF a další."
+            "value": "Přejděte na Scanmuse Pro pro neomezené rozpoznávání textu, prohledávatelná PDF a další."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Opgrader til Scanlet Pro for ubegrænset tekstgenkendelse, søgbare PDF'er og mere."
+            "value": "Opgrader til Scanmuse Pro for ubegrænset tekstgenkendelse, søgbare PDF'er og mere."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Upgrade auf Scanlet Pro für unbegrenzte Texterkennung, durchsuchbare PDFs und mehr."
+            "value": "Upgrade auf Scanmuse Pro für unbegrenzte Texterkennung, durchsuchbare PDFs und mehr."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Αναβαθμίστε σε Scanlet Pro για απεριόριστη αναγνώριση κειμένου, PDF με αναζήτηση και άλλα."
+            "value": "Αναβαθμίστε σε Scanmuse Pro για απεριόριστη αναγνώριση κειμένου, PDF με αναζήτηση και άλλα."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Mejora a Scanlet Pro y obtén reconocimiento de texto ilimitado, PDF con búsqueda y mucho más."
+            "value": "Mejora a Scanmuse Pro y obtén reconocimiento de texto ilimitado, PDF con búsqueda y mucho más."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Päivitä Scanlet Prohon, niin saat rajattoman tekstintunnistuksen, haettavat PDF:t ja paljon muuta."
+            "value": "Päivitä Scanmuse Prohon, niin saat rajattoman tekstintunnistuksen, haettavat PDF:t ja paljon muuta."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passez à Scanlet Pro pour la reconnaissance de texte illimitée, les PDF interrogeables et plus."
+            "value": "Passez à Scanmuse Pro pour la reconnaissance de texte illimitée, les PDF interrogeables et plus."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Prijeđite na Scanlet Pro za neograničeno prepoznavanje teksta, pretražive PDF-ove i više."
+            "value": "Prijeđite na Scanmuse Pro za neograničeno prepoznavanje teksta, pretražive PDF-ove i više."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Válts Scanlet Pro-ra a korlátlan szövegfelismerésért, a kereshető PDF-ekért és még sok másért."
+            "value": "Válts Scanmuse Pro-ra a korlátlan szövegfelismerésért, a kereshető PDF-ekért és még sok másért."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passa a Scanlet Pro per riconoscimento testo illimitato, PDF ricercabili e altro."
+            "value": "Passa a Scanmuse Pro per riconoscimento testo illimitato, PDF ricercabili e altro."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Oppgrader til Scanlet Pro for ubegrenset tekstgjenkjenning, søkbare PDF-er og mer."
+            "value": "Oppgrader til Scanmuse Pro for ubegrenset tekstgjenkjenning, søkbare PDF-er og mer."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Upgrade naar Scanlet Pro voor onbeperkte tekstherkenning, doorzoekbare PDF's en meer."
+            "value": "Upgrade naar Scanmuse Pro voor onbeperkte tekstherkenning, doorzoekbare PDF's en meer."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Przejdź na Scanlet Pro, by rozpoznawać tekst bez limitu, tworzyć PDF z wyszukiwaniem i więcej."
+            "value": "Przejdź na Scanmuse Pro, by rozpoznawać tekst bez limitu, tworzyć PDF z wyszukiwaniem i więcej."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Assine o Scanlet Pro para ter reconhecimento ilimitado de texto, PDFs pesquisáveis e mais."
+            "value": "Assine o Scanmuse Pro para ter reconhecimento ilimitado de texto, PDFs pesquisáveis e mais."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Passe para o Scanlet Pro para ter reconhecimento ilimitado de texto, PDF pesquisáveis e mais."
+            "value": "Passe para o Scanmuse Pro para ter reconhecimento ilimitado de texto, PDF pesquisáveis e mais."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Treci la Scanlet Pro pentru recunoaștere text nelimitată, PDF-uri căutabile și altele."
+            "value": "Treci la Scanmuse Pro pentru recunoaștere text nelimitată, PDF-uri căutabile și altele."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Перейдите на Scanlet Pro для безлимитного распознавания текста, PDF с поиском и многого другого."
+            "value": "Перейдите на Scanmuse Pro для безлимитного распознавания текста, PDF с поиском и многого другого."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Prejdite na Scanlet Pro pre neobmedzené rozpoznávanie textu, vyhľadávateľné PDF a ďalšie."
+            "value": "Prejdite na Scanmuse Pro pre neobmedzené rozpoznávanie textu, vyhľadávateľné PDF a ďalšie."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Uppgradera till Scanlet Pro för obegränsad textigenkänning, sökbara PDF:er och mer."
+            "value": "Uppgradera till Scanmuse Pro för obegränsad textigenkänning, sökbara PDF:er och mer."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sınırsız metin tanıma, aranabilir PDF’ler ve daha fazlası için Scanlet Pro’ya yükseltin."
+            "value": "Sınırsız metin tanıma, aranabilir PDF’ler ve daha fazlası için Scanmuse Pro’ya yükseltin."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Перейдіть на Scanlet Pro: необмежене розпізнавання тексту, PDF з пошуком та інше."
+            "value": "Перейдіть на Scanmuse Pro: необмежене розпізнавання тексту, PDF з пошуком та інше."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Cheksiz matn aniqlash, qidiriladigan PDF va boshqa imkoniyatlar uchun Scanlet Pro’ga o‘ting."
+            "value": "Cheksiz matn aniqlash, qidiriladigan PDF va boshqa imkoniyatlar uchun Scanmuse Pro’ga o‘ting."
           }
         }
       }
@@ -34745,138 +34745,138 @@
         }
       }
     },
-    "Your purchase is waiting for approval. Scanlet Pro unlocks automatically once it’s approved.": {
+    "Your purchase is waiting for approval. Scanmuse Pro unlocks automatically once it’s approved.": {
       "localizations": {
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nákup čeká na schválení. Scanlet Pro se po schválení odemkne automaticky."
+            "value": "Nákup čeká na schválení. Scanmuse Pro se po schválení odemkne automaticky."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Dit køb afventer godkendelse. Scanlet Pro låses automatisk op, når det er godkendt."
+            "value": "Dit køb afventer godkendelse. Scanmuse Pro låses automatisk op, når det er godkendt."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Dein Kauf wartet auf Genehmigung. Scanlet Pro wird automatisch freigeschaltet, sobald er genehmigt ist."
+            "value": "Dein Kauf wartet auf Genehmigung. Scanmuse Pro wird automatisch freigeschaltet, sobald er genehmigt ist."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Η αγορά σας αναμένει έγκριση. Το Scanlet Pro θα ξεκλειδωθεί αυτόματα μόλις εγκριθεί."
+            "value": "Η αγορά σας αναμένει έγκριση. Το Scanmuse Pro θα ξεκλειδωθεί αυτόματα μόλις εγκριθεί."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Tu compra está pendiente de aprobación. Scanlet Pro se desbloqueará automáticamente cuando se apruebe."
+            "value": "Tu compra está pendiente de aprobación. Scanmuse Pro se desbloqueará automáticamente cuando se apruebe."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ostosi odottaa hyväksyntää. Scanlet Pro avautuu automaattisesti, kun se on hyväksytty."
+            "value": "Ostosi odottaa hyväksyntää. Scanmuse Pro avautuu automaattisesti, kun se on hyväksytty."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Votre achat est en attente d’approbation. Scanlet Pro sera débloqué automatiquement dès son approbation."
+            "value": "Votre achat est en attente d’approbation. Scanmuse Pro sera débloqué automatiquement dès son approbation."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kupnja čeka odobrenje. Scanlet Pro otključat će se automatski nakon odobrenja."
+            "value": "Kupnja čeka odobrenje. Scanmuse Pro otključat će se automatski nakon odobrenja."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "A vásárlás jóváhagyásra vár. A Scanlet Pro a jóváhagyás után automatikusan feloldódik."
+            "value": "A vásárlás jóváhagyásra vár. A Scanmuse Pro a jóváhagyás után automatikusan feloldódik."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Il tuo acquisto è in attesa di approvazione. Scanlet Pro si sbloccherà automaticamente una volta approvato."
+            "value": "Il tuo acquisto è in attesa di approvazione. Scanmuse Pro si sbloccherà automaticamente una volta approvato."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Kjøpet venter på godkjenning. Scanlet Pro låses opp automatisk når det er godkjent."
+            "value": "Kjøpet venter på godkjenning. Scanmuse Pro låses opp automatisk når det er godkjent."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Je aankoop wacht op goedkeuring. Scanlet Pro wordt automatisch ontgrendeld zodra deze is goedgekeurd."
+            "value": "Je aankoop wacht op goedkeuring. Scanmuse Pro wordt automatisch ontgrendeld zodra deze is goedgekeurd."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Zakup czeka na zatwierdzenie. Scanlet Pro odblokuje się automatycznie po jego zatwierdzeniu."
+            "value": "Zakup czeka na zatwierdzenie. Scanmuse Pro odblokuje się automatycznie po jego zatwierdzeniu."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Sua compra está aguardando aprovação. O Scanlet Pro será desbloqueado automaticamente após a aprovação."
+            "value": "Sua compra está aguardando aprovação. O Scanmuse Pro será desbloqueado automaticamente após a aprovação."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "A sua compra aguarda aprovação. O Scanlet Pro é desbloqueado automaticamente quando for aprovada."
+            "value": "A sua compra aguarda aprovação. O Scanmuse Pro é desbloqueado automaticamente quando for aprovada."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Achiziția ta așteaptă aprobarea. Scanlet Pro se deblochează automat după ce este aprobată."
+            "value": "Achiziția ta așteaptă aprobarea. Scanmuse Pro se deblochează automat după ce este aprobată."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Покупка ожидает одобрения. Scanlet Pro откроется автоматически после подтверждения."
+            "value": "Покупка ожидает одобрения. Scanmuse Pro откроется автоматически после подтверждения."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Nákup čaká na schválenie. Scanlet Pro sa po schválení odomkne automaticky."
+            "value": "Nákup čaká na schválenie. Scanmuse Pro sa po schválení odomkne automaticky."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Ditt köp väntar på godkännande. Scanlet Pro låses upp automatiskt när det har godkänts."
+            "value": "Ditt köp väntar på godkännande. Scanmuse Pro låses upp automatiskt när det har godkänts."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Satın alma işleminiz onay bekliyor. Onaylandığında Scanlet Pro otomatik olarak açılır."
+            "value": "Satın alma işleminiz onay bekliyor. Onaylandığında Scanmuse Pro otomatik olarak açılır."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Покупка очікує схвалення. Scanlet Pro відкриється автоматично після схвалення."
+            "value": "Покупка очікує схвалення. Scanmuse Pro відкриється автоматично після схвалення."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Xaridingiz tasdiqlanishini kutmoqda. Tasdiqlangach Scanlet Pro avtomatik ochiladi."
+            "value": "Xaridingiz tasdiqlanishini kutmoqda. Tasdiqlangach Scanmuse Pro avtomatik ochiladi."
           }
         }
       }

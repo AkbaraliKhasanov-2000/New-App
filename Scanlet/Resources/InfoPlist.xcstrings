@@ -7,139 +7,139 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet uses the camera to scan your documents."
+            "value": "Scanmuse uses the camera to scan your documents."
           }
         },
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet používá fotoaparát ke skenování dokumentů."
+            "value": "Scanmuse používá fotoaparát ke skenování dokumentů."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet bruger kameraet til at scanne dine dokumenter."
+            "value": "Scanmuse bruger kameraet til at scanne dine dokumenter."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet verwendet die Kamera, um deine Dokumente zu scannen."
+            "value": "Scanmuse verwendet die Kamera, um deine Dokumente zu scannen."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Το Scanlet χρησιμοποιεί την κάμερα για τη σάρωση των εγγράφων σας."
+            "value": "Το Scanmuse χρησιμοποιεί την κάμερα για τη σάρωση των εγγράφων σας."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet usa la cámara para escanear tus documentos."
+            "value": "Scanmuse usa la cámara para escanear tus documentos."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet käyttää kameraa dokumenttien skannaamiseen."
+            "value": "Scanmuse käyttää kameraa dokumenttien skannaamiseen."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet utilise l’appareil photo pour numériser vos documents."
+            "value": "Scanmuse utilise l’appareil photo pour numériser vos documents."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet koristi kameru za skeniranje dokumenata."
+            "value": "Scanmuse koristi kameru za skeniranje dokumenata."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "A Scanlet a kamerát a dokumentumok beolvasására használja."
+            "value": "A Scanmuse a kamerát a dokumentumok beolvasására használja."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet usa la fotocamera per scansionare i tuoi documenti."
+            "value": "Scanmuse usa la fotocamera per scansionare i tuoi documenti."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet bruker kameraet til å skanne dokumentene dine."
+            "value": "Scanmuse bruker kameraet til å skanne dokumentene dine."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet gebruikt de camera om je documenten te scannen."
+            "value": "Scanmuse gebruikt de camera om je documenten te scannen."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet używa aparatu do skanowania dokumentów."
+            "value": "Scanmuse używa aparatu do skanowania dokumentów."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet usa a câmera para escanear seus documentos."
+            "value": "O Scanmuse usa a câmera para escanear seus documentos."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet usa a câmara para digitalizar os seus documentos."
+            "value": "O Scanmuse usa a câmara para digitalizar os seus documentos."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet folosește camera pentru a-ți scana documentele."
+            "value": "Scanmuse folosește camera pentru a-ți scana documentele."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet использует камеру для сканирования документов."
+            "value": "Scanmuse использует камеру для сканирования документов."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet používa kameru na skenovanie dokumentov."
+            "value": "Scanmuse používa kameru na skenovanie dokumentov."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet använder kameran för att skanna dina dokument."
+            "value": "Scanmuse använder kameran för att skanna dina dokument."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet, belgelerinizi taramak için kamerayı kullanır."
+            "value": "Scanmuse, belgelerinizi taramak için kamerayı kullanır."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet використовує камеру для сканування документів."
+            "value": "Scanmuse використовує камеру для сканування документів."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet hujjatlaringizni skanerlash uchun kameradan foydalanadi."
+            "value": "Scanmuse hujjatlaringizni skanerlash uchun kameradan foydalanadi."
           }
         }
       }
@@ -150,139 +150,139 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet uses Face ID to keep your documents private."
+            "value": "Scanmuse uses Face ID to keep your documents private."
           }
         },
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet používá Face ID k ochraně vašich dokumentů."
+            "value": "Scanmuse používá Face ID k ochraně vašich dokumentů."
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet bruger Face ID til at holde dine dokumenter private."
+            "value": "Scanmuse bruger Face ID til at holde dine dokumenter private."
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet verwendet Face ID, um deine Dokumente privat zu halten."
+            "value": "Scanmuse verwendet Face ID, um deine Dokumente privat zu halten."
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Το Scanlet χρησιμοποιεί το Face ID για να κρατά τα έγγραφά σας ιδιωτικά."
+            "value": "Το Scanmuse χρησιμοποιεί το Face ID για να κρατά τα έγγραφά σας ιδιωτικά."
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet usa Face ID para mantener tus documentos en privado."
+            "value": "Scanmuse usa Face ID para mantener tus documentos en privado."
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet käyttää Face ID:tä dokumenttiesi suojaamiseen."
+            "value": "Scanmuse käyttää Face ID:tä dokumenttiesi suojaamiseen."
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet utilise Face ID pour protéger la confidentialité de vos documents."
+            "value": "Scanmuse utilise Face ID pour protéger la confidentialité de vos documents."
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet koristi Face ID za zaštitu vaših dokumenata."
+            "value": "Scanmuse koristi Face ID za zaštitu vaših dokumenata."
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "A Scanlet a Face ID-t a dokumentumaid védelmére használja."
+            "value": "A Scanmuse a Face ID-t a dokumentumaid védelmére használja."
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet usa Face ID per mantenere privati i tuoi documenti."
+            "value": "Scanmuse usa Face ID per mantenere privati i tuoi documenti."
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet bruker Face ID for å holde dokumentene dine private."
+            "value": "Scanmuse bruker Face ID for å holde dokumentene dine private."
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet gebruikt Face ID om je documenten privé te houden."
+            "value": "Scanmuse gebruikt Face ID om je documenten privé te houden."
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet używa Face ID, aby chronić Twoje dokumenty."
+            "value": "Scanmuse używa Face ID, aby chronić Twoje dokumenty."
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet usa o Face ID para manter seus documentos privados."
+            "value": "O Scanmuse usa o Face ID para manter seus documentos privados."
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "O Scanlet usa o Face ID para manter os seus documentos privados."
+            "value": "O Scanmuse usa o Face ID para manter os seus documentos privados."
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet folosește Face ID pentru a-ți păstra documentele private."
+            "value": "Scanmuse folosește Face ID pentru a-ți păstra documentele private."
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet использует Face ID для защиты ваших документов."
+            "value": "Scanmuse использует Face ID для защиты ваших документов."
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet používa Face ID na ochranu vašich dokumentov."
+            "value": "Scanmuse používa Face ID na ochranu vašich dokumentov."
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet använder Face ID för att hålla dina dokument privata."
+            "value": "Scanmuse använder Face ID för att hålla dina dokument privata."
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet, belgelerinizi gizli tutmak için Face ID’yi kullanır."
+            "value": "Scanmuse, belgelerinizi gizli tutmak için Face ID’yi kullanır."
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet використовує Face ID для захисту ваших документів."
+            "value": "Scanmuse використовує Face ID для захисту ваших документів."
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet hujjatlaringizni himoyalash uchun Face ID’dan foydalanadi."
+            "value": "Scanmuse hujjatlaringizni himoyalash uchun Face ID’dan foydalanadi."
           }
         }
       }
@@ -293,139 +293,139 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "cs": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "da": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "de": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "fi": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "fr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "hr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "hu": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "it": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "nb": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "nl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "pl": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "pt-BR": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "pt-PT": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "ro": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "ru": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "sk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "sv": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "tr": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "uk": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         },
         "uz": {
           "stringUnit": {
             "state": "translated",
-            "value": "Scanlet"
+            "value": "Scanmuse"
           }
         }
       }

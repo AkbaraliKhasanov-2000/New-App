@@ -76,9 +76,9 @@ struct RecognizedTextView: View {
         ContentUnavailableView {
             Label("Free Text Recognitions Used", systemImage: "text.viewfinder")
         } description: {
-            Text("Upgrade to Scanlet Pro for unlimited text recognition, searchable PDFs and more.")
+            Text("Upgrade to Scanmuse Pro for unlimited text recognition, searchable PDFs and more.")
         } actions: {
-            Button("Unlock Scanlet Pro") {
+            Button("Unlock Scanmuse Pro") {
                 dismiss()
                 Task {
                     try? await Task.sleep(for: .milliseconds(400))

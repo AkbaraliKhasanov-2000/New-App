@@ -2,7 +2,7 @@ import Foundation
 
 /// Static configuration. Update the URLs and IDs before submitting to the App Store.
 enum AppConfig {
-    static let appName = "Scanlet"
+    static let appName = "Scanmuse"
     /// Numeric Apple ID from App Store Connect (used for "Rate" and "Share" links).
     static let appStoreID = "0000000000"
     static let supportEmail = "support@scanlet.app"

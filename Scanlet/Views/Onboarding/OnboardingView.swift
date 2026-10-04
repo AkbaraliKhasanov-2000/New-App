@@ -16,7 +16,7 @@ struct OnboardingView: View {
             symbol: "text.viewfinder",
             colors: [.indigo, .purple],
             title: "Turn Images into Text",
-            message: "Scanlet reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs."
+            message: "Scanmuse reads text right on your iPhone. Search every scan, copy, translate and create searchable PDFs."
         ),
         OnboardingPage(
             symbol: "signature",

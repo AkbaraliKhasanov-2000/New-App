@@ -87,17 +87,17 @@ struct SettingsView: View {
                 } header: {
                     Text("Privacy")
                 } footer: {
-                    Text("Scanlet stores your documents only on this iPhone.")
+                    Text("Scanmuse stores your documents only on this iPhone.")
                 }
 
                 Section("Support") {
                     Button {
                         requestReview()
                     } label: {
-                        SettingsLabel("Rate Scanlet", symbol: "star", color: .yellow)
+                        SettingsLabel("Rate Scanmuse", symbol: "star", color: .yellow)
                     }
-                    ShareLink(item: AppConfig.appStoreURL, message: Text("I scan documents with Scanlet.")) {
-                        SettingsLabel("Share Scanlet", symbol: "square.and.arrow.up", color: .green)
+                    ShareLink(item: AppConfig.appStoreURL, message: Text("I scan documents with Scanmuse.")) {
+                        SettingsLabel("Share Scanmuse", symbol: "square.and.arrow.up", color: .green)
                     }
                     Button {
                         if let url = supportMailURL { openURL(url) }
@@ -144,7 +144,7 @@ struct SettingsView: View {
                         .foregroundStyle(.orange)
                         .accessibilityHidden(true)
                     VStack(alignment: .leading, spacing: 2) {
-                        Text("Scanlet Pro")
+                        Text("Scanmuse Pro")
                             .font(.headline)
                         Text("All features unlocked. Thank you!")
                             .font(.subheadline)
@@ -170,7 +170,7 @@ struct SettingsView: View {
                             .background(Color.orange.gradient, in: .rect(cornerRadius: 11, style: .continuous))
                             .accessibilityHidden(true)
                         VStack(alignment: .leading, spacing: 2) {
-                            Text("Upgrade to Scanlet Pro")
+                            Text("Upgrade to Scanmuse Pro")
                                 .font(.headline)
                                 .foregroundStyle(.primary)
                             Text("Unlimited OCR, signatures, no watermark")
@@ -225,8 +225,8 @@ struct SettingsView: View {
     }
 
     private var supportMailURL: URL? {
-        let subject = "Scanlet \(AppConfig.versionString)"
-            .addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? "Scanlet"
+        let subject = "Scanmuse \(AppConfig.versionString)"
+            .addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? "Scanmuse"
         return URL(string: "mailto:\(AppConfig.supportEmail)?subject=\(subject)")
     }
 }

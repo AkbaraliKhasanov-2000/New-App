@@ -41,7 +41,7 @@ PLURAL_CATEGORIES = {
 PLACEHOLDER = re.compile(r"%(?:\d+\$)?(?:lld|ld|d|@|lf|f)|%%")
 
 # Brand and format words that stay as they are.
-UNTRANSLATED_OK = {"PDF", "JPG", "OK", "A4", "US Letter", "US Legal", "PRO", "Scanlet Pro", "Face ID", "Touch ID", "Optic ID"}
+UNTRANSLATED_OK = {"PDF", "JPG", "OK", "A4", "US Letter", "US Legal", "PRO", "Scanmuse Pro", "Face ID", "Touch ID", "Optic ID"}
 
 
 def placeholders(text):

@@ -23,11 +23,11 @@
       "localizations" : [
         {
           "description" : "Unlimited OCR, searchable PDFs, signatures and more",
-          "displayName" : "Scanlet Pro",
+          "displayName" : "Scanmuse Pro",
           "locale" : "en_US"
         }
       ],
-      "name" : "Scanlet Pro",
+      "name" : "Scanmuse Pro",
       "subscriptions" : [
         {
           "adHocOffers" : [
@@ -55,7 +55,7 @@
           ],
           "productID" : "com.scanlet.app.pro.weekly",
           "recurringSubscriptionPeriod" : "P1W",
-          "referenceName" : "Scanlet Pro Weekly",
+          "referenceName" : "Scanmuse Pro Weekly",
           "subscriptionGroupID" : "21500001",
           "type" : "RecurringSubscription"
         },
@@ -79,7 +79,7 @@
           ],
           "productID" : "com.scanlet.app.pro.monthly",
           "recurringSubscriptionPeriod" : "P1M",
-          "referenceName" : "Scanlet Pro Monthly",
+          "referenceName" : "Scanmuse Pro Monthly",
           "subscriptionGroupID" : "21500001",
           "type" : "RecurringSubscription"
         }

@@ -52,7 +52,7 @@ struct ExportView: View {
                             showPaywall(.export)
                         } label: {
                             HStack {
-                                Label("Remove “Scanned with Scanlet”", systemImage: "wand.and.stars")
+                                Label("Remove “Scanned with Scanmuse”", systemImage: "wand.and.stars")
                                 Spacer()
                                 ProBadge()
                             }

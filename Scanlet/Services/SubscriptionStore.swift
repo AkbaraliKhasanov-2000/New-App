@@ -2,7 +2,7 @@ import Foundation
 import Observation
 import StoreKit
 
-/// StoreKit 2 subscription manager for Scanlet Pro (weekly and monthly plans).
+/// StoreKit 2 subscription manager for Scanmuse Pro (weekly and monthly plans).
 @MainActor
 @Observable
 final class SubscriptionStore {

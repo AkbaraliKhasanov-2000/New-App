@@ -100,7 +100,7 @@ struct LockScreenView: View {
                     .foregroundStyle(.tint)
                     .symbolRenderingMode(.hierarchical)
                 VStack(spacing: 6) {
-                    Text("Scanlet Is Locked")
+                    Text("Scanmuse Is Locked")
                         .font(.title2.bold())
                     Text("Your documents are protected.")
                         .font(.body)
