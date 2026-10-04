@@ -82,5 +82,33 @@
   "difficulty": 80,
   "results_count": 45,
   "fetched": "2026-10-04"
+ },
+ "receipt scanner": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 78,
+  "results_count": 181,
+  "fetched": "2026-10-04"
+ },
+ "sign pdf": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 39,
+  "results_count": 9,
+  "fetched": "2026-10-04"
+ },
+ "scan documents": {
+  "popularity": 48,
+  "popularity_source": "apple",
+  "difficulty": 78,
+  "results_count": 46,
+  "fetched": "2026-10-04"
+ },
+ "ocr scanner": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 74,
+  "results_count": 8,
+  "fetched": "2026-10-04"
  }
 }
