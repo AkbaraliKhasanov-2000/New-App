@@ -38,7 +38,7 @@ Qolgan hammasi API orqali: `tools/asc/asc_setup.py` va `fastlane deliver`.
 | App Privacy | Data collection | **Data Not Collected** (hisob, analitika va bulut yo'q; xaridlarni Apple boshqaradi) |
 | Pricing and Availability | Price | **Free** (ichida obunalar) |
 | Pricing and Availability | Availability | Barcha mamlakatlar. Xitoy materigi uchun ICP ro'yxatdan o'tkazish talab qilinadi — tayyor bo'lmaguncha **China mainland**ni olib tashlang |
-| Subscriptions → har bir obuna | Review Information | Paywall skrinshoti (CI artefaktida `03-paywall.png`) + izoh: "Unlocks unlimited OCR, searchable PDFs, signatures, password-protected PDFs, Face ID lock, watermark-free export." |
+| Subscriptions → har bir obuna | Review Information | Paywall skrinshoti (CI artefaktida `04-paywall.png`) + izoh: "Unlocks unlimited OCR, searchable PDFs, signatures, password-protected PDFs, Face ID lock, watermark-free export." |
 | App Review Information | Notes | `fastlane/metadata/review_information/notes.txt` (deliver yuklaydi) |
 
 ## Claude in Chrome uchun tayyor topshiriq
