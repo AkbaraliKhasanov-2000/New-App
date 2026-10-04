@@ -1,0 +1,2487 @@
+{
+ "method": "web-search",
+ "name": "Clearleaf",
+ "titleLength": 28,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AU": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: THC Tracker"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "AZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   },
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CA": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Cannabis"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   },
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GB": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   }
+  ],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   },
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   },
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "NZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: THC Tracker"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "OM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   },
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   },
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "US": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "ZA": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "ZM": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "exact",
+    "id": 6757411384,
+    "title": "ClearLeaf: Quit Weed"
+   },
+   {
+    "kind": "exact",
+    "id": 6793699054,
+    "title": "Clear Leaf"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "85789636",
+   "wordmark": "CLEARLEAF",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Bayer Intellectual Property GmbH (gesellschaft mit beschränkter haftung (gmbh); GERMANY)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "98666687",
+   "wordmark": "CLEARLEAF",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "CLEARLEAF INC. (CORPORATION; Delaware, USA)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "98246246",
+   "wordmark": "CLEARLEAF",
+   "alive": true,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "WELLMARK INTERNATIONAL (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "77615171",
+   "wordmark": "CLEARLEAD",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "ClearLead Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75849732",
+   "wordmark": "CLEARLEAD",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Microsoft Corporation (CORPORATION; WASHINGTON, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75849733",
+   "wordmark": "CLEARLEAD",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Microsoft Corporation (CORPORATION; WASHINGTON, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77667418",
+   "wordmark": "CLEARLEAP",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 035",
+    "IC 038",
+    "IC 041",
+    "IC 042",
+    "IC 045"
+   ],
+   "owner": "Clearleap, Inc. (CORPORATION; GEORGIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75849734",
+   "wordmark": "CLEARLEAD",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Microsoft Corporation (CORPORATION; WASHINGTON, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88831537",
+   "wordmark": "CLEANLEAF",
+   "alive": true,
+   "classes": [
+    "IC 031"
+   ],
+   "owner": "Rijk Zwaan Zaadteelt en Zaadhandel B.V. (besloten vennootschap (b.v.); NETHERLANDS)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87324853",
+   "wordmark": "CLEANLEAF",
+   "alive": true,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Air Cleaning Specialists, Inc. (CORPORATION; MISSOURI, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87018584",
+   "wordmark": "CLEANLEAF",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Manfredi, Lisa (INDIVIDUAL; USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78966914",
+   "wordmark": "CLEARPLEAT",
+   "alive": false,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Filter Specialists, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79202555",
+   "wordmark": "CLEARLENS",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Brainlab AG (AG; GERMANY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78051246",
+   "wordmark": "CLEARGEAR",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "iPayables.com, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75373557",
+   "wordmark": "CLEARSEAL",
+   "alive": false,
+   "classes": [
+    "IC 002"
+   ],
+   "owner": "NATIONAL COATINGS CORP (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87031781",
+   "wordmark": "CLEARLLAB",
+   "alive": true,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "BECKMAN COULTER, INC. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88308961",
+   "wordmark": "CLEARLENS",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Intenta Holding ehf (einkahlutafélag; ICELAND)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79371404",
+   "wordmark": "CLAIRLEAF",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Boehringer Ingelheim International GmbH (GESELLSCHAFT MIT BESCHRÄNKTER HAFTUNG (GMBH); GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "87485063",
+   "wordmark": "CLEARHEAL",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "LIN, EDWARD D. (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78553209",
+   "wordmark": "CLEARHEAT",
+   "alive": false,
+   "classes": [
+    "IC 006"
+   ],
+   "owner": "Quality Edge, Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87202787",
+   "wordmark": "CLEARBEAM",
+   "alive": false,
+   "classes": [
+    "IC 037"
+   ],
+   "owner": "ClearBeam Headlight Restoration, LLC (LIMITED LIABILITY COMPANY; GEORGIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76528194",
+   "wordmark": "CLEARHEAR",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Lextron Systems, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85787615",
+   "wordmark": "CLEARHEAD",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Clearhead Group LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78194041",
+   "wordmark": "CLEARYEAR",
+   "alive": false,
+   "classes": [
+    "IC 005",
+    "IC 009"
+   ],
+   "owner": "1-800 CONTACTS, INC. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78639210",
+   "wordmark": "CLEARCLEAN",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Enzymes Incorporated (CORPORATION; ILLINOIS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98469440",
+   "wordmark": "CLEANLEAN",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Martin-Rogers II, Errol A (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98584086",
+   "wordmark": "CLEARLEGAL",
+   "alive": true,
+   "classes": [
+    "IC 045",
+    "IC 035"
+   ],
+   "owner": "ClearLegal, Inc. (CORPORATION; Delaware, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85787122",
+   "wordmark": "CLEARHEAD",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Clearhead Group LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79330866",
+   "wordmark": "CLEARLEFT",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Clearleft Ltd (Limited Company; UNITED KINGDOM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78193838",
+   "wordmark": "CLEARWEAR",
+   "alive": false,
+   "classes": [
+    "IC 005",
+    "IC 009"
+   ],
+   "owner": "1-800 CONTACTS, INC. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85539228",
+   "wordmark": "CLEARREAD",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "RIVERAIN TECHNOLOGIES, LLC (LIMITED LIABILITY PARTNERSHIP; OHIO, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99146393",
+   "wordmark": "CLEARSEAL",
+   "alive": true,
+   "classes": [
+    "IC 017"
+   ],
+   "owner": "The Ruscoe Company (CORPORATION; Ohio, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97738674",
+   "wordmark": "CLEARHEAT",
+   "alive": true,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Automated Assembly Corporation (CORPORATION; MINNESOTA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87519737",
+   "wordmark": "CLEARLENS",
+   "alive": false,
+   "classes": [
+    "IC 021"
+   ],
+   "owner": "Andy Kim (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74109064",
+   "wordmark": "CLEARGEAR",
+   "alive": false,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "Rally Manufacturing, Inc. (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73667505",
+   "wordmark": "CLEARSEAL",
+   "alive": false,
+   "classes": [
+    "IC 006"
+   ],
+   "owner": "INNER-TITE CORP. (CORPORATION; NEW JERSEY, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75343734",
+   "wordmark": "CLEARSEAL",
+   "alive": false,
+   "classes": [
+    "IC 002"
+   ],
+   "owner": "Barberini S.p.A. (CORPORATION; ITALY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75403361",
+   "wordmark": "CLEARLEASE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "CLEAREDGE SOLUTIONS, INC. (CORPORATION; ILLINOIS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78114884",
+   "wordmark": "CLEARWEAR",
+   "alive": false,
+   "classes": [
+    "IC 005",
+    "IC 009"
+   ],
+   "owner": "Montclair, Roy (INDIVIDUAL; USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78295046",
+   "wordmark": "CLEARREAD",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 010"
+   ],
+   "owner": "Nanosphere, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85510371",
+   "wordmark": "CLEARGEAR",
+   "alive": false,
+   "classes": [
+    "IC 018"
+   ],
+   "owner": "Harvey, Jill K. (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76203451",
+   "wordmark": "CLEARBEAM",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "WIRELESS ONLINE, INC. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90023030",
+   "wordmark": "CLEARHEAD",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Codeage, LLC (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86553102",
+   "wordmark": "CLEARBEAM",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Nurse Jamie, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75639791",
+   "wordmark": "CLEARLENS",
+   "alive": false,
+   "classes": [
+    "IC 002"
+   ],
+   "owner": "Normic Industries Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75743331",
+   "wordmark": "CLEARSEAL",
+   "alive": false,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "Tamms Industries, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85941831",
+   "wordmark": "CLEARHEAD",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Russell M. Jaffe (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "72274404",
+   "wordmark": "CLEARSEAL",
+   "alive": false,
+   "classes": [
+    "017."
+   ],
+   "owner": "BORDEN COMPANY, THE (CORPORATION; NEW JERSEY, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76233914",
+   "wordmark": "CLEARBEAM",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Candela Corporation (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75684303",
+   "wordmark": "CLEARLENS",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "ISOLYSER COMPANY, INC. (CORPORATION; GEORGIA, USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

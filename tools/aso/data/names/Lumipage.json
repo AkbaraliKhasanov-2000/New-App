@@ -1,0 +1,757 @@
+{
+ "method": "web-search",
+ "name": "Lumipage",
+ "titleLength": 27,
+ "apps": {
+  "AE": [],
+  "AF": [],
+  "AG": [],
+  "AI": [],
+  "AL": [],
+  "AM": [],
+  "AO": [],
+  "AR": [],
+  "AT": [],
+  "AU": [],
+  "AZ": [],
+  "BA": [],
+  "BB": [],
+  "BE": [],
+  "BF": [],
+  "BG": [],
+  "BH": [],
+  "BJ": [],
+  "BM": [],
+  "BN": [],
+  "BO": [],
+  "BR": [],
+  "BS": [],
+  "BT": [],
+  "BW": [],
+  "BY": [],
+  "BZ": [],
+  "CA": [],
+  "CD": [],
+  "CG": [],
+  "CH": [],
+  "CI": [],
+  "CL": [],
+  "CM": [],
+  "CN": [],
+  "CO": [],
+  "CR": [],
+  "CV": [],
+  "CY": [],
+  "CZ": [],
+  "DE": [],
+  "DK": [],
+  "DM": [],
+  "DO": [],
+  "DZ": [],
+  "EC": [],
+  "EE": [],
+  "EG": [],
+  "ES": [],
+  "FI": [],
+  "FJ": [],
+  "FM": [],
+  "FR": [],
+  "GA": [],
+  "GB": [],
+  "GD": [],
+  "GE": [],
+  "GH": [],
+  "GM": [],
+  "GR": [],
+  "GT": [],
+  "GW": [],
+  "GY": [],
+  "HK": [],
+  "HN": [],
+  "HR": [],
+  "HU": [],
+  "ID": [],
+  "IE": [],
+  "IL": [],
+  "IN": [],
+  "IQ": [],
+  "IS": [],
+  "IT": [],
+  "JM": [],
+  "JO": [],
+  "JP": [],
+  "KE": [],
+  "KG": [],
+  "KH": [],
+  "KN": [],
+  "KR": [],
+  "KW": [],
+  "KY": [],
+  "KZ": [],
+  "LA": [],
+  "LB": [],
+  "LC": [],
+  "LK": [],
+  "LR": [],
+  "LT": [],
+  "LU": [],
+  "LV": [],
+  "LY": [],
+  "MA": [],
+  "MD": [],
+  "ME": [],
+  "MG": [],
+  "MK": [],
+  "ML": [],
+  "MM": [],
+  "MN": [],
+  "MO": [],
+  "MR": [],
+  "MS": [],
+  "MT": [],
+  "MU": [],
+  "MV": [],
+  "MW": [],
+  "MX": [],
+  "MY": [],
+  "MZ": [],
+  "NA": [],
+  "NE": [],
+  "NG": [],
+  "NI": [],
+  "NL": [],
+  "NO": [],
+  "NP": [],
+  "NR": [],
+  "NZ": [],
+  "OM": [],
+  "PA": [],
+  "PE": [],
+  "PG": [],
+  "PH": [],
+  "PK": [],
+  "PL": [],
+  "PT": [],
+  "PW": [],
+  "PY": [],
+  "QA": [],
+  "RO": [],
+  "RS": [],
+  "RU": [],
+  "RW": [],
+  "SA": [],
+  "SB": [],
+  "SC": [],
+  "SE": [],
+  "SG": [],
+  "SI": [],
+  "SK": [],
+  "SL": [],
+  "SN": [],
+  "SR": [],
+  "ST": [],
+  "SV": [],
+  "SZ": [],
+  "TC": [],
+  "TD": [],
+  "TH": [],
+  "TJ": [],
+  "TM": [],
+  "TN": [],
+  "TO": [],
+  "TR": [],
+  "TT": [],
+  "TW": [],
+  "TZ": [],
+  "UA": [],
+  "UG": [],
+  "US": [],
+  "UY": [],
+  "UZ": [],
+  "VC": [],
+  "VE": [],
+  "VG": [],
+  "VN": [],
+  "VU": [],
+  "YE": [],
+  "ZA": [],
+  "ZM": [],
+  "ZW": []
+ },
+ "marks": [
+  {
+   "serial": "78220981",
+   "wordmark": "LUMINAGE",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Galderma S.A. (CORPORATION; SWITZERLAND)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "72229027",
+   "wordmark": "LUMINAGE",
+   "alive": false,
+   "classes": [
+    "011.",
+    "020."
+   ],
+   "owner": "EARL M. REIBACK (UNKNOWN; Not in List)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73677727",
+   "wordmark": "LUMIRAGE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "STANDARD BEAUTY SUPPLY, INC. (CORPORATION; NEBRASKA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98216124",
+   "wordmark": "LUMINAGE",
+   "alive": false,
+   "classes": [
+    "IC 014"
+   ],
+   "owner": "Leo Schachter Diamonds, L.L.C. (LIMITED LIABILITY COMPANY; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87067233",
+   "wordmark": "LUMINAGE",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Galderma S.A. (société anonyme (sa); SWITZERLAND)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77003896",
+   "wordmark": "LUMINAGE",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Galderma S.A. (SOCIETE ANONYME; SWITZERLAND)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85692147",
+   "wordmark": "LUMINAGE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Syneron Beauty Inc. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88786842",
+   "wordmark": "LUMICARE",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Lumicare Health, LLC (LIMITED LIABILITY COMPANY; COLORADO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88729993",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 010",
+    "IC 044"
+   ],
+   "owner": "DermTech, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88847251",
+   "wordmark": "LUMIPATH",
+   "alive": false,
+   "classes": [
+    "IC 001",
+    "IC 005",
+    "IC 042"
+   ],
+   "owner": "Lumicell, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97541200",
+   "wordmark": "LUMINATE",
+   "alive": true,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "THOR Tech, Inc. (CORPORATION; NEVADA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99037613",
+   "wordmark": "UMIPANGE",
+   "alive": true,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Ruian Chenfan Trading Co., Ltd. (LIMITED LIABILITY COMPANY; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76542056",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "FOAMZ LLC. (COMPANY; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77421525",
+   "wordmark": "LUMIPACK",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "ViperDrivers M.C., Inc. (CORPORATION; ARIZONA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86194784",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Luminate Labs LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85285165",
+   "wordmark": "ILUMINAGE",
+   "alive": false,
+   "classes": [
+    "IC 003",
+    "IC 009"
+   ],
+   "owner": "CONOPCO, INC. (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "72173803",
+   "wordmark": "LAMINAGE",
+   "alive": false,
+   "classes": [
+    "016 020."
+   ],
+   "owner": "FLORENCE DUNN WILMER (UNKNOWN; Not in List)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97847325",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 010",
+    "IC 044"
+   ],
+   "owner": "DERMTECH, LLC (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74651232",
+   "wordmark": "LUMINARE",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 016",
+    "IC 035",
+    "IC 041",
+    "IC 042"
+   ],
+   "owner": "Luminare Multimedia, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "88304072",
+   "wordmark": "LUMINATE",
+   "alive": true,
+   "classes": [
+    "IC 038"
+   ],
+   "owner": "Luminate Fiber LLC (LIMITED LIABILITY COMPANY; COLORADO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99010207",
+   "wordmark": "LUMIRAGEM",
+   "alive": true,
+   "classes": [
+    "IC 014"
+   ],
+   "owner": "HonghanHuang (INDIVIDUAL; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "50009215",
+   "wordmark": "LUMIGAZE",
+   "alive": true,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Toukasyouji Co., Ltd. (limited company (ltd.); Japan)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86409049",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Ecolab USA Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98897086",
+   "wordmark": "LUMIWAVE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "HUDSON BAY VENTURES LLC (LIMITED LIABILITY COMPANY; WYOMING, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90634643",
+   "wordmark": "LUMINACE",
+   "alive": true,
+   "classes": [
+    "IC 036",
+    "IC 042"
+   ],
+   "owner": "Brookfield Power US Holding America Co. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99605820",
+   "wordmark": "LUMISAFE",
+   "alive": true,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Briteon Inc. (Limited Company; Montana, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99577159",
+   "wordmark": "LUMIBADGE",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "EVENUS Co., Ltd. (Limited Company; Korea, Republic of)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88790317",
+   "wordmark": "ILUMINAGE",
+   "alive": true,
+   "classes": [
+    "IC 008"
+   ],
+   "owner": "MMP SOLUTIONS INC. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90019127",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Robert Charles Lesser & Co., LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90425338",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 003",
+    "IC 021",
+    "IC 010"
+   ],
+   "owner": "Ranir, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97461862",
+   "wordmark": "LUMICARE",
+   "alive": true,
+   "classes": [
+    "IC 042",
+    "IC 045",
+    "IC 037",
+    "IC 041"
+   ],
+   "owner": "LUMICARE, INC. (CORPORATION; PENNSYLVANIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85830629",
+   "wordmark": "LUMIDATE",
+   "alive": false,
+   "classes": [
+    "IC 045"
+   ],
+   "owner": "VerifiedMyDate, LLC (LIMITED LIABILITY COMPANY; COLORADO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85836168",
+   "wordmark": "ILUMINAGE",
+   "alive": false,
+   "classes": [
+    "IC 024"
+   ],
+   "owner": "Conopco, Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78261511",
+   "wordmark": "LUMIPHASE",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "OPUSMED INC. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86926928",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SENSEDEEP (SOLE PROPRIETORSHIP; WASHINGTON, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97313227",
+   "wordmark": "LUMINATE",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 035",
+    "IC 041",
+    "IC 042"
+   ],
+   "owner": "LUMINATE DATA, LLC, (LIMITED LIABILITY COMPANY; Delaware, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99084017",
+   "wordmark": "LUMISPACE",
+   "alive": false,
+   "classes": [
+    "IC 004"
+   ],
+   "owner": "Dongguan Miyuan Technology Co., Ltd. (LIMITED LIABILITY COMPANY; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99375940",
+   "wordmark": "LUMIPAWS",
+   "alive": true,
+   "classes": [
+    "IC 008"
+   ],
+   "owner": "MARIA ELENA RIVERA PADRON (INDIVIDUAL; Mexico)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87816339",
+   "wordmark": "LUMINATE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "BLUE YONDER GROUP, INC. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "87979358",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 041",
+    "IC 042",
+    "IC 044",
+    "IC 045"
+   ],
+   "owner": "Luminate Labs, LLC (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "88304064",
+   "wordmark": "LUMINATE",
+   "alive": false,
+   "classes": [
+    "IC 038"
+   ],
+   "owner": "Luminate Fiber LLC (LIMITED LIABILITY COMPANY; COLORADO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98716216",
+   "wordmark": "LUMIMAXE",
+   "alive": true,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "Dongguan QIMIAO Electronic Technology Co., Ltd. (limited company (ltd.); China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99920746",
+   "wordmark": "LUMICASE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Shenzhen Tahe Technology Co., Ltd. (Limited Company; China)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98716226",
+   "wordmark": "LUMIMAXE",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Dongguan QIMIAO Electronic Technology Co., Ltd. (limited company (ltd.); China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99482633",
+   "wordmark": "LUMIPALS",
+   "alive": true,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "Chongqing Niuxibao Trading CO.,LTD (Limited Company; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79263659",
+   "wordmark": "LUMICARE",
+   "alive": true,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Lumicare IP Pty Ltd (LIMITED LIABILITY COMPANY; AUSTRALIA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99826927",
+   "wordmark": "LUMIBABE",
+   "alive": true,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "HONG KONG HIMOVIES TECHNOLOGY LIMITED (Limited Company; Hong Kong)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85326761",
+   "wordmark": "LUMINAZE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Syneron Beauty Ltd. (CORPORATION; ISRAEL)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79372376",
+   "wordmark": "LUMINARE",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "TOPCON CORPORATION (CORPORATION; JAPAN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78091694",
+   "wordmark": "LUDIGAGE",
+   "alive": false,
+   "classes": [
+    "IC 016",
+    "IC 018",
+    "IC 025"
+   ],
+   "owner": "LANCEL SOGEDI (CORPORATION; FRANCE)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

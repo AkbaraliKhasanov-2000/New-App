@@ -1,0 +1,1725 @@
+{
+ "method": "web-search",
+ "name": "Quillscan",
+ "titleLength": 28,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "AU": [],
+  "AZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CA": [],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GB": [],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "NZ": [],
+  "OM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "US": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "ZA": [],
+  "ZM": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "exact",
+    "id": 6766126910,
+    "title": "QuillScan"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "75321424",
+   "wordmark": "SKILLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 016"
+   ],
+   "owner": "Skillscan Professional Pack (PARTNERSHIP; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75761528",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "KPMG Consulting, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75301602",
+   "wordmark": "FULLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Peripheral Dynamics, Inc. (CORPORATION; PENNSYLVANIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75713780",
+   "wordmark": "HULLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "PHOENIX INTERNATIONAL, INC. (CORPORATION; VIRGINIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75880407",
+   "wordmark": "QUALSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "McCarthy, Earl T. (INDIVIDUAL; USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73834954",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "BARNEYSCAN CORPORATION (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74262302",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Milbank, Tweed, Hadley & McCloy (PARTNERSHIP; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74665865",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PSC Inc. (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77171266",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "IGT (CORPORATION; NEVADA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78033281",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "American Industrial Management (CORPORATION; ALABAMA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79379964",
+   "wordmark": "QUALYSCAN",
+   "alive": true,
+   "classes": [
+    "IC 010",
+    "IC 009"
+   ],
+   "owner": "Terapet SA (SOCIÉTÉ ANONYME (SA); SWITZERLAND)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99065312",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 042",
+    "IC 009"
+   ],
+   "owner": "Scamnetic, Inc. (CORPORATION; Delaware, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74586325",
+   "wordmark": "QUICKSCAN",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PSC Inc. (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74614026",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Teradyne, Inc. (CORPORATION; Not in List)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75002275",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Plexus Systems, L.L.C. (CORPORATION; MICHIGAN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75508323",
+   "wordmark": "SKILLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "LIMRA International, Inc. (CORPORATION; CONNECTICUT, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87383126",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "AMERICAN SCREENING, L.L.C. (LIMITED LIABILITY COMPANY; LOUISIANA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74466266",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "United Group Programs Worldwide, Inc. (CORPORATION; FLORIDA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85476414",
+   "wordmark": "DRILLSCAN",
+   "alive": true,
+   "classes": [
+    "IC 037",
+    "IC 009",
+    "IC 041",
+    "IC 042"
+   ],
+   "owner": "Drillscan US, Inc. (CORPORATION; TEXAS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75757980",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Universel Dispenser Corporation (CORPORATION; PENNSYLVANIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78818065",
+   "wordmark": "QUICKSCAN",
+   "alive": true,
+   "classes": [
+    "IC 044"
+   ],
+   "owner": "Meshbesher Health Corporation (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78487455",
+   "wordmark": "HULLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 037"
+   ],
+   "owner": "Hullscan, LLC (LIMITED LIABILITY COMPANY; NEW JERSEY, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88737708",
+   "wordmark": "QUICKSCAN",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Drew Technologies, Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75104188",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Myco Pharmaceuticals Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90323492",
+   "wordmark": "BUILDSCAN",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "BuildScan Limited (limited company (ltd.); UNITED KINGDOM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74685874",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "United Methodist Publishing House, The (CORPORATION; ILLINOIS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86250872",
+   "wordmark": "QUICKSCAN",
+   "alive": true,
+   "classes": [
+    "IC 035",
+    "IC 036"
+   ],
+   "owner": "Aesculap, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86329294",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "The Prometheus Group of New Hampshire, Limited (CORPORATION; NEW HAMPSHIRE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77868029",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "R-Biopharm AG (aktiengesellschaft; GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97155706",
+   "wordmark": "QUICKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 040",
+    "IC 006",
+    "IC 035"
+   ],
+   "owner": "Hudson Technologies, Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73229262",
+   "wordmark": "QUALSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Ford Motor Company (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90092471",
+   "wordmark": "QUIXSCAN",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "AITD Technologies, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74715671",
+   "wordmark": "FULLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "NEC Technologies, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85807436",
+   "wordmark": "QUIKSCAN",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Database Works, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75828342",
+   "wordmark": "FULLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "Applied Materials, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74005362",
+   "wordmark": "QUIXSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "CLEARWAVE ELECTRONICS, INC. (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74129160",
+   "wordmark": "QUIKSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "ETYMONIC DESIGN INCORPORATED (CORPORATION; CANADA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86826632",
+   "wordmark": "FULLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "Applied Materials, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87542171",
+   "wordmark": "MILLSCAN",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Digital Control Lab, LLC. (LIMITED LIABILITY COMPANY; FLORIDA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99161904",
+   "wordmark": "FULLSCAN",
+   "alive": true,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "Applied Materials, Inc. (CORPORATION; Delaware, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "50102678",
+   "wordmark": "QUILLIAN",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Quillian, LLC (LIMITED LIABILITY COMPANY; Arizona, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73074088",
+   "wordmark": "MILLSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PA Incorporated (UNKNOWN; Not in List)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99453112",
+   "wordmark": "QUILLAN",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Hongmei Liu (INDIVIDUAL; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97155723",
+   "wordmark": "QUICKSCAN INTELLIGENCE",
+   "alive": false,
+   "classes": [
+    "IC 040",
+    "IC 006",
+    "IC 035"
+   ],
+   "owner": "Hudson Technologies, Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90826117",
+   "wordmark": "QUICKSCAN IX",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Olympus Corporation (CORPORATION; JAPAN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73700440",
+   "wordmark": "QUICKSCAN 88",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "MEDIQ ENGINEERING AND MAINTENANCE SERVICES, INC. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75921153",
+   "wordmark": "QUICKSCAN PEN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PSC, INC. (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  }
+ ]
+}

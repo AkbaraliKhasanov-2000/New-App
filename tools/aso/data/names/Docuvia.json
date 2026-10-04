@@ -1,0 +1,1367 @@
+{
+ "method": "web-search",
+ "name": "Docuvia",
+ "titleLength": 26,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "AU": [],
+  "AZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CA": [],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GB": [],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "NZ": [],
+  "OM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "US": [],
+  "UY": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "ZA": [],
+  "ZM": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "exact",
+    "id": 6807520355,
+    "title": "Docuvia"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "88802340",
+   "wordmark": "DOXUVIA",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "DUCHESNAY INC. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73375617",
+   "wordmark": "DOCUVID",
+   "alive": false,
+   "classes": [
+    "IC 038"
+   ],
+   "owner": "Docuvid Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87156468",
+   "wordmark": "DOXUVIA",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Duchesnay Inc. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99838004",
+   "wordmark": "OCUVIA",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Xnito LLC (LIMITED LIABILITY COMPANY; Texas, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75800969",
+   "wordmark": "DOCUVAC",
+   "alive": false,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "MBM Corporation (CORPORATION; SOUTH CAROLINA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75087820",
+   "wordmark": "DOCUDIAL",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Choice In Dying (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74586005",
+   "wordmark": "DOCUDIAL",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Avant Litho Graphics Inc. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74694609",
+   "wordmark": "DOCUVIEW",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Log Cabin Software, Inc. (CORPORATION; NEW HAMPSHIRE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75397285",
+   "wordmark": "DOCUDIAL",
+   "alive": false,
+   "classes": [
+    "IC 038"
+   ],
+   "owner": "Choice in Dying, Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76348236",
+   "wordmark": "DOCUVIEW",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "DOCUSYS, INC. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74676407",
+   "wordmark": "DOCUVIEW",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Image Sciences, Inc. (CORPORATION; TEXAS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75782962",
+   "wordmark": "DOCUVIEW",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "FOCUSVISION WORLDWIDE, INC. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97198011",
+   "wordmark": "DOCUVIST",
+   "alive": true,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "Docuvist LLC (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87156472",
+   "wordmark": "DOXUVIA XR",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Duchesnay Inc. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87462116",
+   "wordmark": "DOCUVERA",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Author-it Software Corporation (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77548029",
+   "wordmark": "DOCUVAC",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Newport Laboratories, Inc. (CORPORATION; MINNESOTA, USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

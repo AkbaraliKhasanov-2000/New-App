@@ -1,0 +1,1080 @@
+{
+ "method": "web-search",
+ "name": "Scanbird",
+ "titleLength": 27,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "AF": [],
+  "AG": [],
+  "AI": [],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "AM": [],
+  "AO": [],
+  "AR": [],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "AU": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "AZ": [],
+  "BA": [],
+  "BB": [],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "BF": [],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "BH": [],
+  "BJ": [],
+  "BM": [],
+  "BN": [],
+  "BO": [],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "BS": [],
+  "BT": [],
+  "BW": [],
+  "BY": [],
+  "BZ": [],
+  "CA": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "CD": [],
+  "CG": [],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "CI": [],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "CM": [],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "CO": [],
+  "CR": [],
+  "CV": [],
+  "CY": [],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "DM": [],
+  "DO": [],
+  "DZ": [],
+  "EC": [],
+  "EE": [],
+  "EG": [],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "FJ": [],
+  "FM": [],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "GA": [],
+  "GB": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "GD": [],
+  "GE": [],
+  "GH": [],
+  "GM": [],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "GT": [],
+  "GW": [],
+  "GY": [],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "HN": [],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "IQ": [],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "JM": [],
+  "JO": [],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "KE": [],
+  "KG": [],
+  "KH": [],
+  "KN": [],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "KW": [],
+  "KY": [],
+  "KZ": [],
+  "LA": [],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "LC": [],
+  "LK": [],
+  "LR": [],
+  "LT": [],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "LV": [],
+  "LY": [],
+  "MA": [],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "ME": [],
+  "MG": [],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "ML": [],
+  "MM": [],
+  "MN": [],
+  "MO": [],
+  "MR": [],
+  "MS": [],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "MU": [],
+  "MV": [],
+  "MW": [],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "MZ": [],
+  "NA": [],
+  "NE": [],
+  "NG": [],
+  "NI": [],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "NP": [],
+  "NR": [],
+  "NZ": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "OM": [],
+  "PA": [],
+  "PE": [],
+  "PG": [],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "PK": [],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "PW": [],
+  "PY": [],
+  "QA": [],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "RS": [],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "RW": [],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "SB": [],
+  "SC": [],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "SL": [],
+  "SN": [],
+  "SR": [],
+  "ST": [],
+  "SV": [],
+  "SZ": [],
+  "TC": [],
+  "TD": [],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "TJ": [],
+  "TM": [],
+  "TN": [],
+  "TO": [],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "TT": [],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "TZ": [],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "UG": [],
+  "US": [
+   {
+    "kind": "similar",
+    "id": 1444093439,
+    "title": "Scentbird Perfume Box"
+   }
+  ],
+  "UY": [],
+  "UZ": [],
+  "VC": [],
+  "VE": [],
+  "VG": [],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "VU": [],
+  "YE": [],
+  "ZA": [
+   {
+    "kind": "exact",
+    "id": 6747261020,
+    "title": "ScanBird"
+   }
+  ],
+  "ZM": [],
+  "ZW": []
+ },
+ "marks": [
+  {
+   "serial": "75252371",
+   "wordmark": "STARBIRD",
+   "alive": false,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Manco Products, Inc. (CORPORATION; INDIANA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97780732",
+   "wordmark": "SANDBIRD",
+   "alive": false,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "BOTA Entertainment LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90743075",
+   "wordmark": "OCEANBIRD",
+   "alive": false,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Oceanbird Incorporated (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87335396",
+   "wordmark": "SCENTBIRD",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Scentbird, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97741437",
+   "wordmark": "SCANNERD",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Phil Lichtenberger (INDIVIDUAL; USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77235979",
+   "wordmark": "SCANBAND",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Precision Dynamics Corporation (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76720354",
+   "wordmark": "STARBIRD",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "DAYE, CAROL T. (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78279135",
+   "wordmark": "STARBIRD",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Manley Laboratories Incorporated (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79316134",
+   "wordmark": "OCEANBIRD",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 014",
+    "IC 016",
+    "IC 018",
+    "IC 021",
+    "IC 024",
+    "IC 025",
+    "IC 028"
+   ],
+   "owner": "AlfaWall Oceanbird AB (Limited Liability Company (AB); SWEDEN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97780733",
+   "wordmark": "SANDBIRD",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "BOTA Entertainment LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87335419",
+   "wordmark": "SCENTBIRD",
+   "alive": true,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Scentbird, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "50141409",
+   "wordmark": "SCABBARD",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "CodeRats LLC (LIMITED LIABILITY COMPANY; South Carolina, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98911253",
+   "wordmark": "SMARBIRD",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "OU, XIAOYI (INDIVIDUAL; China)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73824428",
+   "wordmark": "STARBIRD",
+   "alive": false,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "CARRIER CORPORATION (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74338778",
+   "wordmark": "SCABBARD",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "MEDTRONIC (CORPORATION; MINNESOTA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74683078",
+   "wordmark": "SCANBAND",
+   "alive": false,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Precision Dynamics Corporation (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76090163",
+   "wordmark": "SCABBARD",
+   "alive": true,
+   "classes": [
+    "IC 013"
+   ],
+   "owner": "McCrary, Charles Randal (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87335437",
+   "wordmark": "SCENTBIRD",
+   "alive": false,
+   "classes": [
+    "IC 004"
+   ],
+   "owner": "Scentbird, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85501068",
+   "wordmark": "SCABBARD",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Radians, Inc. (CORPORATION; TENNESSEE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "72363192",
+   "wordmark": "SCANWIRE",
+   "alive": false,
+   "classes": [
+    "009."
+   ],
+   "owner": "SCANWIRE CORPORATION (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79300904",
+   "wordmark": "SCANGRID",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Sick AG (AG; GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86507367",
+   "wordmark": "STARBIRD",
+   "alive": true,
+   "classes": [
+    "IC 043"
+   ],
+   "owner": "Chicken Coup, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99015373",
+   "wordmark": "XUANBIRD",
+   "alive": true,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Chengdu Xuanniaowan Technology Co., Ltd. (LIMITED LIABILITY COMPANY; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98329629",
+   "wordmark": "XUANBIRD",
+   "alive": true,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Chengdu Xuanniaowan Technology Co., Ltd.  (limited company (ltd.); CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88337422",
+   "wordmark": "SCABBARD",
+   "alive": true,
+   "classes": [
+    "IC 034"
+   ],
+   "owner": "SHENZHEN UWELL TECHNOLOGY CO., LTD. (LIMITED LIABILITY COMPANY; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75240867",
+   "wordmark": "SCANCARD",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "KONINKLIJKE PHILIPS ELECTRONICS N.V. (LIMITED LIABILITY JOINT STOCK COMPANY; NETHERLANDS)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90743080",
+   "wordmark": "OCEANBIRD",
+   "alive": true,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "Oceanbird Incorporated (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78467499",
+   "wordmark": "STARBIRD",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "DePew, Nicholas (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86259023",
+   "wordmark": "BEANBIRD",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "LG Electronics Inc. (CORPORATION; REPUBLIC OF KOREA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97083807",
+   "wordmark": "CYANBIRD",
+   "alive": true,
+   "classes": [
+    "IC 024"
+   ],
+   "owner": "Longyan Jianbishan e-commerce Co., Ltd (LIMITED LIABILITY COMPANY; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90743091",
+   "wordmark": "OCEANBIRD",
+   "alive": true,
+   "classes": [
+    "IC 039"
+   ],
+   "owner": "Oceanbird Incorporated (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97410253",
+   "wordmark": "SIGNBIRD",
+   "alive": true,
+   "classes": [
+    "IC 035",
+    "IC 041",
+    "IC 042"
+   ],
+   "owner": "SIGNBIRD, LLC (LIMITED LIABILITY COMPANY; ALABAMA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79361953",
+   "wordmark": "OCEANBIRD",
+   "alive": false,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "AlfaWall Oceanbird AB (LIMITED LIABILITY COMPANY; SWEDEN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76039609",
+   "wordmark": "SCANFIRE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "UMAX DATA SYSTEMS INC. (CORPORATION; TAIWAN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "88304503",
+   "wordmark": "STARBIRD",
+   "alive": true,
+   "classes": [
+    "IC 030"
+   ],
+   "owner": "Chicken Coup LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97894509",
+   "wordmark": "STARBIRD",
+   "alive": true,
+   "classes": [
+    "IC 018",
+    "IC 025"
+   ],
+   "owner": "Chicken Coup LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99421442",
+   "wordmark": "SACKBIRD",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 041"
+   ],
+   "owner": "Sackbird Studios Inc. (CORPORATION; Maryland, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98789879",
+   "wordmark": "SANDBIRD",
+   "alive": true,
+   "classes": [
+    "IC 033"
+   ],
+   "owner": "E. & J. Gallo Winery (CORPORATION; California, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90084036",
+   "wordmark": "CATBIRD",
+   "alive": true,
+   "classes": [
+    "IC 043"
+   ],
+   "owner": "Sage Hospitality Resources, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73255833",
+   "wordmark": "SUNBIRD",
+   "alive": false,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "Paka Distributing Corporation (CORPORATION; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78974757",
+   "wordmark": "SUNBIRD",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Mozilla Foundation (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "87743522",
+   "wordmark": "SUNBIRD",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Sunbird Software, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73811790",
+   "wordmark": "SUNBIRD",
+   "alive": false,
+   "classes": [
+    "IC 031"
+   ],
+   "owner": "CONTINENTAL GRAIN COMPANY (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77122341",
+   "wordmark": "CATBIRD",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "CATBIRD NETWORKS, INC. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85069837",
+   "wordmark": "SCANAID",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Kabushiki Kaisha PFU (CORPORATION; JAPAN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85413772",
+   "wordmark": "SEABIRD",
+   "alive": false,
+   "classes": [
+    "IC 029"
+   ],
+   "owner": "Maloney Seafood Corporation (CORPORATION; MASSACHUSETTS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86812544",
+   "wordmark": "CATBIRD",
+   "alive": true,
+   "classes": [
+    "IC 014",
+    "IC 035"
+   ],
+   "owner": "Vardi, Rony Elka (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99465557",
+   "wordmark": "SUNBIRD",
+   "alive": true,
+   "classes": [
+    "IC 006",
+    "IC 040",
+    "IC 009",
+    "IC 012",
+    "IC 042"
+   ],
+   "owner": "Sunbird Group Holdings Limited (Limited Company; Virgin Islands, British)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74349579",
+   "wordmark": "SEABIRD",
+   "alive": false,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Seabird Aviation, Incorporated (CORPORATION; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

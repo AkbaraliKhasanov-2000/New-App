@@ -1,0 +1,6345 @@
+{
+ "method": "web-search",
+ "name": "Papyro",
+ "titleLength": 25,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - ノート, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "AU": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 6473137300,
+    "title": "Papyrus Offline"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "AZ": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "similar",
+    "id": 1435599642,
+    "title": "PAPYRUS"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 6753226168,
+    "title": "Papiro Reverso"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6761497574,
+    "title": "Papiro: Livros e Leituras"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "CA": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Dateien und mehr"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6810082691,
+    "title": "Papyrus: Book Tracker Widget"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6760626909,
+    "title": "Papyr - Document Scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6754659021,
+    "title": "PAPYRUS ADS"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Dateien und mehr"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   },
+   {
+    "kind": "similar",
+    "id": 6785237535,
+    "title": "Papyr - Doc. y orden"
+   },
+   {
+    "kind": "similar",
+    "id": 6773018359,
+    "title": "Papyri"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6761497574,
+    "title": "Papiro"
+   },
+   {
+    "kind": "similar",
+    "id": 6797100760,
+    "title": "Papyr: Subscription Tracker"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   },
+   {
+    "kind": "similar",
+    "id": 6785237535,
+    "title": "Papyr - Doc y orden"
+   },
+   {
+    "kind": "similar",
+    "id": 6760626909,
+    "title": "Papyr - Document Scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6758280008,
+    "title": "Papyr"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1435599642,
+    "title": "PAPYRUS"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "GB": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   },
+   {
+    "kind": "similar",
+    "id": 6785237535,
+    "title": "Papyr - Doc. y orden"
+   },
+   {
+    "kind": "similar",
+    "id": 6773018359,
+    "title": "Papyri"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - ノート, PDF"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "similar",
+    "id": 6760626909,
+    "title": "Papyr - Document Scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   },
+   {
+    "kind": "similar",
+    "id": 6785237535,
+    "title": "Papyr - Doc. y orden"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6754659021,
+    "title": "PAPYRUS ADS"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6785237535,
+    "title": "Papyr - Doc & ordine"
+   },
+   {
+    "kind": "similar",
+    "id": 6797100760,
+    "title": "Papyr: Subscription Tracker"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   },
+   {
+    "kind": "similar",
+    "id": 6760626909,
+    "title": "Papyr - Document Scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6473137300,
+    "title": "Papyrus Offline"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "similar",
+    "id": 6473137300,
+    "title": "Papyrus Offline"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1435599642,
+    "title": "PAPYRUS"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6754659021,
+    "title": "PAPYRUS ADS"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6761497574,
+    "title": "Papiro"
+   },
+   {
+    "kind": "similar",
+    "id": 6758280008,
+    "title": "Papyr"
+   },
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   },
+   {
+    "kind": "similar",
+    "id": 6785237535,
+    "title": "Papyr - Doc. y orden"
+   },
+   {
+    "kind": "similar",
+    "id": 6773018359,
+    "title": "Papyri"
+   },
+   {
+    "kind": "similar",
+    "id": 6760626909,
+    "title": "Papyr - Document Scanner"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   },
+   {
+    "kind": "similar",
+    "id": 6785237535,
+    "title": "Papyr - Doc. y orden"
+   },
+   {
+    "kind": "similar",
+    "id": 6773018359,
+    "title": "Papyri"
+   },
+   {
+    "kind": "similar",
+    "id": 6760626909,
+    "title": "Papyr - Document Scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6758280008,
+    "title": "Papyr"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "NZ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "OM": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 6760626909,
+    "title": "Papyr - Document Scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6758280008,
+    "title": "Papyr"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6473137300,
+    "title": "Papyrus Offline"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6473137300,
+    "title": "Papyrus Offline"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6753226168,
+    "title": "Papiro Reverso"
+   },
+   {
+    "kind": "similar",
+    "id": 6761497574,
+    "title": "Papiro: Livros e Leituras"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "similar",
+    "id": 6760125804,
+    "title": "Papyr: Audiolibros desde PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "similar",
+    "id": 6758280008,
+    "title": "Papyr"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6761552093,
+    "title": "Papyrus: Learn English Words"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6473137300,
+    "title": "Papyrus Offline"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "US": [
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6779149036,
+    "title": "Papyrus - notes, PDF"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Archivos y más"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6757793184,
+    "title": "Papyrly: Beyond The Page"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 6473137300,
+    "title": "Papyrus Offline"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "ZA": [
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   },
+   {
+    "kind": "similar",
+    "id": 6654918172,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 6753624249,
+    "title": "papyrus: your own story writer"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 522141912,
+    "title": "Papyrus Software"
+   }
+  ],
+  "ZM": [
+   {
+    "kind": "similar",
+    "id": 1643604819,
+    "title": "Papyrus: Files and more"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "similar",
+    "id": 912318476,
+    "title": "Papyrus Mobile"
+   },
+   {
+    "kind": "exact",
+    "id": 1504424548,
+    "title": "Papyro: Legal News"
+   },
+   {
+    "kind": "similar",
+    "id": 972080369,
+    "title": "Papyros"
+   },
+   {
+    "kind": "similar",
+    "id": 1505964019,
+    "title": "Papyros for Business"
+   },
+   {
+    "kind": "similar",
+    "id": 1448700880,
+    "title": "Papyrus Underworld"
+   },
+   {
+    "kind": "similar",
+    "id": 6766133716,
+    "title": "Papyrus: Research Library"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "88845213",
+   "wordmark": "PAPYRO",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "MR. CHRISTMAS, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "98035653",
+   "wordmark": "PAPYRO",
+   "alive": true,
+   "classes": [
+    "IC 034"
+   ],
+   "owner": "REMARK GROUP LLC (LIMITED LIABILITY COMPANY; NEW YORK, USA)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "75145673",
+   "wordmark": "PAPIRO",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Cesolari, Emanuela Esposto (INDIVIDUAL; ITALY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97890169",
+   "wordmark": "PAPIRO GEMS",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Ines Anton Losada (INDIVIDUAL; SPAIN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85599395",
+   "wordmark": "PAPYRI",
+   "alive": false,
+   "classes": [
+    "IC 032",
+    "IC 003",
+    "IC 009",
+    "IC 014",
+    "IC 018"
+   ],
+   "owner": "PAPYRI (LIMITED LIABILITY COMPANY; FLORIDA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90702191",
+   "wordmark": "PAYPRO",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 042"
+   ],
+   "owner": "Sunlight Financial LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75633132",
+   "wordmark": "PAYPRO",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "PayPoint Electronic Payment Systems, Inc (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87454374",
+   "wordmark": "ZAPYRO",
+   "alive": false,
+   "classes": [
+    "IC 034"
+   ],
+   "owner": "Polynice, Frederic (LIMITED LIABILITY COMPANY; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74039344",
+   "wordmark": "PAYPRO",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "A.T.A. Information Services Inc. (CORPORATION; ILLINOIS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79321058",
+   "wordmark": "PAPERO",
+   "alive": false,
+   "classes": [
+    "IC 016",
+    "IC 018"
+   ],
+   "owner": "Tim Decker (INDIVIDUAL; GERMANY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77490453",
+   "wordmark": "PAPERO",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 028"
+   ],
+   "owner": "NIPPON DENKI KABUSHIKI KAISHA d/b/a NEC CORPORATION (CORPORATION; JAPAN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77862081",
+   "wordmark": "PAPYROS",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Spectrum Glass Company, Inc. (CORPORATION; WASHINGTON, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99252939",
+   "wordmark": "PAPYROS",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Terry Hermanson (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75486982",
+   "wordmark": "PAYPRO",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "PayPoint Electronic Payment Systems, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76289730",
+   "wordmark": "PAPYRON",
+   "alive": false,
+   "classes": [
+    "IC 016",
+    "IC 042",
+    "IC 002",
+    "IC 009"
+   ],
+   "owner": "Papyron B.V. (CORPORATION; NETHERLANDS)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97784770",
+   "wordmark": "PAPYROS",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Terry Hermanson (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75689592",
+   "wordmark": "PAYPRO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PayPoint Electronic Payment Systems, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85486492",
+   "wordmark": "PAPYRI",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Papyri (LIMITED LIABILITY COMPANY; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90288608",
+   "wordmark": "PAPURO",
+   "alive": true,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Jiaomei Huang (INDIVIDUAL; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77490457",
+   "wordmark": "PAPERO",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 028"
+   ],
+   "owner": "NIPPON DENKI KABUSHIKI KAISHA (CORPORATION; JAPAN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77906334",
+   "wordmark": "PAYPRO",
+   "alive": false,
+   "classes": [
+    "IC 035",
+    "IC 036",
+    "IC 038",
+    "IC 045"
+   ],
+   "owner": "Paypro Global, Inc. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85506352",
+   "wordmark": "PAPYRI",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "PAPYRI (LIMITED LIABILITY COMPANY; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99375580",
+   "wordmark": "HAPYRO",
+   "alive": true,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Hangzhou Hapyro Trading Co., Ltd. (Limited Company; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88900937",
+   "wordmark": "PAPRO",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Nimrod Rotem (INDIVIDUAL; ISRAEL)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88707114",
+   "wordmark": "PAPYR",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "QUIRKLOGIC, INC. (CORPORATION; CANADA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "72209248",
+   "wordmark": "PAYRO",
+   "alive": false,
+   "classes": [
+    "016."
+   ],
+   "owner": "FIRST NATIONAL AGENCY OF NAVARRE, INC. (CORPORATION; MINNESOTA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74423921",
+   "wordmark": "PAPRO",
+   "alive": false,
+   "classes": [
+    "IC 035",
+    "IC 041",
+    "IC 042"
+   ],
+   "owner": "DUSSELDORFER MESSEGESELLSCHAFT MBH - NOWEA (LIMITED LIABILITY COMPANY; GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85886439",
+   "wordmark": "PAPIRO SAZON",
+   "alive": false,
+   "classes": [
+    "IC 016",
+    "IC 029",
+    "IC 030"
+   ],
+   "owner": "Societe des Produits Nestle S.A. (CORPORATION; SWITZERLAND)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76427052",
+   "wordmark": "PAPRO-FR",
+   "alive": false,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "BROMINE COMPOUNDS LTD. (COMPANY; ISRAEL)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90753804",
+   "wordmark": "PAOPRO",
+   "alive": true,
+   "classes": [
+    "IC 021"
+   ],
+   "owner": "Hu Guowei (INDIVIDUAL; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90899831",
+   "wordmark": "APAPRO",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Sangi Co., Ltd. (CORPORATION; JAPAN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97420987",
+   "wordmark": "PAPRMO",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "OrigamVGames LLC (LIMITED LIABILITY COMPANY; IDAHO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78953039",
+   "wordmark": "PAXPRO",
+   "alive": false,
+   "classes": [
+    "IC 039",
+    "IC 042"
+   ],
+   "owner": "MeadWestvaco Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78953060",
+   "wordmark": "PAXPRO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "MeadWestvaco Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90693834",
+   "wordmark": "PAMPERO",
+   "alive": true,
+   "classes": [
+    "IC 029"
+   ],
+   "owner": "Argus Food Processing, Corp. (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77068277",
+   "wordmark": "PAPYRIA",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Leeflang Archives Corporation (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98094279",
+   "wordmark": "PAPYRUS",
+   "alive": true,
+   "classes": [
+    "IC 018"
+   ],
+   "owner": "PRGCO, LLC (LIMITED LIABILITY COMPANY; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90351192",
+   "wordmark": "PAPEROO",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Liberty Brands Limited (limited company (ltd.); UNITED KINGDOM)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88813475",
+   "wordmark": "PAPYRUS",
+   "alive": true,
+   "classes": [
+    "IC 014"
+   ],
+   "owner": "PRGCO, LLC (LIMITED LIABILITY COMPANY; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

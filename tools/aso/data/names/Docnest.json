@@ -1,0 +1,531 @@
+{
+ "method": "web-search",
+ "name": "Docnest",
+ "titleLength": 26,
+ "apps": {
+  "AE": [],
+  "AF": [],
+  "AG": [],
+  "AI": [],
+  "AL": [],
+  "AM": [],
+  "AO": [],
+  "AR": [],
+  "AT": [],
+  "AU": [],
+  "AZ": [],
+  "BA": [],
+  "BB": [],
+  "BE": [],
+  "BF": [],
+  "BG": [],
+  "BH": [],
+  "BJ": [],
+  "BM": [],
+  "BN": [],
+  "BO": [],
+  "BR": [],
+  "BS": [],
+  "BT": [],
+  "BW": [],
+  "BY": [],
+  "BZ": [],
+  "CA": [],
+  "CD": [],
+  "CG": [],
+  "CH": [],
+  "CI": [],
+  "CL": [],
+  "CM": [],
+  "CN": [],
+  "CO": [],
+  "CR": [],
+  "CV": [],
+  "CY": [],
+  "CZ": [],
+  "DE": [],
+  "DK": [],
+  "DM": [],
+  "DO": [],
+  "DZ": [],
+  "EC": [],
+  "EE": [],
+  "EG": [],
+  "ES": [],
+  "FI": [],
+  "FJ": [],
+  "FM": [],
+  "FR": [],
+  "GA": [],
+  "GB": [
+   {
+    "kind": "similar",
+    "id": 934767308,
+    "title": "DocuNet Viewer (Phone)"
+   }
+  ],
+  "GD": [],
+  "GE": [],
+  "GH": [],
+  "GM": [],
+  "GR": [],
+  "GT": [],
+  "GW": [],
+  "GY": [],
+  "HK": [],
+  "HN": [],
+  "HR": [],
+  "HU": [],
+  "ID": [],
+  "IE": [],
+  "IL": [],
+  "IN": [],
+  "IQ": [],
+  "IS": [],
+  "IT": [],
+  "JM": [],
+  "JO": [],
+  "JP": [],
+  "KE": [],
+  "KG": [],
+  "KH": [],
+  "KN": [],
+  "KR": [],
+  "KW": [],
+  "KY": [],
+  "KZ": [],
+  "LA": [],
+  "LB": [],
+  "LC": [],
+  "LK": [],
+  "LR": [],
+  "LT": [],
+  "LU": [],
+  "LV": [],
+  "LY": [],
+  "MA": [],
+  "MD": [],
+  "ME": [],
+  "MG": [],
+  "MK": [],
+  "ML": [],
+  "MM": [],
+  "MN": [],
+  "MO": [],
+  "MR": [],
+  "MS": [],
+  "MT": [],
+  "MU": [],
+  "MV": [],
+  "MW": [],
+  "MX": [],
+  "MY": [],
+  "MZ": [],
+  "NA": [],
+  "NE": [],
+  "NG": [],
+  "NI": [],
+  "NL": [],
+  "NO": [],
+  "NP": [],
+  "NR": [],
+  "NZ": [],
+  "OM": [],
+  "PA": [],
+  "PE": [],
+  "PG": [],
+  "PH": [],
+  "PK": [],
+  "PL": [],
+  "PT": [],
+  "PW": [],
+  "PY": [],
+  "QA": [],
+  "RO": [],
+  "RS": [],
+  "RU": [],
+  "RW": [],
+  "SA": [],
+  "SB": [],
+  "SC": [],
+  "SE": [],
+  "SG": [],
+  "SI": [],
+  "SK": [],
+  "SL": [],
+  "SN": [],
+  "SR": [],
+  "ST": [],
+  "SV": [],
+  "SZ": [],
+  "TC": [],
+  "TD": [],
+  "TH": [],
+  "TJ": [],
+  "TM": [],
+  "TN": [],
+  "TO": [],
+  "TR": [],
+  "TT": [],
+  "TW": [],
+  "TZ": [],
+  "UA": [],
+  "UG": [],
+  "US": [],
+  "UY": [],
+  "UZ": [],
+  "VC": [],
+  "VE": [],
+  "VG": [],
+  "VN": [],
+  "VU": [],
+  "YE": [],
+  "ZA": [],
+  "ZM": [],
+  "ZW": []
+ },
+ "marks": [
+  {
+   "serial": "98860215",
+   "wordmark": "DOCNEST",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Hangzhou Xiaoshan Ao Fei Si Craft Co., Ltd (limited company (ltd.); China)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "98850573",
+   "wordmark": "DOCNEST",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Hangzhou Xiaoshan Ao fei Si Craft Co., Ltd (limited company (ltd.); China)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "75871222",
+   "wordmark": "DOCFEST",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "New York Documentary Center (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88105039",
+   "wordmark": "LOCNEST",
+   "alive": true,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "Locnest Holding Inc. (CORPORATION; QUEBEC, CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99576204",
+   "wordmark": "DOCUNEST",
+   "alive": true,
+   "classes": [
+    "IC 045"
+   ],
+   "owner": "Bruce Leonard Winkler (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73697871",
+   "wordmark": "DOCNET",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "LASER RESOURCES, INC. (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74015179",
+   "wordmark": "DOCNET",
+   "alive": false,
+   "classes": [
+    "IC 038"
+   ],
+   "owner": "ALGEMENE BANK NEDERLAND N.V. (CORPORATION; NETHERLANDS)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75511713",
+   "wordmark": "DOCNET",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "New England Programming Specialists, Inc (JOINT VENTURE; NEW HAMPSHIRE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75425290",
+   "wordmark": "DOWNEAST",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Downeast Outfitters, Inc. (CORPORATION; UTAH, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99125399",
+   "wordmark": "BLOCNEST",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "VOCOFO (QINGDAO) METAL PRODUCTS CO., LTD (LIMITED LIABILITY COMPANY; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77443726",
+   "wordmark": "LOCKNEST",
+   "alive": false,
+   "classes": [
+    "IC 006"
+   ],
+   "owner": "NEW SIDELINES, INC. (CORPORATION; MINNESOTA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97726535",
+   "wordmark": "DOCNEWS",
+   "alive": true,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Doximity, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75924099",
+   "wordmark": "DOCQUEST",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Ohio Casualty Insurance Company, The (CORPORATION; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98628122",
+   "wordmark": "DOMENEST",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "DOMENEST LLC (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77097855",
+   "wordmark": "DOWNEAST",
+   "alive": true,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Downeast Outfitters, Inc. (CORPORATION; UTAH, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99526946",
+   "wordmark": "DOCUNEXT>",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "I.E.M. LIMITED LIABILITY CO. (LIMITED LIABILITY COMPANY; Wisconsin, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98726432",
+   "wordmark": "DR.NEST",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Jinyu Chang (INDIVIDUAL; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88759150",
+   "wordmark": "DOCKET",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Docket Technologies, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73379915",
+   "wordmark": "DOCKET",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Strategy Wares, Inc. (CORPORATION; VIRGINIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75341742",
+   "wordmark": "DOCENT",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Docent Software, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75341839",
+   "wordmark": "DOCENT",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "DOCENT, INC. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74368112",
+   "wordmark": "DOCKET",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Wallace Computer Services, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78612969",
+   "wordmark": "DOLNET",
+   "alive": false,
+   "classes": [
+    "IC 015"
+   ],
+   "owner": "Cascio Music Company, Inc. (CORPORATION; WISCONSIN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85403645",
+   "wordmark": "DOWNES",
+   "alive": true,
+   "classes": [
+    "IC 033"
+   ],
+   "owner": "SHANNON VINEYARDS & WINES CC (close corporation; SOUTH AFRICA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74079758",
+   "wordmark": "DOCENT",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Belser Knowledge Services (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77346575",
+   "wordmark": "DORNET",
+   "alive": false,
+   "classes": [
+    "IC 019"
+   ],
+   "owner": "Jerzy Lamot (LIMITED LIABILITY COMPANY; VIRGINIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90647967",
+   "wordmark": "DOCENT",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Revea, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75031341",
+   "wordmark": "DOTNET",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Teltrust Data Services, L.C. (LIMITED LIABILITY COMPANY; UTAH, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75154502",
+   "wordmark": "AOCNET",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Adia Services, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76148965",
+   "wordmark": "DOTNET",
+   "alive": false,
+   "classes": [
+    "IC 042",
+    "IC 038"
+   ],
+   "owner": "Action Advertising, Inc. (CORPORATION; WISCONSIN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85621895",
+   "wordmark": "DOPEST",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Dopest, Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

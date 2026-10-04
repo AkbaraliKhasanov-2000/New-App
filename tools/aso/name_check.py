@@ -144,22 +144,29 @@ def main(storefront_codes: list[str], names: list[str]):
     write_report(load_results(), storefront_codes)
 
 
+def close_marks(entry) -> list[dict]:
+    """Live US software marks (IC 009/042) identical to the name or one letter away."""
+    name = norm(entry["name"])
+    return [m for m in entry["marks"] if m["alive"] and m["software"]
+            and edit_distance(name, norm(m["wordmark"])) <= 1]
+
+
 def verdict(entry) -> tuple[str, str]:
     exact = {(h["id"], h["title"]) for hits in entry["apps"].values() for h in hits if h["kind"] == "exact"}
     similar = {(h["id"], h["title"]) for hits in entry["apps"].values() for h in hits if h["kind"] == "similar"}
-    live_soft = [m for m in entry["marks"] if m["alive"] and m["software"]]
-    if exact or any(m["match"] == "exact" for m in live_soft):
-        reason = "; ".join(sorted({t for _, t in exact})[:3]) or "USPTO: " + ", ".join(m["wordmark"] for m in live_soft if m["match"] == "exact")
+    marks = close_marks(entry)
+    if exact or any(norm(m["wordmark"]) == norm(entry["name"]) for m in marks):
+        reason = "; ".join(sorted({t for _, t in exact})[:3]) or "USPTO: " + ", ".join(m["wordmark"] for m in marks)
         return "band", reason
-    if similar or live_soft:
-        parts = sorted({t for _, t in similar})[:3] + [f"TM {m['wordmark']} ({'/'.join(m['classes'])})" for m in live_soft][:2]
+    if similar or marks:
+        parts = sorted({t for _, t in similar})[:3] + [f"TM {m['wordmark']} ({'/'.join(m['classes'])})" for m in marks][:2]
         return "xavfli", "; ".join(parts)
     return "toza", "—"
 
 
 def write_report(results, storefront_codes):
     lines = [
-        f"| Nom | {TITLE_SUFFIX.strip(': ')} bilan uzunlik | Aynan bir xil (do'konlar) | O'xshash (do'konlar) | USPTO faol (9/42-sinf) | Xulosa | Sabab |",
+        f"| Nom | {TITLE_SUFFIX.strip(': ')} bilan uzunlik | Aynan bir xil (do'konlar) | O'xshash (do'konlar) | USPTO faol, ≤1 harf farq (9/42-sinf) | Xulosa | Sabab |",
         "|---|---|---|---|---|---|---|",
     ]
     for name in CANDIDATES:
@@ -168,7 +175,7 @@ def write_report(results, storefront_codes):
             continue
         exact_sf = sorted(cc for cc, hits in entry["apps"].items() if any(h["kind"] == "exact" for h in hits))
         similar_sf = sorted(cc for cc, hits in entry["apps"].items() if any(h["kind"] == "similar" for h in hits))
-        live = [m for m in entry["marks"] if m["alive"] and m["software"]]
+        live = close_marks(entry)
         status, reason = verdict(entry)
         lines.append(f"| **{name}** | {entry['titleLength']}/30 | {len(exact_sf)} | {len(similar_sf)} | {len(live)} | "
                      f"{ {'toza': '✅ toza', 'xavfli': '⚠️ xavfli', 'band': '❌ band'}[status] } | {reason} |")

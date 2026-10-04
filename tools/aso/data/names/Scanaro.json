@@ -1,0 +1,2820 @@
+{
+ "method": "web-search",
+ "name": "Scanaro",
+ "titleLength": 26,
+ "apps": {
+  "AE": [
+   {
+    "kind": "similar",
+    "id": 6761505023,
+    "title": "Scenario Edge: Portfolio AI"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6479898299,
+    "title": "scen.ar/io - Storyboard"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "AT": [],
+  "AU": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "AZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "BG": [],
+  "BH": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6760088733,
+    "title": "Scenario Mobile"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "CA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "CD": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "CH": [],
+  "CI": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6763792116,
+    "title": "Scenario Zero"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "similar",
+    "id": 1450483651,
+    "title": "TRW ScanAR"
+   },
+   {
+    "kind": "similar",
+    "id": 1068310241,
+    "title": "scanAR - AR scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6747756638,
+    "title": "ScanAR Partner"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6760088733,
+    "title": "Scenario Mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 6479898299,
+    "title": "scen.ar/io - Storyboard"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6739965321,
+    "title": "Scenario"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   }
+  ],
+  "DE": [],
+  "DK": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 6479898299,
+    "title": "scen.ar/io - Storyboard"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 6760088733,
+    "title": "Scenario Mobile"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "similar",
+    "id": 1068310241,
+    "title": "scanAR - AR scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6770154160,
+    "title": "ScanarX Smart Receipt Scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 6747756638,
+    "title": "ScanAR Partner"
+   },
+   {
+    "kind": "similar",
+    "id": 1450483651,
+    "title": "TRW ScanAR"
+   }
+  ],
+  "FI": [],
+  "FJ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "FR": [],
+  "GA": [
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "GB": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "GD": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "GR": [],
+  "GT": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "HU": [],
+  "ID": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1497541309,
+    "title": "Scania Manual"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "IS": [],
+  "IT": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "JP": [],
+  "KE": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "KR": [],
+  "KW": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "LB": [],
+  "LC": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6739965321,
+    "title": "Scenario"
+   }
+  ],
+  "LU": [],
+  "LV": [
+   {
+    "kind": "similar",
+    "id": 6479898299,
+    "title": "scen.ar/io - Storyboard"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "MD": [],
+  "ME": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "similar",
+    "id": 6479898299,
+    "title": "scen.ar/io - Storyboard"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6761505023,
+    "title": "Scenario Edge: Portfolio AI"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6776936595,
+    "title": "Scenario Line"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "MT": [],
+  "MU": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "similar",
+    "id": 1068310241,
+    "title": "scanAR - AR scanner"
+   },
+   {
+    "kind": "similar",
+    "id": 1450483651,
+    "title": "TRW ScanAR"
+   },
+   {
+    "kind": "similar",
+    "id": 6747756638,
+    "title": "ScanAR Partner"
+   },
+   {
+    "kind": "similar",
+    "id": 6770154160,
+    "title": "ScanarX Smart Receipt Scanner"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "NZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "OM": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6763792116,
+    "title": "Scenario Zero"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6479898299,
+    "title": "scen.ar/io - Storyboard"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6763792116,
+    "title": "Scenario Zero"
+   }
+  ],
+  "RU": [],
+  "RW": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "similar",
+    "id": 6739965321,
+    "title": "Scenario"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "SI": [],
+  "SK": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "US": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 1602354911,
+    "title": "scenario(シナリオ)でマッチング-出会い・恋活・婚活"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 6744600876,
+    "title": "Scenario 737"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6761505023,
+    "title": "Scenario Edge: Portfolio AI"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6615075126,
+    "title": "Scenarios - Aprender ingles"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   },
+   {
+    "kind": "similar",
+    "id": 6808954297,
+    "title": "Scenario 台灣影展資訊"
+   },
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "similar",
+    "id": 1528579803,
+    "title": "Scenario -- Tiger Board Games"
+   },
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "ZA": [
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "ZM": [
+   {
+    "kind": "similar",
+    "id": 426414152,
+    "title": "Scenario Touch"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "similar",
+    "id": 1420863733,
+    "title": "Scenario ENTERPRISE"
+   },
+   {
+    "kind": "similar",
+    "id": 6451447697,
+    "title": "Scenario mobile"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "73661386",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "AMERICAN SMALL BUSINESS COMPUTERS, INC. (CORPORATION; OKLAHOMA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76219555",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "Inductoheat, Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79000197",
+   "wordmark": "SCANPRO",
+   "alive": true,
+   "classes": [
+    "IC 029"
+   ],
+   "owner": "BHJ A/S (limited company; DENMARK)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "72417529",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "009."
+   ],
+   "owner": "SKANDINAVISKA PROCESSINSTRUMENT AB (CORPORATION; SWEDEN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98705463",
+   "wordmark": "SCANAR",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 042"
+   ],
+   "owner": "DuroByte Inc. (CORPORATION; Canada)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77777769",
+   "wordmark": "SCANAROO",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Cerado, Inc. (CORPORATION; NEVADA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78033590",
+   "wordmark": "SCANART",
+   "alive": false,
+   "classes": [
+    "IC 040"
+   ],
+   "owner": "SCANART (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87310177",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 042"
+   ],
+   "owner": "CANBONIM LTD. (CORPORATION; CANADA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98373310",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Sparks Belting Company, Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74076596",
+   "wordmark": "SCANDRO",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Importex International, Inc. (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77150702",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SPX Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86653204",
+   "wordmark": "SCANPRO",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "AllPredatorCalls.com (CORPORATION; UTAH, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86407100",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Sirchie Acquisition Company, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77774411",
+   "wordmark": "SCANAROO",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Cerado, Inc. (CORPORATION; NEVADA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86346003",
+   "wordmark": "SCANMRO",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Global Equipment Company Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75270677",
+   "wordmark": "SCANPRO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Proton Corporation (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76475197",
+   "wordmark": "SCANAVO",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SCANAVO A/S (CORPORATION; DENMARK)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77805739",
+   "wordmark": "SCANPRO",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "E-Imagedata Corp. (CORPORATION; WISCONSIN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79456704",
+   "wordmark": "SCANPRO",
+   "alive": true,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "BHJ A/S (PRIVATE LIMITED COMPANY; DENMARK)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75019487",
+   "wordmark": "CANARI",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Kassach Marketing, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "81030751",
+   "wordmark": "SCANAR",
+   "alive": false,
+   "classes": [
+    "IC 014"
+   ],
+   "owner": "Dundee, Inc. (UNKNOWN; Not in List)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99099684",
+   "wordmark": "SCANAR",
+   "alive": true,
+   "classes": [
+    "IC 010",
+    "IC 009"
+   ],
+   "owner": "ARBORSENSE, INC. (CORPORATION; Michigan, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98030208",
+   "wordmark": "CANARI",
+   "alive": true,
+   "classes": [
+    "IC 044"
+   ],
+   "owner": "Canari Med Spa LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73283887",
+   "wordmark": "SCENARIO",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Mast Industries, Inc. (CORPORATION; MASSACHUSETTS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97872430",
+   "wordmark": "SANARIO",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Shenzhen Gancheng Technology Co., Ltd. (limited company (ltd.); CHINA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74145524",
+   "wordmark": "SCENARIO",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "WEBCORP (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74294774",
+   "wordmark": "SCANMARK",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Scan-Graphics, Inc. (CORPORATION; UTAH, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99089777",
+   "wordmark": "SALNARO",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Hailong Hu (INDIVIDUAL; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75201956",
+   "wordmark": "SCENARIO",
+   "alive": false,
+   "classes": [
+    "IC 039"
+   ],
+   "owner": "SOCIETE NATIONALE DES CHEMINS DE FER FRANCAIS - S.N.C.F. (PUBLIC BODY; FRANCE)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76133288",
+   "wordmark": "SCENARIO",
+   "alive": false,
+   "classes": [
+    "IC 016",
+    "IC 040"
+   ],
+   "owner": "Vicki Schober Company, Inc. (CORPORATION; WISCONSIN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75058081",
+   "wordmark": "SCANBAR",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Symbol Technologies, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78607650",
+   "wordmark": "SCANCART",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Tann, Lewis (INDIVIDUAL; USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78655391",
+   "wordmark": "SCANDALO",
+   "alive": false,
+   "classes": [
+    "IC 033"
+   ],
+   "owner": "NAVARRO, FELIPE JESUS (INDIVIDUAL; MEXICO)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73674928",
+   "wordmark": "SCANWARE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "AMERICAN TELEPHONE AND TELEGRAPH COMPANY (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73682038",
+   "wordmark": "SCANMARK",
+   "alive": false,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "SCANMARK, INC. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "72125213",
+   "wordmark": "SCANALOG",
+   "alive": false,
+   "classes": [
+    "009."
+   ],
+   "owner": "GENERAL PRECISION, INC. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "72215262",
+   "wordmark": "SCANALOG",
+   "alive": false,
+   "classes": [
+    "040."
+   ],
+   "owner": "SCHLUMBERGER TECHNOLOGY CORPORATION (CORPORATION; TEXAS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77133985",
+   "wordmark": "SCANTROL",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Specialty Minerals (Michigan) Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75230440",
+   "wordmark": "SCANTRON",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 016"
+   ],
+   "owner": "SCANTRON CORPORATION (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76192160",
+   "wordmark": "SCADAPRO",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "ScadaPro, Inc. (CORPORATION; ARIZONA, USA)",
+   "software": true,
+   "match": "similar"
+  }
+ ]
+}

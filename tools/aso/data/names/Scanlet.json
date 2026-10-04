@@ -1,0 +1,3127 @@
+{
+ "method": "web-search",
+ "name": "Scanlet",
+ "titleLength": 26,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "AU": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   }
+  ],
+  "AZ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "similar",
+    "id": 6802842103,
+    "title": "Scarlet Loop"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1265228084,
+    "title": "Scarlet Knights"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "CA": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "CD": [
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6802842103,
+    "title": "Scarlet Loop"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1086141497,
+    "title": "Scarlet Sails"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1290192302,
+    "title": "Scarlet Knight Hair and Beauty"
+   },
+   {
+    "kind": "similar",
+    "id": 1086141497,
+    "title": "Scarlet Sails"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1265228084,
+    "title": "Scarlet Knights"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI - Chatbot App"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "GB": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "GD": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6786715836,
+    "title": "Scarlet Waters"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1488701394,
+    "title": "Scarlet Knights Light Show"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   },
+   {
+    "kind": "similar",
+    "id": 1451759190,
+    "title": "Scarlett & Jo"
+   },
+   {
+    "kind": "similar",
+    "id": 6802842103,
+    "title": "Scarlet Loop"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6802842103,
+    "title": "Scarlet Loop"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6786715836,
+    "title": "Scarlet Waters"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1290192302,
+    "title": "Scarlet Knight Hair and Beauty"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "NZ": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "OM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1086141497,
+    "title": "Scarlet Sails"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1038101533,
+    "title": "Scarlets Official Matchday"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6476643375,
+    "title": "Scarlet Girls - Elite Edition"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6788776431,
+    "title": "Scarlet Cardinal Studios"
+   },
+   {
+    "kind": "similar",
+    "id": 6802842103,
+    "title": "Scarlet Loop"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1265228084,
+    "title": "Scarlet Knights"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   },
+   {
+    "kind": "similar",
+    "id": 1038101533,
+    "title": "Scarlets Official Matchday"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6759722699,
+    "title": "ScarletX"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "US": [
+   {
+    "kind": "similar",
+    "id": 1572651177,
+    "title": "Scarlet App"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6450859908,
+    "title": "MyScarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6499012781,
+    "title": "Scarlet AI – Chatbot Assistant"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   },
+   {
+    "kind": "similar",
+    "id": 6503706487,
+    "title": "Scarlet's Haunted Hotel"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 6754688766,
+    "title": "SCARLET MAMBO"
+   },
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   }
+  ],
+  "ZA": [
+   {
+    "kind": "exact",
+    "id": 6742644180,
+    "title": "Scanlet"
+   }
+  ],
+  "ZM": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "similar",
+    "id": 1412551432,
+    "title": "Scarlett"
+   },
+   {
+    "kind": "similar",
+    "id": 1532669250,
+    "title": "Scarlet"
+   },
+   {
+    "kind": "similar",
+    "id": 1541894354,
+    "title": "Scarlet Note"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "76075262",
+   "wordmark": "SCANLET",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "AirClic Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "76301595",
+   "wordmark": "SCANLET WIZARD",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 035"
+   ],
+   "owner": "AirClic, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73554619",
+   "wordmark": "SCANOLET",
+   "alive": false,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "VENEDIKIAN, MANOOK HARRY (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76079721",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 030"
+   ],
+   "owner": "Wilbur Chocolate Co., Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85640340",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 026"
+   ],
+   "owner": "EVE HAIR, INC. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87081732",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 033"
+   ],
+   "owner": "E. & J. Gallo Winery (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75352110",
+   "wordmark": "SCANLEY",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "ASSET INTERTECH, INC. (CORPORATION; TEXAS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75471131",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Classy & Jazzy, Inc. (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76509490",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 031"
+   ],
+   "owner": "Seminis Vegetable Seeds, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73293535",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 034"
+   ],
+   "owner": "Loew's Theatres, Inc. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75537039",
+   "wordmark": "SCANJET",
+   "alive": false,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "Thermo Fibertek Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85486133",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "LegalNet Works Inc. (CORPORATION; DISTRICT OF COLUMBIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85486158",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "LegalNet Works Inc. (CORPORATION; DISTRICT OF COLUMBIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85486163",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "LegalNet Works Inc. (CORPORATION; DISTRICT OF COLUMBIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77390121",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Red.com, Inc. (CORPORATION; WASHINGTON, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99332896",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 005",
+    "IC 010"
+   ],
+   "owner": "The Word Collective Pty Ltd (PRIVATE COMPANY LIMITED BY SHARES; Australia)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98863204",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "ADAMA Makhteshim Ltd. (CORPORATION; Israel)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73679246",
+   "wordmark": "SCANET",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 042"
+   ],
+   "owner": "SKANDINAVISK DATACO A/S (LIMITED LIABILITY COMPANY; DENMARK)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75912206",
+   "wordmark": "SCANET",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Netimage Corporation (CORPORATION; TAIWAN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75406145",
+   "wordmark": "CANLET",
+   "alive": false,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Canplas Industries, Ltd. (CORPORATION; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75111823",
+   "wordmark": "SCANET",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Newtronics, Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73304874",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Rutgers, The Rutgers, University (incorporated instrumentality; NEW JERSEY, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74541287",
+   "wordmark": "SCANSET",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "METROLOGIC INSTRUMENTS, INC. (CORPORATION; NEW JERSEY, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77868347",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Crayola Properties, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77343861",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 018"
+   ],
+   "owner": "Paul M. Schreiber (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88486750",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 043"
+   ],
+   "owner": "O-Spot, Inc. (CORPORATION; ILLINOIS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87691327",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 033"
+   ],
+   "owner": "STEELE, JEDEDIAH TECUMSEH (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97473377",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 044"
+   ],
+   "owner": "BIOREFERENCE HEALTH, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77202397",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 014"
+   ],
+   "owner": "Azotic Coating Technology, Inc. (CORPORATION; MINNESOTA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77385070",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "LG Electronics Inc. (CORPORATION; REPUBLIC OF KOREA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77691654",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "DELTA PERFUME HOUSE, INC. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97006476",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 004"
+   ],
+   "owner": "Scentbird, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85486137",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "LegalNet Works Inc. (CORPORATION; DISTRICT OF COLUMBIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87053828",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "Armon Ltd (CORPORATION; ANTIGUA & BARBUDA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99320005",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 035",
+    "IC 003",
+    "IC 005"
+   ],
+   "owner": "RedDrop Inc (CORPORATION; Delaware, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99833526",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "SADDLEBACK CHRISTIAN ACADEMY (CHARITABLE, NON-PROFIT CORPORATION; California, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78414703",
+   "wordmark": "SCANJET",
+   "alive": true,
+   "classes": [
+    "IC 007",
+    "IC 021"
+   ],
+   "owner": "Scanjet Marine AB (CORPORATION; SWEDEN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99383063",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "RedDrop Inc (CORPORATION; Delaware, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74382786",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 029"
+   ],
+   "owner": "Aqua Star, Inc. (CORPORATION; WASHINGTON, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90817094",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 044"
+   ],
+   "owner": "BIOREFERENCE HEALTH, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73112708",
+   "wordmark": "SCANJET",
+   "alive": false,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "WESTVACO CORPORATION (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85845540",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Na, Jongju (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73563055",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "ROCKIT TALENT AGENCY (PARTNERSHIP; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75005496",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SCIENTIFIC-ATLANTA, INC. (CORPORATION; GEORGIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79015643",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "SALOMON S.A. (UNKNOWN; Not in List)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79292525",
+   "wordmark": "SCARLET",
+   "alive": true,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "Chr. Hansen A/S (PUBLIC LIMITED COMPANY; DENMARK)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79371170",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 029"
+   ],
+   "owner": "Norwegian Seafood Group B.V. (UNKNOWN; NETHERLANDS)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85486094",
+   "wordmark": "SCARLET",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "LegalNet Works Inc. (CORPORATION; DISTRICT OF COLUMBIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73551768",
+   "wordmark": "SCANSET",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "MATRA COMMUNICATION (CORPORATION; FRANCE)",
+   "software": true,
+   "match": "similar"
+  }
+ ]
+}

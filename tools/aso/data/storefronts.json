@@ -1,0 +1,872 @@
+[
+ {
+  "code": "AE",
+  "name": "United Arab Emirates",
+  "storefrontId": 143481
+ },
+ {
+  "code": "AF",
+  "name": "Afghanistan",
+  "storefrontId": null
+ },
+ {
+  "code": "AG",
+  "name": "Antigua and Barbuda",
+  "storefrontId": null
+ },
+ {
+  "code": "AI",
+  "name": "Anguilla",
+  "storefrontId": 143538
+ },
+ {
+  "code": "AL",
+  "name": "Albania",
+  "storefrontId": null
+ },
+ {
+  "code": "AM",
+  "name": "Armenia",
+  "storefrontId": 143524
+ },
+ {
+  "code": "AO",
+  "name": "Angola",
+  "storefrontId": 143564
+ },
+ {
+  "code": "AR",
+  "name": "Argentina",
+  "storefrontId": 143505
+ },
+ {
+  "code": "AT",
+  "name": "Austria",
+  "storefrontId": 143445
+ },
+ {
+  "code": "AU",
+  "name": "Australia",
+  "storefrontId": 143460
+ },
+ {
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "storefrontId": 143568
+ },
+ {
+  "code": "BA",
+  "name": "Bosnia and Herzegovina",
+  "storefrontId": null
+ },
+ {
+  "code": "BB",
+  "name": "Barbados",
+  "storefrontId": 143541
+ },
+ {
+  "code": "BE",
+  "name": "Belgium",
+  "storefrontId": 143446
+ },
+ {
+  "code": "BF",
+  "name": "Burkina Faso",
+  "storefrontId": null
+ },
+ {
+  "code": "BG",
+  "name": "Bulgaria",
+  "storefrontId": 143526
+ },
+ {
+  "code": "BH",
+  "name": "Bahrain",
+  "storefrontId": 143559
+ },
+ {
+  "code": "BJ",
+  "name": "Benin",
+  "storefrontId": null
+ },
+ {
+  "code": "BM",
+  "name": "Bermuda",
+  "storefrontId": 143542
+ },
+ {
+  "code": "BN",
+  "name": "Brunei Darussalam",
+  "storefrontId": 143560
+ },
+ {
+  "code": "BO",
+  "name": "Bolivia, Plurinational State of",
+  "storefrontId": 143556
+ },
+ {
+  "code": "BR",
+  "name": "Brazil",
+  "storefrontId": 143503
+ },
+ {
+  "code": "BS",
+  "name": "Bahamas",
+  "storefrontId": null
+ },
+ {
+  "code": "BT",
+  "name": "Bhutan",
+  "storefrontId": null
+ },
+ {
+  "code": "BW",
+  "name": "Botswana",
+  "storefrontId": 143525
+ },
+ {
+  "code": "BY",
+  "name": "Belarus",
+  "storefrontId": 143565
+ },
+ {
+  "code": "BZ",
+  "name": "Belize",
+  "storefrontId": 143555
+ },
+ {
+  "code": "CA",
+  "name": "Canada",
+  "storefrontId": 143455
+ },
+ {
+  "code": "CD",
+  "name": "Congo, The Democratic Republic of the",
+  "storefrontId": null
+ },
+ {
+  "code": "CG",
+  "name": "Congo",
+  "storefrontId": null
+ },
+ {
+  "code": "CH",
+  "name": "Switzerland",
+  "storefrontId": 143459
+ },
+ {
+  "code": "CI",
+  "name": "Côte d'Ivoire",
+  "storefrontId": null
+ },
+ {
+  "code": "CL",
+  "name": "Chile",
+  "storefrontId": 143483
+ },
+ {
+  "code": "CM",
+  "name": "Cameroon",
+  "storefrontId": null
+ },
+ {
+  "code": "CN",
+  "name": "China",
+  "storefrontId": 143465
+ },
+ {
+  "code": "CO",
+  "name": "Colombia",
+  "storefrontId": 143501
+ },
+ {
+  "code": "CR",
+  "name": "Costa Rica",
+  "storefrontId": 143495
+ },
+ {
+  "code": "CV",
+  "name": "Cabo Verde",
+  "storefrontId": null
+ },
+ {
+  "code": "CY",
+  "name": "Cyprus",
+  "storefrontId": 143557
+ },
+ {
+  "code": "CZ",
+  "name": "Czechia",
+  "storefrontId": 143489
+ },
+ {
+  "code": "DE",
+  "name": "Germany",
+  "storefrontId": 143443
+ },
+ {
+  "code": "DK",
+  "name": "Denmark",
+  "storefrontId": 143458
+ },
+ {
+  "code": "DM",
+  "name": "Dominica",
+  "storefrontId": 143545
+ },
+ {
+  "code": "DO",
+  "name": "Dominican Republic",
+  "storefrontId": null
+ },
+ {
+  "code": "DZ",
+  "name": "Algeria",
+  "storefrontId": 143563
+ },
+ {
+  "code": "EC",
+  "name": "Ecuador",
+  "storefrontId": 143509
+ },
+ {
+  "code": "EE",
+  "name": "Estonia",
+  "storefrontId": 143518
+ },
+ {
+  "code": "EG",
+  "name": "Egypt",
+  "storefrontId": 143516
+ },
+ {
+  "code": "ES",
+  "name": "Spain",
+  "storefrontId": 143454
+ },
+ {
+  "code": "FI",
+  "name": "Finland",
+  "storefrontId": 143447
+ },
+ {
+  "code": "FJ",
+  "name": "Fiji",
+  "storefrontId": null
+ },
+ {
+  "code": "FM",
+  "name": "Micronesia, Federated States of",
+  "storefrontId": null
+ },
+ {
+  "code": "FR",
+  "name": "France",
+  "storefrontId": 143442
+ },
+ {
+  "code": "GA",
+  "name": "Gabon",
+  "storefrontId": null
+ },
+ {
+  "code": "GB",
+  "name": "United Kingdom",
+  "storefrontId": 143444
+ },
+ {
+  "code": "GD",
+  "name": "Grenada",
+  "storefrontId": 143546
+ },
+ {
+  "code": "GE",
+  "name": "Georgia",
+  "storefrontId": null
+ },
+ {
+  "code": "GH",
+  "name": "Ghana",
+  "storefrontId": 143573
+ },
+ {
+  "code": "GM",
+  "name": "Gambia",
+  "storefrontId": null
+ },
+ {
+  "code": "GR",
+  "name": "Greece",
+  "storefrontId": 143448
+ },
+ {
+  "code": "GT",
+  "name": "Guatemala",
+  "storefrontId": 143504
+ },
+ {
+  "code": "GW",
+  "name": "Guinea-Bissau",
+  "storefrontId": null
+ },
+ {
+  "code": "GY",
+  "name": "Guyana",
+  "storefrontId": 143553
+ },
+ {
+  "code": "HK",
+  "name": "Hong Kong",
+  "storefrontId": 143463
+ },
+ {
+  "code": "HN",
+  "name": "Honduras",
+  "storefrontId": 143510
+ },
+ {
+  "code": "HR",
+  "name": "Croatia",
+  "storefrontId": 143494
+ },
+ {
+  "code": "HU",
+  "name": "Hungary",
+  "storefrontId": 143482
+ },
+ {
+  "code": "ID",
+  "name": "Indonesia",
+  "storefrontId": 143476
+ },
+ {
+  "code": "IE",
+  "name": "Ireland",
+  "storefrontId": 143449
+ },
+ {
+  "code": "IL",
+  "name": "Israel",
+  "storefrontId": 143491
+ },
+ {
+  "code": "IN",
+  "name": "India",
+  "storefrontId": 143467
+ },
+ {
+  "code": "IQ",
+  "name": "Iraq",
+  "storefrontId": null
+ },
+ {
+  "code": "IS",
+  "name": "Iceland",
+  "storefrontId": 143558
+ },
+ {
+  "code": "IT",
+  "name": "Italy",
+  "storefrontId": 143450
+ },
+ {
+  "code": "JM",
+  "name": "Jamaica",
+  "storefrontId": 143511
+ },
+ {
+  "code": "JO",
+  "name": "Jordan",
+  "storefrontId": 143528
+ },
+ {
+  "code": "JP",
+  "name": "Japan",
+  "storefrontId": 143462
+ },
+ {
+  "code": "KE",
+  "name": "Kenya",
+  "storefrontId": 143529
+ },
+ {
+  "code": "KG",
+  "name": "Kyrgyzstan",
+  "storefrontId": null
+ },
+ {
+  "code": "KH",
+  "name": "Cambodia",
+  "storefrontId": null
+ },
+ {
+  "code": "KN",
+  "name": "Saint Kitts and Nevis",
+  "storefrontId": null
+ },
+ {
+  "code": "KR",
+  "name": "Korea, Republic of",
+  "storefrontId": 143466
+ },
+ {
+  "code": "KW",
+  "name": "Kuwait",
+  "storefrontId": 143493
+ },
+ {
+  "code": "KY",
+  "name": "Cayman Islands",
+  "storefrontId": 143544
+ },
+ {
+  "code": "KZ",
+  "name": "Kazakhstan",
+  "storefrontId": null
+ },
+ {
+  "code": "LA",
+  "name": "Lao People's Democratic Republic",
+  "storefrontId": null
+ },
+ {
+  "code": "LB",
+  "name": "Lebanon",
+  "storefrontId": 143497
+ },
+ {
+  "code": "LC",
+  "name": "Saint Lucia",
+  "storefrontId": null
+ },
+ {
+  "code": "LK",
+  "name": "Sri Lanka",
+  "storefrontId": 143486
+ },
+ {
+  "code": "LR",
+  "name": "Liberia",
+  "storefrontId": null
+ },
+ {
+  "code": "LT",
+  "name": "Lithuania",
+  "storefrontId": 143520
+ },
+ {
+  "code": "LU",
+  "name": "Luxembourg",
+  "storefrontId": 143451
+ },
+ {
+  "code": "LV",
+  "name": "Latvia",
+  "storefrontId": 143519
+ },
+ {
+  "code": "LY",
+  "name": "Libya",
+  "storefrontId": null
+ },
+ {
+  "code": "MA",
+  "name": "Morocco",
+  "storefrontId": null
+ },
+ {
+  "code": "MD",
+  "name": "Moldova, Republic of",
+  "storefrontId": null
+ },
+ {
+  "code": "ME",
+  "name": "Montenegro",
+  "storefrontId": null
+ },
+ {
+  "code": "MG",
+  "name": "Madagascar",
+  "storefrontId": 143531
+ },
+ {
+  "code": "MK",
+  "name": "North Macedonia",
+  "storefrontId": 143530
+ },
+ {
+  "code": "ML",
+  "name": "Mali",
+  "storefrontId": 143532
+ },
+ {
+  "code": "MM",
+  "name": "Myanmar",
+  "storefrontId": null
+ },
+ {
+  "code": "MN",
+  "name": "Mongolia",
+  "storefrontId": null
+ },
+ {
+  "code": "MO",
+  "name": "Macao",
+  "storefrontId": 143515
+ },
+ {
+  "code": "MR",
+  "name": "Mauritania",
+  "storefrontId": null
+ },
+ {
+  "code": "MS",
+  "name": "Montserrat",
+  "storefrontId": 143547
+ },
+ {
+  "code": "MT",
+  "name": "Malta",
+  "storefrontId": 143521
+ },
+ {
+  "code": "MU",
+  "name": "Mauritius",
+  "storefrontId": 143533
+ },
+ {
+  "code": "MV",
+  "name": "Maldives",
+  "storefrontId": null
+ },
+ {
+  "code": "MW",
+  "name": "Malawi",
+  "storefrontId": null
+ },
+ {
+  "code": "MX",
+  "name": "Mexico",
+  "storefrontId": 143468
+ },
+ {
+  "code": "MY",
+  "name": "Malaysia",
+  "storefrontId": 143473
+ },
+ {
+  "code": "MZ",
+  "name": "Mozambique",
+  "storefrontId": null
+ },
+ {
+  "code": "NA",
+  "name": "Namibia",
+  "storefrontId": null
+ },
+ {
+  "code": "NE",
+  "name": "Niger",
+  "storefrontId": 143534
+ },
+ {
+  "code": "NG",
+  "name": "Nigeria",
+  "storefrontId": 143561
+ },
+ {
+  "code": "NI",
+  "name": "Nicaragua",
+  "storefrontId": 143512
+ },
+ {
+  "code": "NL",
+  "name": "Netherlands",
+  "storefrontId": 143452
+ },
+ {
+  "code": "NO",
+  "name": "Norway",
+  "storefrontId": 143457
+ },
+ {
+  "code": "NP",
+  "name": "Nepal",
+  "storefrontId": 143484
+ },
+ {
+  "code": "NR",
+  "name": "Nauru",
+  "storefrontId": null
+ },
+ {
+  "code": "NZ",
+  "name": "New Zealand",
+  "storefrontId": 143461
+ },
+ {
+  "code": "OM",
+  "name": "Oman",
+  "storefrontId": 143562
+ },
+ {
+  "code": "PA",
+  "name": "Panama",
+  "storefrontId": 143485
+ },
+ {
+  "code": "PE",
+  "name": "Peru",
+  "storefrontId": 143507
+ },
+ {
+  "code": "PG",
+  "name": "Papua New Guinea",
+  "storefrontId": null
+ },
+ {
+  "code": "PH",
+  "name": "Philippines",
+  "storefrontId": 143474
+ },
+ {
+  "code": "PK",
+  "name": "Pakistan",
+  "storefrontId": 143477
+ },
+ {
+  "code": "PL",
+  "name": "Poland",
+  "storefrontId": 143478
+ },
+ {
+  "code": "PT",
+  "name": "Portugal",
+  "storefrontId": 143453
+ },
+ {
+  "code": "PW",
+  "name": "Palau",
+  "storefrontId": null
+ },
+ {
+  "code": "PY",
+  "name": "Paraguay",
+  "storefrontId": 143513
+ },
+ {
+  "code": "QA",
+  "name": "Qatar",
+  "storefrontId": 143498
+ },
+ {
+  "code": "RO",
+  "name": "Romania",
+  "storefrontId": 143487
+ },
+ {
+  "code": "RS",
+  "name": "Serbia",
+  "storefrontId": null
+ },
+ {
+  "code": "RU",
+  "name": "Russian Federation",
+  "storefrontId": 143469
+ },
+ {
+  "code": "RW",
+  "name": "Rwanda",
+  "storefrontId": null
+ },
+ {
+  "code": "SA",
+  "name": "Saudi Arabia",
+  "storefrontId": 143479
+ },
+ {
+  "code": "SB",
+  "name": "Solomon Islands",
+  "storefrontId": null
+ },
+ {
+  "code": "SC",
+  "name": "Seychelles",
+  "storefrontId": null
+ },
+ {
+  "code": "SE",
+  "name": "Sweden",
+  "storefrontId": 143456
+ },
+ {
+  "code": "SG",
+  "name": "Singapore",
+  "storefrontId": 143464
+ },
+ {
+  "code": "SI",
+  "name": "Slovenia",
+  "storefrontId": 143499
+ },
+ {
+  "code": "SK",
+  "name": "Slovakia",
+  "storefrontId": 143496
+ },
+ {
+  "code": "SL",
+  "name": "Sierra Leone",
+  "storefrontId": null
+ },
+ {
+  "code": "SN",
+  "name": "Senegal",
+  "storefrontId": 143535
+ },
+ {
+  "code": "SR",
+  "name": "Suriname",
+  "storefrontId": 143554
+ },
+ {
+  "code": "ST",
+  "name": "Sao Tome and Principe",
+  "storefrontId": null
+ },
+ {
+  "code": "SV",
+  "name": "El Salvador",
+  "storefrontId": 143506
+ },
+ {
+  "code": "SZ",
+  "name": "Eswatini",
+  "storefrontId": null
+ },
+ {
+  "code": "TC",
+  "name": "Turks and Caicos Islands",
+  "storefrontId": null
+ },
+ {
+  "code": "TD",
+  "name": "Chad",
+  "storefrontId": null
+ },
+ {
+  "code": "TH",
+  "name": "Thailand",
+  "storefrontId": 143475
+ },
+ {
+  "code": "TJ",
+  "name": "Tajikistan",
+  "storefrontId": null
+ },
+ {
+  "code": "TM",
+  "name": "Turkmenistan",
+  "storefrontId": null
+ },
+ {
+  "code": "TN",
+  "name": "Tunisia",
+  "storefrontId": 143536
+ },
+ {
+  "code": "TO",
+  "name": "Tonga",
+  "storefrontId": null
+ },
+ {
+  "code": "TR",
+  "name": "Türkiye",
+  "storefrontId": 143480
+ },
+ {
+  "code": "TT",
+  "name": "Trinidad and Tobago",
+  "storefrontId": null
+ },
+ {
+  "code": "TW",
+  "name": "Taiwan, Province of China",
+  "storefrontId": 143470
+ },
+ {
+  "code": "TZ",
+  "name": "Tanzania, United Republic of",
+  "storefrontId": 143572
+ },
+ {
+  "code": "UA",
+  "name": "Ukraine",
+  "storefrontId": 143492
+ },
+ {
+  "code": "UG",
+  "name": "Uganda",
+  "storefrontId": 143537
+ },
+ {
+  "code": "US",
+  "name": "United States",
+  "storefrontId": 143441
+ },
+ {
+  "code": "UY",
+  "name": "Uruguay",
+  "storefrontId": 143514
+ },
+ {
+  "code": "UZ",
+  "name": "Uzbekistan",
+  "storefrontId": 143566
+ },
+ {
+  "code": "VC",
+  "name": "Saint Vincent and the Grenadines",
+  "storefrontId": null
+ },
+ {
+  "code": "VE",
+  "name": "Venezuela, Bolivarian Republic of",
+  "storefrontId": 143502
+ },
+ {
+  "code": "VG",
+  "name": "Virgin Islands, British",
+  "storefrontId": 143543
+ },
+ {
+  "code": "VN",
+  "name": "Viet Nam",
+  "storefrontId": 143471
+ },
+ {
+  "code": "VU",
+  "name": "Vanuatu",
+  "storefrontId": null
+ },
+ {
+  "code": "YE",
+  "name": "Yemen",
+  "storefrontId": 143571
+ },
+ {
+  "code": "ZA",
+  "name": "South Africa",
+  "storefrontId": 143472
+ },
+ {
+  "code": "ZM",
+  "name": "Zambia",
+  "storefrontId": null
+ },
+ {
+  "code": "ZW",
+  "name": "Zimbabwe",
+  "storefrontId": null
+ }
+]

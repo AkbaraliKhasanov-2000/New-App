@@ -1,0 +1,3559 @@
+{
+ "method": "web-search",
+ "name": "Scanova",
+ "titleLength": 26,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "AU": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   }
+  ],
+  "AZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   }
+  ],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "GB": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 558242242,
+    "title": "Scanvi"
+   }
+  ],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "NZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 1497541309,
+    "title": "Scania Manual"
+   }
+  ],
+  "OM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "US": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "similar",
+    "id": 6751863001,
+    "title": "Scanovo Escáner: QR y PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   },
+   {
+    "kind": "similar",
+    "id": 1506836074,
+    "title": "Scanovator Manager"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "ZA": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   }
+  ],
+  "ZM": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "exact",
+    "id": 6755813844,
+    "title": "Scanova - AI Scan Manager"
+   },
+   {
+    "kind": "exact",
+    "id": 6761848861,
+    "title": "Scanova Docs"
+   },
+   {
+    "kind": "similar",
+    "id": 6809662491,
+    "title": "Scanova QR"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "79013576",
+   "wordmark": "SCENOVA",
+   "alive": false,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Koninklijke Philips N.V. (LIMITED LIABILITY COMPANY; NOT PROVIDED)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99265664",
+   "wordmark": "SEANOVA",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "SEAnova LLC (LIMITED LIABILITY COMPANY; Illinois, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99248730",
+   "wordmark": "SEANOVA",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "SEAnova LLC. (LIMITED LIABILITY COMPANY; Illinois, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98256522",
+   "wordmark": "SCAPOVA",
+   "alive": true,
+   "classes": [
+    "IC 001",
+    "IC 005"
+   ],
+   "owner": "KURARAY CO., LTD. (CORPORATION; JAPAN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73642020",
+   "wordmark": "SCANORA",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "ORION CORPORATION LTD. (CORPORATION; FINLAND)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79137724",
+   "wordmark": "SCANORA",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Palodex Group Oy (LIMITED LIABILITY COMPANY; FINLAND)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79024305",
+   "wordmark": "SCANORA",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Palodex Group Oy (CORPORATION; FINLAND)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78055385",
+   "wordmark": "SANOVA",
+   "alive": true,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "Alcide Corporation (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75651178",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "CARTIERE FEDRIGONI E.C.  S.P.A. (JOINT STOCK COMPANY; ITALY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77490007",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Canova Homeopathic Pvt. Ltd. (CORPORATION; SOUTH AFRICA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79144850",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 005",
+    "IC 010"
+   ],
+   "owner": "TECRES S.P.A. (Joint Stock Company; ITALY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86190750",
+   "wordmark": "SANOVA",
+   "alive": false,
+   "classes": [
+    "IC 010",
+    "IC 003"
+   ],
+   "owner": "Sanova Bioscience Inc (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77331182",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 027"
+   ],
+   "owner": "Colour & Design, Inc. (CORPORATION; ARKANSAS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99059103",
+   "wordmark": "SANOVA",
+   "alive": true,
+   "classes": [
+    "IC 019"
+   ],
+   "owner": "Mannington Mills, Inc. (CORPORATION; New Jersey, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99073798",
+   "wordmark": "SANOVA",
+   "alive": false,
+   "classes": [
+    "IC 044"
+   ],
+   "owner": "SCHMITT, EMMAROSE TURETT (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97598322",
+   "wordmark": "CANOVA",
+   "alive": true,
+   "classes": [
+    "IC 019",
+    "IC 020"
+   ],
+   "owner": "Canova Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77617656",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "CANOVA DO BRASIL LTDA. (LIMITED LIABILITY COMPANY; BRAZIL)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78055384",
+   "wordmark": "SANOVA",
+   "alive": true,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "Alcide Corporation (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90538428",
+   "wordmark": "SANOVA",
+   "alive": true,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "Qingyan Zhang (INDIVIDUAL; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85159963",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 006"
+   ],
+   "owner": "The Delaney Co. (CORPORATION; GEORGIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "50056774",
+   "wordmark": "CANOVA",
+   "alive": true,
+   "classes": [
+    "IC 014",
+    "IC 025"
+   ],
+   "owner": "Delight of Heaven LLC (LIMITED LIABILITY COMPANY; California, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79273788",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 001",
+    "IC 005"
+   ],
+   "owner": "HELLO NATURE GROUP SRL                             (UNKNOWN; ITALY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98747098",
+   "wordmark": "SCAPOVA",
+   "alive": true,
+   "classes": [
+    "IC 001",
+    "IC 005"
+   ],
+   "owner": "KURARAY CO., LTD. (CORPORATION; Japan)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73716891",
+   "wordmark": "SCANOLA",
+   "alive": false,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "HARREL, HELENA C. B. (INDIVIDUAL; CANADA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99591116",
+   "wordmark": "SCENOVA",
+   "alive": true,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "SCENTOVA LLC (LIMITED LIABILITY COMPANY; Texas, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79010219",
+   "wordmark": "SVANOVA",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Svanova Biotech AB (CORPORATION; SWEDEN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75190254",
+   "wordmark": "SANOVA",
+   "alive": false,
+   "classes": [
+    "IC 003",
+    "IC 021"
+   ],
+   "owner": "GOJO Industries, Inc. (CORPORATION; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74300242",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 033"
+   ],
+   "owner": "Canova, G. Franco (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97876011",
+   "wordmark": "SHANOVA",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "Casanova, George (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74352007",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 033"
+   ],
+   "owner": "Tyfield, Importers, Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75262484",
+   "wordmark": "SANOVA",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Novus International, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76326456",
+   "wordmark": "CANOVA",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Barista Coffee Company Limited (UNKNOWN; NOT PROVIDED)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75600713",
+   "wordmark": "SANOVA",
+   "alive": false,
+   "classes": [
+    "IC 010",
+    "IC 025"
+   ],
+   "owner": "Zorn, Annerose (INDIVIDUAL; GERMANY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99310803",
+   "wordmark": "CANOVA",
+   "alive": true,
+   "classes": [
+    "IC 021"
+   ],
+   "owner": "Chrome Cherry (LIMITED LIABILITY COMPANY; Delaware, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74005460",
+   "wordmark": "SCANOMAT",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 011"
+   ],
+   "owner": "SCANOMAT COMMERCIAL COMPANY A/S (CORPORATION; DENMARK)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90856177",
+   "wordmark": "CALNOVA",
+   "alive": true,
+   "classes": [
+    "IC 015"
+   ],
+   "owner": "Altic Group LLC (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98459512",
+   "wordmark": "SAVANOVA",
+   "alive": true,
+   "classes": [
+    "IC 030"
+   ],
+   "owner": "Tager Online Inc (CORPORATION; California, USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

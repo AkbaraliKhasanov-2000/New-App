@@ -1,0 +1,474 @@
+{
+ "method": "web-search",
+ "name": "Inkwise",
+ "titleLength": 26,
+ "apps": {
+  "AE": [],
+  "AF": [],
+  "AG": [],
+  "AI": [],
+  "AL": [],
+  "AM": [],
+  "AO": [],
+  "AR": [],
+  "AT": [],
+  "AU": [],
+  "AZ": [],
+  "BA": [],
+  "BB": [],
+  "BE": [],
+  "BF": [],
+  "BG": [],
+  "BH": [],
+  "BJ": [],
+  "BM": [],
+  "BN": [],
+  "BO": [],
+  "BR": [],
+  "BS": [],
+  "BT": [],
+  "BW": [],
+  "BY": [],
+  "BZ": [],
+  "CA": [],
+  "CD": [],
+  "CG": [],
+  "CH": [],
+  "CI": [],
+  "CL": [],
+  "CM": [],
+  "CN": [],
+  "CO": [],
+  "CR": [],
+  "CV": [],
+  "CY": [],
+  "CZ": [],
+  "DE": [],
+  "DK": [],
+  "DM": [],
+  "DO": [],
+  "DZ": [],
+  "EC": [],
+  "EE": [],
+  "EG": [],
+  "ES": [],
+  "FI": [],
+  "FJ": [],
+  "FM": [],
+  "FR": [],
+  "GA": [],
+  "GB": [],
+  "GD": [],
+  "GE": [],
+  "GH": [],
+  "GM": [],
+  "GR": [],
+  "GT": [],
+  "GW": [],
+  "GY": [],
+  "HK": [],
+  "HN": [],
+  "HR": [],
+  "HU": [],
+  "ID": [],
+  "IE": [],
+  "IL": [],
+  "IN": [],
+  "IQ": [],
+  "IS": [],
+  "IT": [],
+  "JM": [],
+  "JO": [],
+  "JP": [],
+  "KE": [],
+  "KG": [],
+  "KH": [],
+  "KN": [],
+  "KR": [],
+  "KW": [],
+  "KY": [],
+  "KZ": [],
+  "LA": [],
+  "LB": [],
+  "LC": [],
+  "LK": [],
+  "LR": [],
+  "LT": [],
+  "LU": [],
+  "LV": [],
+  "LY": [],
+  "MA": [],
+  "MD": [],
+  "ME": [],
+  "MG": [],
+  "MK": [],
+  "ML": [],
+  "MM": [],
+  "MN": [],
+  "MO": [],
+  "MR": [],
+  "MS": [],
+  "MT": [],
+  "MU": [],
+  "MV": [],
+  "MW": [],
+  "MX": [],
+  "MY": [],
+  "MZ": [],
+  "NA": [],
+  "NE": [],
+  "NG": [],
+  "NI": [],
+  "NL": [],
+  "NO": [],
+  "NP": [],
+  "NR": [],
+  "NZ": [],
+  "OM": [],
+  "PA": [],
+  "PE": [],
+  "PG": [],
+  "PH": [],
+  "PK": [],
+  "PL": [],
+  "PT": [],
+  "PW": [],
+  "PY": [],
+  "QA": [],
+  "RO": [],
+  "RS": [],
+  "RU": [],
+  "RW": [],
+  "SA": [],
+  "SB": [],
+  "SC": [],
+  "SE": [],
+  "SG": [],
+  "SI": [],
+  "SK": [],
+  "SL": [],
+  "SN": [],
+  "SR": [],
+  "ST": [],
+  "SV": [],
+  "SZ": [],
+  "TC": [],
+  "TD": [],
+  "TH": [],
+  "TJ": [],
+  "TM": [],
+  "TN": [],
+  "TO": [],
+  "TR": [],
+  "TT": [],
+  "TW": [],
+  "TZ": [],
+  "UA": [],
+  "UG": [],
+  "US": [],
+  "UY": [],
+  "UZ": [],
+  "VC": [],
+  "VE": [],
+  "VG": [],
+  "VN": [],
+  "VU": [],
+  "YE": [],
+  "ZA": [],
+  "ZM": [],
+  "ZW": []
+ },
+ "marks": [
+  {
+   "serial": "85770809",
+   "wordmark": "INKWISE",
+   "alive": false,
+   "classes": [
+    "IC 002"
+   ],
+   "owner": "Cayli, Metin (SOLE PROPRIETORSHIP; CALIFORNIA, USA)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "98731668",
+   "wordmark": "INKXWISE",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "INKXWISE LIMITED (limited company (ltd.); Hong Kong)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90652582",
+   "wordmark": "LINKWISE",
+   "alive": true,
+   "classes": [
+    "IC 021"
+   ],
+   "owner": "Yang, Siquan (INDIVIDUAL; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98257849",
+   "wordmark": "INKXWISE",
+   "alive": false,
+   "classes": [
+    "IC 002"
+   ],
+   "owner": "INKXWISE LIMITED (limited company (ltd.); HONG KONG)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99915860",
+   "wordmark": "INWISE",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Qian Liu (INDIVIDUAL; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74453862",
+   "wordmark": "RISKWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SeatonCorp. (CORPORATION; ILLINOIS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77183916",
+   "wordmark": "VINEWISE",
+   "alive": true,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Washington Association of Wine Grape Growers (NON-PROFIT CORPORATION; WASHINGTON, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78781397",
+   "wordmark": "MINDWISE",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "VeryWise Nutrition Limited (CORPORATION; UNITED KINGDOM)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78836878",
+   "wordmark": "WINEWISE",
+   "alive": true,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "BNCK CORP (CORPORATION; CONNECTICUT, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75901511",
+   "wordmark": "INFOWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Metastorm (CORPORATION; MARYLAND, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90477776",
+   "wordmark": "MINDWISE",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "Sara Weber (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75031710",
+   "wordmark": "RISKWISE",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Glaxo Wellcome Inc. (CORPORATION; NORTH CAROLINA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76148212",
+   "wordmark": "RISKWISE",
+   "alive": false,
+   "classes": [
+    "IC 009",
+    "IC 042"
+   ],
+   "owner": "Parc Technologies Limited (CORPORATION; UNITED KINGDOM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85648766",
+   "wordmark": "LINEWISE",
+   "alive": true,
+   "classes": [
+    "IC 007"
+   ],
+   "owner": "FRITEL & ASSOCIATES, LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99946937",
+   "wordmark": "PINWISE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Trevor Gililland (INDIVIDUAL; USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90064269",
+   "wordmark": "LINKWIRE",
+   "alive": true,
+   "classes": [
+    "IC 035",
+    "IC 042",
+    "IC 009"
+   ],
+   "owner": "Linkwire Limited (private limited company; UNITED KINGDOM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99915263",
+   "wordmark": "TINWISE",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Michelle Laurie Pepe (INDIVIDUAL; USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "88283081",
+   "wordmark": "SINWISE",
+   "alive": false,
+   "classes": [
+    "IC 025",
+    "IC 030"
+   ],
+   "owner": "Sinwise (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76479001",
+   "wordmark": "PICKWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SUPPLY CHAIN SYSTEMS LIMITED (LIMITED PARTNERSHIP; UNITED KINGDOM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99330331",
+   "wordmark": "TICKWISE",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "3 Moms Organics, LLC (LIMITED LIABILITY COMPANY; New York, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73167143",
+   "wordmark": "WINEWISE",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "GILBERT LIQUOR CO., INC. (CORPORATION; WISCONSIN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86584823",
+   "wordmark": "THINKWISE",
+   "alive": true,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "THINKWISE FEDERAL CREDIT UNION (FEDERALLY CHARTERED CREDIT UNION; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79179362",
+   "wordmark": "THINKWISE",
+   "alive": false,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "SHANGHAI THINKWISE INDUSTRIAL CO., LTD. (Limited Company; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99390907",
+   "wordmark": "PICKWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "CDBP AI Solutions Latin America S.A. (LIMITED LIABILITY COMPANY; California, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98863581",
+   "wordmark": "INNOWISE",
+   "alive": true,
+   "classes": [
+    "IC 042",
+    "IC 035"
+   ],
+   "owner": "Innowise Inc (CORPORATION; Florida, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97438774",
+   "wordmark": "BANKWISE",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "Otero, Liz M (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

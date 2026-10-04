@@ -1,0 +1,3162 @@
+{
+ "method": "web-search",
+ "name": "Pagefold",
+ "titleLength": 27,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AU": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "AZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "CA": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "GB": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "IE": [],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "NZ": [],
+  "OM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "US": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "ZA": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ],
+  "ZM": [
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "exact",
+    "id": 6797941629,
+    "title": "Pagefold: PDF Scanner OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6796721209,
+    "title": "Pagefold - Scan to PDF"
+   },
+   {
+    "kind": "exact",
+    "id": 6443816369,
+    "title": "Page Fold"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "98069174",
+   "wordmark": "PAGEWOOD",
+   "alive": true,
+   "classes": [
+    "IC 036",
+    "IC 037",
+    "IC 042"
+   ],
+   "owner": "Pagewood, LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "71651093",
+   "wordmark": "PANELFOLD",
+   "alive": false,
+   "classes": [
+    "019."
+   ],
+   "owner": "DIXON, GUY E. (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77274241",
+   "wordmark": "PAGEFLOW",
+   "alive": false,
+   "classes": [
+    "IC 035",
+    "IC 038"
+   ],
+   "owner": "SearchMe, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75374639",
+   "wordmark": "PAGEFLOW",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Professional Software Technologies, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73715542",
+   "wordmark": "PANELFOLD",
+   "alive": true,
+   "classes": [
+    "IC 019"
+   ],
+   "owner": "PANELFOLD, INC. (CORPORATION; FLORIDA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85301102",
+   "wordmark": "PANAFOLD",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Panafold, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86062743",
+   "wordmark": "PANAFOLD",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "Panafold, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79092917",
+   "wordmark": "PAGEPOD",
+   "alive": false,
+   "classes": [
+    "IC 041",
+    "IC 009",
+    "IC 016"
+   ],
+   "owner": "Stephane PAGE (INDIVIDUAL; FRANCE)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "90200647",
+   "wordmark": "PAGEFLY",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "WOOROCKETS VIET NAM., JSC (JOINT STOCK COMPANY; VIETNAM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "87688769",
+   "wordmark": "PAGEFUND",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "PageFund, Inc. (CORPORATION; TEXAS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98236569",
+   "wordmark": "GAMEFOLD",
+   "alive": true,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "Yarro Studios, Inc. (CORPORATION; UTAH, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78725307",
+   "wordmark": "PAGEFLOW",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Heritage Preservation Corporation (CORPORATION; SOUTH CAROLINA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99103037",
+   "wordmark": "BASEFOLD",
+   "alive": true,
+   "classes": [
+    "IC 035",
+    "IC 009",
+    "IC 042"
+   ],
+   "owner": "Basecamp Research Ltd (Limited Company (Ltd.); United Kingdom)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99649902",
+   "wordmark": "LACEFOLD",
+   "alive": true,
+   "classes": [
+    "IC 028"
+   ],
+   "owner": "Xin Su (INDIVIDUAL; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86878008",
+   "wordmark": "PUREFOLD",
+   "alive": true,
+   "classes": [
+    "IC 021"
+   ],
+   "owner": "RUILONG XU (INDIVIDUAL; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98377093",
+   "wordmark": "PAGEPOD",
+   "alive": false,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Elly J Designs, LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76180407",
+   "wordmark": "PAGEPOD",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Intrigo, Incorporated (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77586423",
+   "wordmark": "PAGEFAD",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "PAGEFAD, LLC (LIMITED LIABILITY COMPANY; CONNECTICUT, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79152206",
+   "wordmark": "PREFOLD",
+   "alive": false,
+   "classes": [
+    "IC 010",
+    "IC 044"
+   ],
+   "owner": "Northwood Medical Innovation Ltd (Limited Company; UNITED KINGDOM)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90879938",
+   "wordmark": "GATEFOLD JACKET",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Kevin Shaffer (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99833052",
+   "wordmark": "PUREFOLD CO",
+   "alive": true,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Steve Burdex Jr. (LIMITED LIABILITY COMPANY; Oklahoma, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74474907",
+   "wordmark": "R PAESOLD",
+   "alive": false,
+   "classes": [
+    "IC 015"
+   ],
+   "owner": "BOOSEY & HAWKES PLC (CORPORATION; UNITED KINGDOM)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79028566",
+   "wordmark": "R PAESOLD",
+   "alive": true,
+   "classes": [
+    "IC 015"
+   ],
+   "owner": "Ulrike Schrimpff (INDIVIDUAL; GERMANY)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97828500",
+   "wordmark": "MAGEHOLD THE HAND THAT HOLDS THE CRADLE",
+   "alive": true,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "MAGEHOLD PTE. LTD. (limited company (ltd.); SINGAPORE)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

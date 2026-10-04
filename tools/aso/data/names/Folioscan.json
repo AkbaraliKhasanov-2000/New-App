@@ -1,0 +1,1501 @@
+{
+ "method": "web-search",
+ "name": "Folioscan",
+ "titleLength": 28,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "AU": [],
+  "AZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CA": [],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GB": [],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "NZ": [],
+  "OM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "US": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "ZA": [],
+  "ZM": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "exact",
+    "id": 6760548382,
+    "title": "Folio Scan"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "88936203",
+   "wordmark": "SCOLIOSCAN",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "TELEFIELD MEDICAL IMAGING LIMITED (limited company (ltd.); CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90018114",
+   "wordmark": "SCOLIOSCAN",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "TELEFIELD MEDICAL IMAGING LIMITED (limited company (ltd.); HONG KONG)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75607782",
+   "wordmark": "SOLIDSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SOLID SCIENTIFIC RESEARCH AND DEVELOPMENTS LTD. (CORPORATION; ISRAEL)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99286384",
+   "wordmark": "HELIOSCAN",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Lone Elk Holdings, LLC (LIMITED LIABILITY COMPANY; Texas, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "87270637",
+   "wordmark": "HOLOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "BodyVibe International, LLC (LIMITED LIABILITY COMPANY; NEW MEXICO, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78748175",
+   "wordmark": "HOLOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "N4D, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75382989",
+   "wordmark": "FLIPSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Microtek International Inc. (CORPORATION; TAIWAN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76070267",
+   "wordmark": "OLIGOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "MICRO-TECH, L.L.C. (CORPORATION; OKLAHOMA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85578829",
+   "wordmark": "SCOLIOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Wisdom Able Limited (LIMITED LIABILITY COMPANY; HONG KONG)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79140146",
+   "wordmark": "OLIGOSCAN",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "(CANCELLED) IC 010",
+    "IC 035",
+    "IC 042"
+   ],
+   "owner": "Luxometrix-ipc.eu Société Anonyme (Société Anonyme; LUXEMBOURG)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98037952",
+   "wordmark": "HELIOSCAN",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Lone Elk Holdings, LLC (LIMITED LIABILITY COMPANY; TEXAS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75143590",
+   "wordmark": "COLISCAN",
+   "alive": true,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Micrology Laboratories, LLC (LIMITED LIABILITY COMPANY; INDIANA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74114424",
+   "wordmark": "HELIOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "DR. ING. RUDOLF HELL GMBH (LIMITED LIABILITY JOINT STOCK COMPANY; GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73832283",
+   "wordmark": "HELIOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "AGFA-GEVAERT, A \"NAAMLOZE VENNOOSCHAP\" (CORPORATION; BELGIUM)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77314580",
+   "wordmark": "COLOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 035",
+    "IC 042",
+    "IC 044"
+   ],
+   "owner": "Baker-Scott Holdings, LLC (LIMITED LIABILITY COMPANY; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74381891",
+   "wordmark": "HOLOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "American Bank Note Holographics, Inc. (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "88653828",
+   "wordmark": "ZOLOSCAN",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "John Zink Company, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77953413",
+   "wordmark": "FLIPSCAN",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SPX Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "72435826",
+   "wordmark": "FLOSCAN",
+   "alive": true,
+   "classes": [
+    "009 001 010."
+   ],
+   "owner": "FLOSCAN INSTRUMENT COMPANY, INC. (CORPORATION; WASHINGTON, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97418846",
+   "wordmark": "SOLOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "GuangDong Youkey Medical Co., Ltd. (limited company (ltd.); CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79274703",
+   "wordmark": "POLISCAN",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 037",
+    "IC 042"
+   ],
+   "owner": "VITRONIC Dr.-Ing. Stein Bildverarbeitungssysteme GmbH (gesellschaft mit beschränkter haftung (gmbh); GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "88081480",
+   "wordmark": "HOLOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "BodyVibe International, LLC (LIMITED LIABILITY COMPANY; NEW MEXICO, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98685295",
+   "wordmark": "SOLOSCAN",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Shenzhen Kingbolen Electrics Technology Co., Ltd. (limited company (ltd.); China)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "71520973",
+   "wordmark": "FOLISAN",
+   "alive": false,
+   "classes": [
+    "003."
+   ],
+   "owner": "R.B. SEMLER, INC. (CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75679141",
+   "wordmark": "FLOSCAN",
+   "alive": false,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "S.N.F. (JOINT STOCK COMPANY; FRANCE)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98195053",
+   "wordmark": "FOLICAN",
+   "alive": true,
+   "classes": [
+    "IC 014"
+   ],
+   "owner": "Nanchang Yikalan E-Commerce Co., Ltd. (limited company (ltd.); CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97510905",
+   "wordmark": "FOLIOSA",
+   "alive": true,
+   "classes": [
+    "IC 018"
+   ],
+   "owner": "Ningde Qianwanju E-commerce Co., Ltd. (limited company (ltd.); CHINA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

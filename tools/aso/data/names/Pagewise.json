@@ -1,0 +1,4232 @@
+{
+ "method": "web-search",
+ "name": "Pagewise",
+ "titleLength": 27,
+ "apps": {
+  "AE": [
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AF": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AI": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AL": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AT": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "AU": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "AZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BB": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BF": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BH": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BJ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BS": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BT": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BW": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BY": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "BZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "CD": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CH": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CI": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CL": [
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CN": [
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   }
+  ],
+  "CO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CV": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CY": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "CZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "DE": [
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   }
+  ],
+  "DK": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "DM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "DO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "DZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "EC": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "EE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "EG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "ES": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "FI": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "FJ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "FM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "FR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GB": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   }
+  ],
+  "GD": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GH": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GT": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GW": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "GY": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "HK": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "HN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "HR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "HU": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "ID": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "IE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "IL": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "IN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "IQ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "IS": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "IT": [
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "JM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "JO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "JP": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KH": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KW": [
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KY": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "KZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LB": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LC": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LK": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LT": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LU": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LV": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "LY": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MD": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "ME": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MK": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "ML": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MS": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MT": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MU": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MV": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MW": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MX": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "MY": [
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "MZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NI": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NL": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   }
+  ],
+  "NO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NP": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "NZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "OM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "PA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "PE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "PG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "PH": [
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "PK": [
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "PL": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "PT": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "PW": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "PY": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "QA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "RO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "RS": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "RU": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "RW": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SB": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SC": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   }
+  ],
+  "SG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SI": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SK": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SL": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "ST": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SV": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "SZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TC": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TD": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TH": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TJ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TO": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TR": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "TT": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TW": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "TZ": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "UA": [
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "UG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "US": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise - PDF Reader & OCR"
+   }
+  ],
+  "UY": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "UZ": [
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "VC": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "VE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "VG": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "VN": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "VU": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "YE": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "ZA": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   }
+  ],
+  "ZM": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ],
+  "ZW": [
+   {
+    "kind": "exact",
+    "id": 6760185902,
+    "title": "PageWise — Book Tracker & TBR"
+   },
+   {
+    "kind": "exact",
+    "id": 6790362517,
+    "title": "Pagewise: PDF Scanner & OCR"
+   },
+   {
+    "kind": "exact",
+    "id": 6814235929,
+    "title": "Pagewise"
+   },
+   {
+    "kind": "exact",
+    "id": 6760793589,
+    "title": "PageWise: Book Summaries"
+   }
+  ]
+ },
+ "marks": [
+  {
+   "serial": "74545855",
+   "wordmark": "PAGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PHILLIPS, JOHN WILLIAM THOMAS (INDIVIDUAL; AUSTRALIA)",
+   "software": true,
+   "match": "exact"
+  },
+  {
+   "serial": "98091773",
+   "wordmark": "PAGEWISE",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 035",
+    "IC 041"
+   ],
+   "owner": "Brettboka AS (aksjeselskap (as); NORWAY)",
+   "software": true,
+   "match": "exact"
+  },
+  {
+   "serial": "78569569",
+   "wordmark": "PAGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "DEMAND MEDIA, INC. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "exact"
+  },
+  {
+   "serial": "98748870",
+   "wordmark": "PAGEWISE",
+   "alive": true,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Brettboka AS (aksjeselskap (as); Norway)",
+   "software": true,
+   "match": "exact"
+  },
+  {
+   "serial": "98125591",
+   "wordmark": "WAGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Medical Solutions, L.L.C. (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "50037001",
+   "wordmark": "PACEWISE",
+   "alive": true,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Justice Ayden Spor (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88125837",
+   "wordmark": "AGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "HLD Global Limited (CORPORATION; HONG KONG)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73669387",
+   "wordmark": "AGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "APPLETON MEDICAL CENTER, INC. (CORPORATION; WISCONSIN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99885483",
+   "wordmark": "SAGEWISE",
+   "alive": true,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "C3 DATA, LLC (LIMITED LIABILITY COMPANY; Utah, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88042709",
+   "wordmark": "SAGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "SAGEWISE, INC. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "88810348",
+   "wordmark": "PAVEWISE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Wuori Consulting LLC (LIMITED LIABILITY COMPANY; NORTH DAKOTA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "86834550",
+   "wordmark": "WAGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "Project Living Wage LLC (LIMITED LIABILITY COMPANY; MISSOURI, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86419393",
+   "wordmark": "AGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 012"
+   ],
+   "owner": "HLD Global Limited (CORPORATION; HONG KONG)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75530192",
+   "wordmark": "AGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 005",
+    "IC 016"
+   ],
+   "owner": "Klatz, Ronald, D.O. (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90798023",
+   "wordmark": "AGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Innovus Pharmaceuticals, Inc. (CORPORATION; NEVADA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98008505",
+   "wordmark": "AGEWISE",
+   "alive": true,
+   "classes": [
+    "IC 042",
+    "IC 035"
+   ],
+   "owner": "2739494 ONTARIO INC. (CORPORATION; CANADA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97701737",
+   "wordmark": "SAFEWISE",
+   "alive": false,
+   "classes": [
+    "IC 021"
+   ],
+   "owner": "Mattison, Andrew (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88878837",
+   "wordmark": "PAIRWISE",
+   "alive": false,
+   "classes": [
+    "IC 029",
+    "IC 031"
+   ],
+   "owner": "PAIRWISE PLANTS SERVICES INC. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97301303",
+   "wordmark": "EDGEWISE",
+   "alive": true,
+   "classes": [
+    "IC 008"
+   ],
+   "owner": "E2E Inc. (CORPORATION; MICHIGAN, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "97398111",
+   "wordmark": "SAVEWISE",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "Creative Planning, LLC (LIMITED LIABILITY COMPANY; MISSOURI, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98766050",
+   "wordmark": "DATEWISE",
+   "alive": true,
+   "classes": [
+    "IC 045"
+   ],
+   "owner": "DateWise, LLC (LIMITED LIABILITY COMPANY; Georgia, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98766067",
+   "wordmark": "DATEWISE",
+   "alive": false,
+   "classes": [
+    "IC 045"
+   ],
+   "owner": "DateWise, LLC (LIMITED LIABILITY COMPANY; Georgia, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88250318",
+   "wordmark": "PLANEWISE",
+   "alive": false,
+   "classes": [
+    "IC 005",
+    "IC 037"
+   ],
+   "owner": "Allied Bioscience, Inc. (CORPORATION; NEVADA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "87115721",
+   "wordmark": "PAIRWISE",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "ARENA CONSULTING LLC (LIMITED LIABILITY COMPANY; ILLINOIS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75580964",
+   "wordmark": "DATEWISE",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "DATEWISE, INC. (CORPORATION; SOUTH CAROLINA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77160517",
+   "wordmark": "EDGEWISE",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 035",
+    "IC 038",
+    "IC 041"
+   ],
+   "owner": "American Management Association International (CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78078668",
+   "wordmark": "PAGEWING",
+   "alive": false,
+   "classes": [
+    "IC 035",
+    "IC 040",
+    "IC 042"
+   ],
+   "owner": "Pagewing, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78302482",
+   "wordmark": "SAGEWIRE",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "SageMetrics Corporation (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77736634",
+   "wordmark": "PAIRWISE",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "Arena Consulting LLC (LIMITED LIABILITY COMPANY; ILLINOIS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78496656",
+   "wordmark": "CAREWISE",
+   "alive": true,
+   "classes": [
+    "(CANCELLED) IC 045",
+    "IC 016",
+    "IC 035",
+    "IC 036",
+    "IC 044"
+   ],
+   "owner": "SHPS Health Management Solutions, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78963824",
+   "wordmark": "EDGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 001"
+   ],
+   "owner": "Syngenta Particaptions AG (CORPORATION; SWITZERLAND)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "78676568",
+   "wordmark": "EDGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 036",
+    "IC 042",
+    "IC 035"
+   ],
+   "owner": "Chicago Consulting Actuaries LLC (LIMITED LIABILITY COMPANY; ILLINOIS, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78840920",
+   "wordmark": "PAIRWISE",
+   "alive": false,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "Amateur Sports Marketing, LLC (LIMITED LIABILITY COMPANY; MINNESOTA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86566363",
+   "wordmark": "CAREWISE",
+   "alive": false,
+   "classes": [
+    "IC 010",
+    "IC 020",
+    "IC 024"
+   ],
+   "owner": "Sizewise Rentals, L.L.C. (LIMITED LIABILITY COMPANY; NEVADA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76206483",
+   "wordmark": "MAKEWISE",
+   "alive": true,
+   "classes": [
+    "IC 035",
+    "IC 036",
+    "IC 042"
+   ],
+   "owner": "Makewise, LLC (LIMITED LIABILITY COMPANY; ARIZONA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "87885979",
+   "wordmark": "PAPERWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PaperWise, Inc. (CORPORATION; MISSOURI, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97192808",
+   "wordmark": "PACKWISE",
+   "alive": true,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Pratt Corrugated Holdings, Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88927837",
+   "wordmark": "PEACEWISE",
+   "alive": true,
+   "classes": [
+    "IC 045",
+    "IC 041",
+    "IC 016"
+   ],
+   "owner": "PeaceWise Ltd (CORPORATION; AUSTRALIA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86959722",
+   "wordmark": "HP PAGEWIDE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "HP Hewlett Packard Group LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97783294",
+   "wordmark": "WAVEWISE",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Guangdong Huachen Technology Co. (LIMITED LIABILITY COMPANY; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74260135",
+   "wordmark": "PARTWISE",
+   "alive": false,
+   "classes": [
+    "IC 012",
+    "IC 007"
+   ],
+   "owner": "PACCAR Automotive, Inc. (CORPORATION; WASHINGTON, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90773078",
+   "wordmark": "POLEWISE",
+   "alive": true,
+   "classes": [
+    "IC 006"
+   ],
+   "owner": "Wild Bird Centers of America, Inc. (CORPORATION; MARYLAND, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74515499",
+   "wordmark": "PATHWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Educational Testing Service (NOT FOR PROFIT CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76187425",
+   "wordmark": "PATHWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Educational Testing Service (NOT-FOR-PROFIT CORPORATION; NEW YORK, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76187449",
+   "wordmark": "PATHWISE",
+   "alive": false,
+   "classes": [
+    "IC 016"
+   ],
+   "owner": "Educational Testing Service (NON-FOR-PROFIT CORPORATION; NEW YORK, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74378685",
+   "wordmark": "CASEWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "CASEWARE LIMITED (CORPORATION; UNITED KINGDOM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85571207",
+   "wordmark": "VAPEWISE",
+   "alive": false,
+   "classes": [
+    "IC 011"
+   ],
+   "owner": "VapeWise, LLC (LIMITED LIABILITY COMPANY; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98118921",
+   "wordmark": "PAIRWISE",
+   "alive": false,
+   "classes": [
+    "IC 036"
+   ],
+   "owner": "ARENA CONSULTING LLC (LIMITED LIABILITY COMPANY; ILLINOIS, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76479009",
+   "wordmark": "PACKWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "ADAS Consulting Limited (CORPORATION; UNITED KINGDOM)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "78302042",
+   "wordmark": "EDGEWISE",
+   "alive": false,
+   "classes": [
+    "IC 019",
+    "IC 020"
+   ],
+   "owner": "FiberTech Polymers, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}

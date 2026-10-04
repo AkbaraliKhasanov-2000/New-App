@@ -1,0 +1,734 @@
+{
+ "method": "web-search",
+ "name": "Scanmuse",
+ "titleLength": 27,
+ "apps": {
+  "AE": [],
+  "AF": [],
+  "AG": [],
+  "AI": [],
+  "AL": [],
+  "AM": [],
+  "AO": [],
+  "AR": [],
+  "AT": [],
+  "AU": [],
+  "AZ": [],
+  "BA": [],
+  "BB": [],
+  "BE": [],
+  "BF": [],
+  "BG": [],
+  "BH": [],
+  "BJ": [],
+  "BM": [],
+  "BN": [],
+  "BO": [],
+  "BR": [],
+  "BS": [],
+  "BT": [],
+  "BW": [],
+  "BY": [],
+  "BZ": [],
+  "CA": [],
+  "CD": [],
+  "CG": [],
+  "CH": [],
+  "CI": [],
+  "CL": [],
+  "CM": [],
+  "CN": [],
+  "CO": [],
+  "CR": [],
+  "CV": [],
+  "CY": [],
+  "CZ": [],
+  "DE": [],
+  "DK": [],
+  "DM": [],
+  "DO": [],
+  "DZ": [],
+  "EC": [],
+  "EE": [],
+  "EG": [],
+  "ES": [],
+  "FI": [],
+  "FJ": [],
+  "FM": [],
+  "FR": [],
+  "GA": [],
+  "GB": [],
+  "GD": [],
+  "GE": [],
+  "GH": [],
+  "GM": [],
+  "GR": [],
+  "GT": [],
+  "GW": [],
+  "GY": [],
+  "HK": [],
+  "HN": [],
+  "HR": [],
+  "HU": [],
+  "ID": [],
+  "IE": [],
+  "IL": [],
+  "IN": [],
+  "IQ": [],
+  "IS": [],
+  "IT": [],
+  "JM": [],
+  "JO": [],
+  "JP": [],
+  "KE": [],
+  "KG": [],
+  "KH": [],
+  "KN": [],
+  "KR": [],
+  "KW": [],
+  "KY": [],
+  "KZ": [],
+  "LA": [],
+  "LB": [],
+  "LC": [],
+  "LK": [],
+  "LR": [],
+  "LT": [],
+  "LU": [],
+  "LV": [],
+  "LY": [],
+  "MA": [],
+  "MD": [],
+  "ME": [],
+  "MG": [],
+  "MK": [],
+  "ML": [],
+  "MM": [],
+  "MN": [],
+  "MO": [],
+  "MR": [],
+  "MS": [],
+  "MT": [],
+  "MU": [],
+  "MV": [],
+  "MW": [],
+  "MX": [],
+  "MY": [],
+  "MZ": [],
+  "NA": [],
+  "NE": [],
+  "NG": [],
+  "NI": [],
+  "NL": [],
+  "NO": [],
+  "NP": [],
+  "NR": [],
+  "NZ": [],
+  "OM": [],
+  "PA": [],
+  "PE": [],
+  "PG": [],
+  "PH": [],
+  "PK": [],
+  "PL": [],
+  "PT": [],
+  "PW": [],
+  "PY": [],
+  "QA": [],
+  "RO": [],
+  "RS": [],
+  "RU": [],
+  "RW": [],
+  "SA": [],
+  "SB": [],
+  "SC": [],
+  "SE": [],
+  "SG": [],
+  "SI": [],
+  "SK": [],
+  "SL": [],
+  "SN": [],
+  "SR": [],
+  "ST": [],
+  "SV": [],
+  "SZ": [],
+  "TC": [],
+  "TD": [],
+  "TH": [],
+  "TJ": [],
+  "TM": [],
+  "TN": [],
+  "TO": [],
+  "TR": [],
+  "TT": [],
+  "TW": [],
+  "TZ": [],
+  "UA": [],
+  "UG": [],
+  "US": [],
+  "UY": [],
+  "UZ": [],
+  "VC": [],
+  "VE": [],
+  "VG": [],
+  "VN": [],
+  "VU": [],
+  "YE": [],
+  "ZA": [],
+  "ZM": [],
+  "ZW": []
+ },
+ "marks": [
+  {
+   "serial": "74266127",
+   "wordmark": "SCANMOUSE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Opticon Sensors Europe B.V. (COMPANY; NETHERLANDS)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99541111",
+   "wordmark": "SHANMUSE",
+   "alive": true,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Changsha Shanmuyuan Biotechnology Co., Ltd. (Limited Company; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75935876",
+   "wordmark": "SCANMOUSE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Opticon Sensors Europe B.V. (COMPANY; NETHERLANDS)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74148295",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "ITT Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75007501",
+   "wordmark": "SCANMAST",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Aktiebolaget Wibe (CORPORATION; SWEDEN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73305019",
+   "wordmark": "SCANDUSA",
+   "alive": false,
+   "classes": [
+    "IC 004",
+    "IC 023",
+    "IC 026",
+    "IC 029",
+    "IC 031",
+    "IC 037"
+   ],
+   "owner": "SCANDUSA, INC. (CORPORATION; GEORGIA, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "86293912",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "CamMate Systems, Inc. (CORPORATION; ARIZONA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73370258",
+   "wordmark": "SCANPURE",
+   "alive": false,
+   "classes": [
+    "IC 011",
+    "IC 042"
+   ],
+   "owner": "SCANPURE APS (CORPORATION; DENMARK)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "97589808",
+   "wordmark": "SCANCUBE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SCANLAB GmbH (LIMITED LIABILITY COMPANY; GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "85684504",
+   "wordmark": "SCANMODE",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Discoverx Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73727585",
+   "wordmark": "SCANBASE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PICTUREWARE, INC. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "77353353",
+   "wordmark": "SCANMATE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Eastman Kodak Company (CORPORATION; NEW JERSEY, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99749416",
+   "wordmark": "SCANIMUS",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "FanousPhotonics, LLC (LIMITED LIABILITY COMPANY; California, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76239353",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "MICROBAR, INC. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74303168",
+   "wordmark": "SCANWISE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "PRC Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73785374",
+   "wordmark": "SCANLUBE",
+   "alive": false,
+   "classes": [
+    "IC 004"
+   ],
+   "owner": "DS INDUSTRIES APS (CORPORATION; DENMARK)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "73683691",
+   "wordmark": "SCANMAST",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "AKTIEBOLAGET WIBE (CORPORATION; SWEDEN)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "76481550",
+   "wordmark": "SCANLUBE",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "Sonotech, Inc. (CORPORATION; WASHINGTON, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "75005263",
+   "wordmark": "SCANBASE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "ITT Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79162483",
+   "wordmark": "SCANCUBE",
+   "alive": false,
+   "classes": [
+    "IC 042"
+   ],
+   "owner": "Scanlab AG (CORPORATION; GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "98397710",
+   "wordmark": "STATMUSE",
+   "alive": true,
+   "classes": [
+    "IC 025",
+    "IC 009",
+    "IC 016",
+    "IC 041",
+    "IC 042"
+   ],
+   "owner": "StatMuse Inc. (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79022115",
+   "wordmark": "CATMUSE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "LAROUE Adrienne (INDIVIDUAL; FRANCE)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90404822",
+   "wordmark": "SKNMUSE",
+   "alive": true,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Sknmuse, LLC (LIMITED LIABILITY COMPANY; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "85500618",
+   "wordmark": "SYNMUSE",
+   "alive": true,
+   "classes": [
+    "IC 041"
+   ],
+   "owner": "DiCamillo, Robert J. (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74493119",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Lambda Physik Gesellschaft zur Herstellung von Lasern mbH (CORPORATION; GERMANY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74147330",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Logitech, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79124595",
+   "wordmark": "SCANCUBE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "SCANCUBE (Société à responsabilité limitée; FRANCE)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73609876",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "DAMON CORPORATION (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76616100",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Schaerer Mayfield USA, Inc. (CORPORATION; OHIO, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "79291548",
+   "wordmark": "SNAPMUSE",
+   "alive": true,
+   "classes": [
+    "IC 009",
+    "IC 035"
+   ],
+   "owner": "SMG MULTIMEDYA VE PROJE HIZMETLERI TICARET A.S. (JOINT STOCK COMPANY; TURKEY)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "73673113",
+   "wordmark": "SCANMASK",
+   "alive": false,
+   "classes": [
+    "IC 005"
+   ],
+   "owner": "PYE, ALBERT E. (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "74303174",
+   "wordmark": "SCANWISE",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "PRC Inc. (CORPORATION; DELAWARE, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "76083404",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Purup-Eskofot A/S (CORPORATION; DENMARK)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "74444731",
+   "wordmark": "SCANBASE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "ITT Corporation (CORPORATION; DELAWARE, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79191644",
+   "wordmark": "SCANWISE",
+   "alive": true,
+   "classes": [
+    "IC 010",
+    "IC 009"
+   ],
+   "owner": "Koninklijke Philips N.V. (Public limited liability company; NETHERLANDS)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "79223379",
+   "wordmark": "SCANMATE",
+   "alive": false,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "ITAB ScanFlow AB (AKTIEBOLAG; SWEDEN)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "90461883",
+   "wordmark": "SCANVUE",
+   "alive": true,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "TRUTHIO, LLC (LIMITED LIABILITY COMPANY; MICHIGAN, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "87039026",
+   "wordmark": "CARMUSE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Shenzhen Vunit Internet and Technology Limited Company (LIMITED LIABILITY COMPANY; CHINA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "75817784",
+   "wordmark": "SCANVUE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "Industrial Electronic Engineers, Inc. (CORPORATION; CALIFORNIA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99302886",
+   "wordmark": "FANMUSE",
+   "alive": true,
+   "classes": [
+    "IC 020"
+   ],
+   "owner": "Sichuan Mowen Dongxi Cultural and Creative Co., Ltd. (Limited Company; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "88509537",
+   "wordmark": "SEAMUSE",
+   "alive": false,
+   "classes": [
+    "IC 025"
+   ],
+   "owner": "YANG FEIFEI (INDIVIDUAL; CHINA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99935618",
+   "wordmark": "TANMUSE",
+   "alive": true,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "Parvin Sanchez (INDIVIDUAL; USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "77849085",
+   "wordmark": "SONMUSE",
+   "alive": false,
+   "classes": [
+    "IC 009"
+   ],
+   "owner": "BELFAN LLC (LIMITED LIABILITY COMPANY; NEVADA, USA)",
+   "software": true,
+   "match": "similar"
+  },
+  {
+   "serial": "99484149",
+   "wordmark": "SANMUKE",
+   "alive": true,
+   "classes": [
+    "IC 010"
+   ],
+   "owner": "Shenzhen Sanmuke Technology Co., Ltd. (Limited Company; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "50076996",
+   "wordmark": "VANMUSE",
+   "alive": true,
+   "classes": [
+    "IC 008"
+   ],
+   "owner": "Caihui Pan (INDIVIDUAL; China)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98607516",
+   "wordmark": "ANMUSE",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "ANMUSE Inc. (CORPORATION; California, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98689941",
+   "wordmark": "A ANMUSE",
+   "alive": false,
+   "classes": [
+    "IC 035"
+   ],
+   "owner": "ANMUSE INC (CORPORATION; California, USA)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "98665789",
+   "wordmark": "SCENTMUSE SCENT MUSE",
+   "alive": false,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "SMELLOLOGY TRADING CO. L.L.C. (limited company (ltd.); United Arab Emirates)",
+   "software": false,
+   "match": "similar"
+  },
+  {
+   "serial": "99695250",
+   "wordmark": "SCENTMUSE SCENT MUSE",
+   "alive": true,
+   "classes": [
+    "IC 003"
+   ],
+   "owner": "SMELLOLOGY TRADING CO. L.L.C. (Limited Company; United Arab Emirates)",
+   "software": false,
+   "match": "similar"
+  }
+ ]
+}
