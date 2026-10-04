@@ -202,6 +202,17 @@ LOCALES: dict[str, dict] = {
             "(D30), escaner de documentos L5 (D20), escanear pdf L7 (D21), escanear fotos a pdf L7 (D21). "
             "Both spellings 'escáner' and 'escaner' appear as separate autocomplete terms, so both are indexed.",
     ),
+    "de-DE": dict(
+        markets="DE (+AT, CH)",
+        name="{brand}: Dokumente Scannen",
+        subtitle="PDF Scanner, OCR, Unterschrift",
+        keywords="kassenbon,beleg,unterschreiben,erstellen,app,foto,bild,jpg,umwandeln,texterkennung,ausweis,scan",
+        promo="Scanne Dokumente in Sekunden als PDF, erkenne Text per OCR direkt auf dem iPhone und unterschreibe. "
+              "Kein Konto, keine Cloud – alles bleibt bei dir.",
+        why="DE autocomplete: pdf scanner L2 (D74), scanner app L2, ocr scanner L3 (D70), dokumente scannen L3 "
+            "(D64), kassenbon scanner app L3 (D25), unterschrift erstellen L3 (D29), scan to pdf L4, pdf "
+            "unterschreiben L5 (D30), pdf zu bild L5, pdf in jpg umwandeln L5 (D39), unterschrift pdf L6 (D41).",
+    ),
     "nl-NL": dict(
         markets="NL",
         name="{brand}: Documenten Scannen",
