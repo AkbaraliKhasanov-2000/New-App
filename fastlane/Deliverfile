@@ -1,0 +1,12 @@
+# fastlane deliver — uploads App Store metadata from fastlane/metadata (no binary, no screenshots).
+# Credentials come from an App Store Connect API key (see .github/workflows/asc-metadata.yml).
+app_identifier("com.scanlet.app")
+metadata_path("./fastlane/metadata")
+skip_binary_upload(true)
+skip_screenshots(true)
+skip_app_version_update(false)
+overwrite_screenshots(false)
+submit_for_review(false)
+automatic_release(false)
+force(true)            # no interactive HTML preview
+run_precheck_before_submit(false)
