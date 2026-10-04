@@ -1,1 +1,1 @@
-Scanlet: Scanner PDF Documente
+Scanlet: Scanner PDF Document

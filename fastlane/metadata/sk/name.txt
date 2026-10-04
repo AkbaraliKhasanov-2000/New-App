@@ -1,1 +1,1 @@
-Scanlet: PDF skener dokumentov
+Scanlet: Skener PDF dokladov
