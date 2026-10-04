@@ -213,6 +213,17 @@ LOCALES: dict[str, dict] = {
             "(D64), kassenbon scanner app L3 (D25), unterschrift erstellen L3 (D29), scan to pdf L4, pdf "
             "unterschreiben L5 (D30), pdf zu bild L5, pdf in jpg umwandeln L5 (D39), unterschrift pdf L6 (D41).",
     ),
+    "pl": dict(
+        markets="PL",
+        name="{brand}: Skaner dokumentów",
+        subtitle="Skanuj PDF, tekst OCR, podpis",
+        keywords="skanowanie,dokumenty,dokument,zdjęcia,zdjęcie,paragon,dowód,jpg,konwerter,faktura,hasło,skan",
+        promo="Skanuj dokumenty do PDF w kilka sekund, rozpoznawaj tekst przez OCR na iPhonie i podpisuj. "
+              "Bez konta i chmury — wszystko zostaje u Ciebie.",
+        why="PL autocomplete: pdf scanner L2 (D65), scanner L2, ocr scanner L3 (D48), skaner L3 (D43), darmowy "
+            "skaner pdf L4 (D9), skanuj dokumenty L5 (D17), skanuj L5, skanuj dokument L5 (D20), skanowanie L5 "
+            "(D44), skaner pdf L5 (D34), pdf to jpg convert L5 (D18). English core comes from en-GB.",
+    ),
     "nl-NL": dict(
         markets="NL",
         name="{brand}: Documenten Scannen",
