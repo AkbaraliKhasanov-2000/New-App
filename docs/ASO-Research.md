@@ -77,67 +77,67 @@ Izoh: 174 ta storefront iTunes Search API orqali barcha ISO-3166 kodlarini teksh
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| scanner app free | 66 | 2 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Scanner App: Genius Scan (0); Police Scanner Radio & Fire (0) | 3 |
-| scanner | 62 | 3 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Police Scanner Radio & Fire (0); iScanner: PDF Document Scanner (0) | 3 |
-| pdf scanner | 59 | 2 harfda, #3 | — | — | Adobe Scan: PDF & Doc Scanner (0); CamScanner - PDF Scanner App (0); PDF Scanner | Document Scan (0) | 3 |
-| scan to pdf | 59 | 3 harfda, #3 | — | — | Adobe Scan: PDF & Doc Scanner (0); CamScanner - PDF Scanner App (0); Scanner App: Genius Scan (0) | 3 |
-| document scanner | 55 | 3 harfda, #4 | — | — | Scanner App. JPG, Photo to PDF (0); CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0) | 3 |
-| scan documents | — | 4 harfda, #5 | — | — | Scanner App. JPG, Photo to PDF (0); CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0) | 3 |
-| document scanner app free | — | 4 harfda, #8 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0); Document Scanner, Scan to PDF (0) | 3 |
-| pdf document scanner | — | 5 harfda, #3 | — | — | PDF Document Scanner App ° (0); PDF Document Scanner: ScaniX (0); ScanGuru: PDF Scanner App (0) | 3 |
-| pdf mobile scanner | — | 5 harfda, #4 | — | — | Mobile Scanner App - Scan PDF (0); TurboScan™ Pro: PDF scanner (0); PDF Scanner AI: Scan Documents (0) | 3 |
-| pdf scanner document converter | — | 5 harfda, #5 | — | — | Scan to PDF: Converter Scanner (0); Adobe Scan: PDF & Doc Scanner (0); CamScanner - PDF Scanner App (0) | 3 |
-| scan photos to phone | — | 6 harfda, #1 | — | — | PhotoScan by Google Photos (0); Photo Scan App by Photomyne (0); CamScanner - PDF Scanner App (0) | 3 |
-| scan scanner | — | 6 harfda, #1 | — | — | CamScanner - PDF Scanner App (0); Clear Scan: Doc Scanner App (0); Scanner – Scan PDF, ID & Docs (0) | 3 |
-| pdf scanner documents | — | 6 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); PDF Scanner & Document Scan (0); Adobe Scan: PDF & Doc Scanner (0) | 3 |
-| scan apps free | — | 6 harfda, #3 | — | — | iScanner: PDF Document Scanner (0); Free PDF Scanner App For Doc (0); Scanner App: Genius Scan (0) | 3 |
-| scan documents free | — | 6 harfda, #4 | — | — | Adobe Scan: PDF & Doc Scanner (0); CamScanner - PDF Scanner App (0); Scan Me Document (0) | 3 |
-| pdf scanner gratuit | — | 6 harfda, #7 | — | — | PDF Scanner・Document Scanner (0); CamScanner - PDF Scanner App (0); Scanner – Scan PDF, ID & Docs (0) | 3 |
-| the document scanner free | — | 6 harfda, #8 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0); Free PDF Scanner App For Doc (0) | 3 |
-| paper scanner document scan | — | 7 harfda, #1 | — | — | CamScanner - PDF Scanner App (0); Scanner App: Genius Scan (0); Adobe Scan: PDF & Doc Scanner (0) | 3 |
-| free pdf scanner app | — | 7 harfda, #1 | — | — | CamScanner - PDF Scanner App (0); Free PDF Scanner App For Doc (0); Adobe Scan: PDF & Doc Scanner (0) | 3 |
-| scanner free pdf scan | — | 9 harfda, #1 | — | — | CamScanner - PDF Scanner App (0); Scanner – Scan PDF, ID & Docs (0); Adobe Scan: PDF & Doc Scanner (0) | 3 |
-| pdf scanner for free | — | 9 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0); PDF Scanner・Document Scanner (0) | 3 |
-| scanner for iphone | — | 9 harfda, #2 | — | — | Doc Scanner PDF, Convert & OCR (0); QR Reader for iPhone (0); CamScanner - PDF Scanner App (0) | 3 |
-| scanner pdf for iphone | — | 9 harfda, #3 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0); Mobile Scanner App - Scan PDF (0) | 3 |
-| scanner for documents | — | 9 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0); iScanner: PDF Document Scanner (0) | 3 |
-| document scanner to pdf | — | 10 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & Doc Scanner (0); FreePDF: PDF Converter & Scan (0) | 3 |
+| scanner app free | 66 | 2 harfda, #4 | 69 | 185 | CamScanner - PDF Scanner App (1,931,971); Scanner App: Genius Scan (1,366,703); Police Scanner Radio & Fire (534,625) | 3 |
+| scanner | 62 | 3 harfda, #2 | 94 | 177 | CamScanner - PDF Scanner App (1,931,971); Police Scanner Radio & Fire (534,625); iScanner: PDF Document Scanner (1,404,384) | 3 |
+| pdf scanner | 59 | 2 harfda, #3 | 86 | 186 | Adobe Scan: PDF & Doc Scanner (1,596,205); CamScanner - PDF Scanner App (1,931,971); PDF Scanner \| Document Scan (1,912) | 3 |
+| scan to pdf | 59 | 3 harfda, #3 | 66 | 184 | Adobe Scan: PDF & Doc Scanner (1,596,205); CamScanner - PDF Scanner App (1,931,971); Scanner App: Genius Scan (1,366,703) | 3 |
+| document scanner | 55 | 3 harfda, #4 | 75 | 185 | Scanner App. JPG, Photo to PDF (74,632); CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205) | 3 |
+| scan documents | — | 4 harfda, #5 | 60 | 186 | Scanner App. JPG, Photo to PDF (74,632); CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205) | 3 |
+| document scanner app free | — | 4 harfda, #8 | 59 | 185 | CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205); Document Scanner, Scan to PDF (98) | 3 |
+| pdf document scanner | — | 5 harfda, #3 | 34 | 188 | PDF Document Scanner App ° (6,341); PDF Document Scanner: ScaniX (103); ScanGuru: PDF Scanner App (93,238) | 3 |
+| pdf mobile scanner | — | 5 harfda, #4 | 52 | 180 | Mobile Scanner App - Scan PDF (56,860); TurboScan™ Pro: PDF scanner (296,770); PDF Scanner AI: Scan Documents (6,606) | 3 |
+| pdf scanner document converter | — | 5 harfda, #5 | 38 | 194 | Scan to PDF: Converter Scanner (24,289); Adobe Scan: PDF & Doc Scanner (1,596,205); CamScanner - PDF Scanner App (1,931,971) | 3 |
+| scan photos to phone | — | 6 harfda, #1 | 58 | 163 | PhotoScan by Google Photos (90,214); Photo Scan App by Photomyne (96,179); CamScanner - PDF Scanner App (1,931,971) | 3 |
+| scan scanner | — | 6 harfda, #1 | 84 | 189 | CamScanner - PDF Scanner App (1,931,971); Clear Scan: Doc Scanner App (18,121); Scanner – Scan PDF, ID & Docs (222,759) | 3 |
+| pdf scanner documents | — | 6 harfda, #2 | 48 | 184 | CamScanner - PDF Scanner App (1,931,971); PDF Scanner & Document Scan (21); Adobe Scan: PDF & Doc Scanner (1,596,205) | 3 |
+| scan apps free | — | 6 harfda, #3 | 66 | 184 | iScanner: PDF Document Scanner (1,404,384); Free PDF Scanner App For Doc (529); Scanner App: Genius Scan (1,366,703) | 3 |
+| scan documents free | — | 6 harfda, #4 | 59 | 192 | Adobe Scan: PDF & Doc Scanner (1,596,205); CamScanner - PDF Scanner App (1,931,971); Scan Me Document (0) | 3 |
+| pdf scanner gratuit | — | 6 harfda, #7 | 39 | 182 | PDF Scanner・Document Scanner (2,026); CamScanner - PDF Scanner App (1,931,971); Scanner – Scan PDF, ID & Docs (222,759) | 3 |
+| the document scanner free | — | 6 harfda, #8 | 47 | 180 | CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205); Free PDF Scanner App For Doc (529) | 3 |
+| paper scanner document scan | — | 7 harfda, #1 | 31 | 194 | CamScanner - PDF Scanner App (1,931,971); Scanner App: Genius Scan (1,366,703); Adobe Scan: PDF & Doc Scanner (1,596,205) | 3 |
+| free pdf scanner app | — | 7 harfda, #1 | 47 | 189 | CamScanner - PDF Scanner App (1,931,971); Free PDF Scanner App For Doc (529); Adobe Scan: PDF & Doc Scanner (1,596,205) | 3 |
+| scanner free pdf scan | — | 9 harfda, #1 | 62 | 188 | CamScanner - PDF Scanner App (1,931,971); Scanner – Scan PDF, ID & Docs (222,759); Adobe Scan: PDF & Doc Scanner (1,596,205) | 3 |
+| pdf scanner for free | — | 9 harfda, #2 | 59 | 193 | CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205); PDF Scanner・Document Scanner (2,026) | 3 |
+| scanner for iphone | — | 9 harfda, #2 | 47 | 180 | Doc Scanner PDF, Convert & OCR (478); QR Reader for iPhone (1,437,433); CamScanner - PDF Scanner App (1,931,971) | 3 |
+| scanner pdf for iphone | — | 9 harfda, #3 | 47 | 185 | CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205); Mobile Scanner App - Scan PDF (56,860) | 3 |
+| scanner for documents | — | 9 harfda, #4 | 64 | 183 | CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205); iScanner: PDF Document Scanner (1,404,384) | 3 |
+| document scanner to pdf | — | 10 harfda, #4 | 13 | 187 | CamScanner - PDF Scanner App (1,931,971); Adobe Scan: PDF & Doc Scanner (1,596,205); FreePDF: PDF Converter & Scan (0) | 3 |
 
 ### GB — App Store tili: `en` · ilova lokalizatsiyasi: ✅ bor
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| pdf scanner | — | 2 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); PDF Scanner | Document Scan (0) | 3 |
-| scanner app | — | 2 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); iScanner: PDF Doc Scanner App (0); Adobe Scan: PDF & OCR Scanner (0) | 3 |
-| pdf scanner free | — | 2 harfda, #6 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); iScanner: PDF Doc Scanner App (0) | 3 |
-| scanner app free | — | 3 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); iScanner: PDF Doc Scanner App (0); Adobe Scan: PDF & OCR Scanner (0) | 3 |
-| scan documents | — | 3 harfda, #3 | — | — | CamScanner - PDF Scanner App (0); ScanMe - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0) | 3 |
-| document scanner | — | 4 harfda, #3 | — | — | iScanner: PDF Doc Scanner App (0); CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0) | 3 |
-| doc scanner free | — | 5 harfda, #2 | — | — | Doc Scanner . (0); CamScanner - PDF Scanner App (0); Scanner – Scan PDF, ID & Docs (0) | 3 |
-| scanner app for documents | — | 5 harfda, #6 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); Scanner App: Genius Scan (0) | 3 |
-| scan scanner | — | 6 harfda, #1 | — | — | CamScanner - PDF Scanner App (0); Clear Scan: Doc Scanner App (0); QR Code: Scan QR & Barcode (0) | 3 |
-| scan photos | — | 6 harfda, #1 | — | — | PhotoScan by Google Photos (0); Photo Scan App by Photomyne (0); Photo Scanner: Scan old Albums (0) | 3 |
-| scan documents free | — | 6 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); EasyScan: Document Scanner (0) | 3 |
-| scan to pdf free | — | 6 harfda, #2 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); Scan to PDF & Document Scanner (0) | 3 |
-| scan app free | — | 6 harfda, #3 | — | — | iScanner: PDF Doc Scanner App (0); QR Pro - Code Scanner & Maker (0); CamScanner - PDF Scanner App (0) | 3 |
-| scan to pdf | — | 6 harfda, #3 | — | — | Adobe Scan: PDF & OCR Scanner (0); Scan to PDF & Document Scanner (0); CamScanner - PDF Scanner App (0) | 3 |
-| scan pdf free | — | 6 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); Scan Hero: PDF Scanner (0) | 3 |
-| free document scanner | — | 6 harfda, #7 | — | — | EasyScan: Document Scanner (0); CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0) | 3 |
-| scan a document | — | 6 harfda, #7 | — | — | iScanner: PDF Doc Scanner App (0); Scanner App: Genius Scan (0); Adobe Scan: PDF & OCR Scanner (0) | 3 |
-| scan picture | — | 6 harfda, #7 | — | — | PhotoScan by Google Photos (0); Photo Scan App by Photomyne (0); CamScanner - PDF Scanner App (0) | 3 |
-| scan my phone | — | 6 harfda, #8 | — | — | Clear Scan: Doc Scanner App (0); YouTube (0); McAfee: Stay Secure & Private (0) | 3 |
-| free pdf scanner app | — | 7 harfda, #3 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); PDF Scanner・Document Scanner (0) | 3 |
-| mobile scanner pdf app | — | 8 harfda, #1 | — | — | Mobile Scanner App - Scan PDF (0); Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0) | 3 |
-| scanner to pdf | — | 9 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); Scanner – Scan PDF, ID & Docs (0) | 3 |
-| scanner app for photos | — | 9 harfda, #6 | — | — | PhotoScan by Google Photos (0); Photo Scan App by Photomyne (0); Photo Scanner : Doc Scanner (0) | 3 |
-| mobile document scanner ocr | — | 9 harfda, #9 | — | — | Scanner – Scan PDF, ID & Docs (0); Mobile Scanner App - Scan PDF (0); Scan Shot・PDF Document Scanner (0) | 3 |
-| document scanner app free | — | 10 harfda, #3 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); iScanner: PDF Doc Scanner App (0) | 3 |
+| pdf scanner | — | 2 harfda, #4 | 74 | 181 | CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149); PDF Scanner \| Document Scan (108) | 3 |
+| scanner app | — | 2 harfda, #4 | 71 | 181 | CamScanner - PDF Scanner App (126,473); iScanner: PDF Doc Scanner App (163,951); Adobe Scan: PDF & OCR Scanner (195,149) | 3 |
+| pdf scanner free | — | 2 harfda, #6 | 50 | 189 | Adobe Scan: PDF & OCR Scanner (195,149); CamScanner - PDF Scanner App (126,473); iScanner: PDF Doc Scanner App (163,951) | 3 |
+| scanner app free | — | 3 harfda, #2 | 55 | 187 | CamScanner - PDF Scanner App (126,473); iScanner: PDF Doc Scanner App (163,951); Adobe Scan: PDF & OCR Scanner (195,149) | 3 |
+| scan documents | — | 3 harfda, #3 | 55 | 185 | CamScanner - PDF Scanner App (126,473); ScanMe - PDF Scanner App (244); Adobe Scan: PDF & OCR Scanner (195,149) | 3 |
+| document scanner | — | 4 harfda, #3 | 59 | 184 | iScanner: PDF Doc Scanner App (163,951); CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149) | 3 |
+| doc scanner free | — | 5 harfda, #2 | 32 | 188 | Doc Scanner . (8); CamScanner - PDF Scanner App (126,473); Scanner – Scan PDF, ID & Docs (34,010) | 3 |
+| scanner app for documents | — | 5 harfda, #6 | 53 | 190 | CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149); Scanner App: Genius Scan (100,577) | 3 |
+| scan scanner | — | 6 harfda, #1 | 47 | 182 | CamScanner - PDF Scanner App (126,473); Clear Scan: Doc Scanner App (4,045); QR Code: Scan QR & Barcode (1) | 3 |
+| scan photos | — | 6 harfda, #1 | 27 | 192 | PhotoScan by Google Photos (10,827); Photo Scan App by Photomyne (15,052); Photo Scanner: Scan old Albums (853) | 3 |
+| scan documents free | — | 6 harfda, #2 | 53 | 190 | CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149); EasyScan: Document Scanner (2,655) | 3 |
+| scan to pdf free | — | 6 harfda, #2 | 50 | 190 | Adobe Scan: PDF & OCR Scanner (195,149); CamScanner - PDF Scanner App (126,473); Scan to PDF & Document Scanner (5) | 3 |
+| scan app free | — | 6 harfda, #3 | 51 | 192 | iScanner: PDF Doc Scanner App (163,951); QR Pro - Code Scanner & Maker (45,601); CamScanner - PDF Scanner App (126,473) | 3 |
+| scan to pdf | — | 6 harfda, #3 | 37 | 186 | Adobe Scan: PDF & OCR Scanner (195,149); Scan to PDF & Document Scanner (5); CamScanner - PDF Scanner App (126,473) | 3 |
+| scan pdf free | — | 6 harfda, #4 | 31 | 190 | CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149); Scan Hero: PDF Scanner (32,064) | 3 |
+| free document scanner | — | 6 harfda, #7 | 50 | 193 | EasyScan: Document Scanner (2,655); CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149) | 3 |
+| scan a document | — | 6 harfda, #7 | 37 | 192 | iScanner: PDF Doc Scanner App (163,951); Scanner App: Genius Scan (100,577); Adobe Scan: PDF & OCR Scanner (195,149) | 3 |
+| scan picture | — | 6 harfda, #7 | 38 | 188 | PhotoScan by Google Photos (10,827); Photo Scan App by Photomyne (15,052); CamScanner - PDF Scanner App (126,473) | 3 |
+| scan my phone | — | 6 harfda, #8 | 18 | 185 | Clear Scan: Doc Scanner App (4,045); YouTube (6,213,050); McAfee: Stay Secure & Private (29,402) | 3 |
+| free pdf scanner app | — | 7 harfda, #3 | 53 | 188 | CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149); PDF Scanner・Document Scanner (258) | 3 |
+| mobile scanner pdf app | — | 8 harfda, #1 | 53 | 185 | Mobile Scanner App - Scan PDF (11,867); Adobe Scan: PDF & OCR Scanner (195,149); CamScanner - PDF Scanner App (126,473) | 3 |
+| scanner to pdf | — | 9 harfda, #2 | 8 | 188 | CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149); Scanner – Scan PDF, ID & Docs (34,010) | 3 |
+| scanner app for photos | — | 9 harfda, #6 | 34 | 187 | PhotoScan by Google Photos (10,827); Photo Scan App by Photomyne (15,052); Photo Scanner : Doc Scanner (178) | 3 |
+| mobile document scanner ocr | — | 9 harfda, #9 | 46 | 192 | Scanner – Scan PDF, ID & Docs (34,010); Mobile Scanner App - Scan PDF (11,867); Scan Shot・PDF Document Scanner (9,972) | 3 |
+| document scanner app free | — | 10 harfda, #3 | 42 | 190 | CamScanner - PDF Scanner App (126,473); Adobe Scan: PDF & OCR Scanner (195,149); iScanner: PDF Doc Scanner App (163,951) | 3 |
 
 ### CA — App Store tili: `en` · ilova lokalizatsiyasi: ✅ bor
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| pdf scanner | — | 2 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); PDF Scanner | Document Scan (0) | 3 |
+| pdf scanner | — | 2 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); PDF Scanner \| Document Scan (0) | 3 |
 | scanner app free | — | 2 harfda, #6 | — | — | CamScanner - PDF Scanner App (0); iScanner: PDF Docs Scanner App (0); Adobe Scan: PDF & OCR Scanner (0) | 3 |
 | scanner | — | 2 harfda, #8 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); iScanner: PDF Docs Scanner App (0) | 3 |
 | scan document | — | 3 harfda, #3 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); Scanner App: Genius Scan (0) | 3 |
@@ -167,7 +167,7 @@ Izoh: 174 ta storefront iTunes Search API orqali barcha ISO-3166 kodlarini teksh
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| pdf scanner | — | 2 harfda, #1 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); PDF Scanner | Document Scan (0) | 3 |
+| pdf scanner | — | 2 harfda, #1 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); PDF Scanner \| Document Scan (0) | 3 |
 | scanner app | — | 2 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); Scanner App: Genius Scan (0) | 3 |
 | scanner app free | — | 2 harfda, #8 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); iScanner: PDF Docs Scanner App (0) | 3 |
 | pdf scanner free | — | 2 harfda, #9 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); DocScanner: PDF Scan (0) | 3 |
@@ -176,7 +176,7 @@ Izoh: 174 ta storefront iTunes Search API orqali barcha ISO-3166 kodlarini teksh
 | scan | — | 3 harfda, #5 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF & OCR Scanner (0); Scanner App: Genius Scan (0) | 3 |
 | document scanner free | — | 3 harfda, #10 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); Free PDF Scanner App for Doc (0) | 3 |
 | scanner app pdf | — | 5 harfda, #6 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); Scanner – Scan PDF & Document (0) | 3 |
-| pdf scanner document convert | — | 5 harfda, #9 | — | — | PDF Scanner Document Converter (0); Adobe Scan: PDF & OCR Scanner (0); PDF Scanner | Document Scan (0) | 3 |
+| pdf scanner document convert | — | 5 harfda, #9 | — | — | PDF Scanner Document Converter (0); Adobe Scan: PDF & OCR Scanner (0); PDF Scanner \| Document Scan (0) | 3 |
 | scan to pdf free | — | 6 harfda, #1 | — | — | Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0); iScanner: PDF Docs Scanner App (0) | 3 |
 | scan scanner | — | 6 harfda, #1 | — | — | CamScanner - PDF Scanner App (0); Document PDF Scanner. (0); QR & Barcode Scan (0) | 3 |
 | scan free | — | 6 harfda, #1 | — | — | Free PDF Scanner App for Doc (0); Adobe Scan: PDF & OCR Scanner (0); CamScanner - PDF Scanner App (0) | 3 |
@@ -347,31 +347,31 @@ Izoh: 174 ta storefront iTunes Search API orqali barcha ISO-3166 kodlarini teksh
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| scanner | — | 2 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); iScanner - Digitalizador PDF (0) | 3 |
-| pdf scanner | — | 2 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Digitalizador Documentos PDF (0); PDF Scanner  ‎ (0) | 3 |
-| digitalizar documentos pdf | — | 2 harfda, #6 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); iScanner - Digitalizador PDF (0) | 3 |
-| scanner gratis | — | 3 harfda, #5 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); iScanner - Digitalizador PDF (0) | 3 |
-| escanear documentos | — | 3 harfda, #6 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); Scanner de Documentos em PDF (0) | 3 |
-| digitalizar | — | 3 harfda, #8 | — | — | CamScanner - PDF Scanner App (0); iScanner - Digitalizador PDF (0); Adobe Scan: PDF Scanner e OCR (0) | 3 |
-| escanear | — | 4 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); Scanner de Documentos em PDF (0) | 3 |
-| escanear documentos gratis | — | 4 harfda, #7 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); Digitalizar Documentos em PDF (0) | 3 |
-| scanner pdf gratis | — | 4 harfda, #7 | — | — | CamScanner - PDF Scanner App (0); Digitalizador Documentos PDF (0); Adobe Scan: PDF Scanner e OCR (0) | 3 |
-| pdf scanner de documentos | — | 5 harfda, #3 | — | — | Digitalizador Documentos PDF (0); CamScanner - PDF Scanner App (0); PDF: Scanner de documentos (0) | 3 |
-| pdf scanner free | — | 5 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); Digitalizador Documentos PDF (0) | 3 |
-| escanear pdf | — | 5 harfda, #5 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); Digitalizador Documentos PDF (0) | 3 |
-| app scanner grátis | — | 6 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Scanner - PDF Scaner · (0); Adobe Scan: PDF Scanner e OCR (0) | 3 |
-| escanear pdf gratis | — | 8 harfda, #4 | — | — | CamScanner - PDF Scanner App (0); Converter para PDF: Imagem PDF (0); Digitalizador Documentos PDF (0) | 3 |
-| digitalizar documentos pdf gratis | — | 8 harfda, #9 | — | — | CamScanner - PDF Scanner App (0); PDF Scanner | Digitalizador. (0); PDF Scanner: Digitalizar | (0) | 3 |
-| scanner documento | — | 9 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Scanner – Digitalizar & PDF (0); Scanner de Documentos em PDF (0) | 3 |
-| app de escanear documento | — | 9 harfda, #3 | — | — | CamScanner - PDF Scanner App (0); Adobe Scan: PDF Scanner e OCR (0); Scanner de Documentos em PDF (0) | 3 |
-| escanear para pdf | — | 10 harfda, #1 | — | — | Digitalizador Documentos PDF (0); CamScanner - PDF Scanner App (0); Conversor & Escaner para PDF (0) | 3 |
-| escanear documento pdf | — | 10 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Scanner App: Digitalizador PDF (0); Digitalizador Documentos PDF (0) | 3 |
-| escanear foto para pdf | — | 10 harfda, #2 | — | — | CamScanner - PDF Scanner App (0); Converter para PDF: Imagem PDF (0); Scanner - PDF Scaner · (0) | 3 |
-| app para digitalizar documento | — | 10 harfda, #6 | — | — | CamScanner - PDF Scanner App (0); Conversor de PDF - PDF em Word (0); Fotos PDF: Scanner e Conversor (0) | 3 |
-| escanear pdf e documentos | — | 10 harfda, #6 | — | — | Escanear PDF e Documentos (0); Converter para PDF: Imagem PDF (0); Scan Shot: Scanner Documentos (0) | 3 |
-| digitalizar documentos gratis | — | 11 harfda, #7 | — | — | CamScanner - PDF Scanner App (0); Digitalizador Documentos PDF (0); Adobe Scan: PDF Scanner e OCR (0) | 3 |
-| scanner pdf, assinatura | — | 12 harfda, #2 | — | — | Scanner PDF, assinatura (0); eSign: Assinatura Digital PDF (0); Assinar PDF – Scan Assinatura (0) | 3 |
-| scanner pdf para documentos | — | 13 harfda, #1 | — | — | Converter para PDF: Imagem PDF (0); PDF Scanner: Escanear, Editar (0); Digitalizador Documentos PDF (0) | 3 |
+| scanner | — | 2 harfda, #2 | 79 | 166 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); iScanner - Digitalizador PDF (327,056) | 3 |
+| pdf scanner | — | 2 harfda, #4 | 72 | 172 | CamScanner - PDF Scanner App (655,215); Digitalizador Documentos PDF (8,196); PDF Scanner  ‎ (11) | 3 |
+| digitalizar documentos pdf | — | 2 harfda, #6 | 52 | 177 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); iScanner - Digitalizador PDF (327,056) | 3 |
+| scanner gratis | — | 3 harfda, #5 | 53 | 177 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); iScanner - Digitalizador PDF (327,056) | 3 |
+| escanear documentos | — | 3 harfda, #6 | 33 | 181 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); Scanner de Documentos em PDF (19,304) | 3 |
+| digitalizar | — | 3 harfda, #8 | 56 | 168 | CamScanner - PDF Scanner App (655,215); iScanner - Digitalizador PDF (327,056); Adobe Scan: PDF Scanner e OCR (344,367) | 3 |
+| escanear | — | 4 harfda, #4 | 58 | 176 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); Scanner de Documentos em PDF (19,304) | 3 |
+| escanear documentos gratis | — | 4 harfda, #7 | 21 | 183 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); Digitalizar Documentos em PDF (49) | 3 |
+| scanner pdf gratis | — | 4 harfda, #7 | 48 | 168 | CamScanner - PDF Scanner App (655,215); Digitalizador Documentos PDF (8,196); Adobe Scan: PDF Scanner e OCR (344,367) | 3 |
+| pdf scanner de documentos | — | 5 harfda, #3 | 8 | 184 | Digitalizador Documentos PDF (8,196); CamScanner - PDF Scanner App (655,215); PDF: Scanner de documentos (140) | 3 |
+| pdf scanner free | — | 5 harfda, #4 | 12 | 178 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); Digitalizador Documentos PDF (8,196) | 3 |
+| escanear pdf | — | 5 harfda, #5 | 16 | 185 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); Digitalizador Documentos PDF (8,196) | 3 |
+| app scanner grátis | — | 6 harfda, #2 | 48 | 180 | CamScanner - PDF Scanner App (655,215); Scanner - PDF Scaner · (47,882); Adobe Scan: PDF Scanner e OCR (344,367) | 3 |
+| escanear pdf gratis | — | 8 harfda, #4 | 36 | 169 | CamScanner - PDF Scanner App (655,215); Converter para PDF: Imagem PDF (0); Digitalizador Documentos PDF (8,196) | 3 |
+| digitalizar documentos pdf gratis | — | 8 harfda, #9 | 48 | 181 | CamScanner - PDF Scanner App (655,215); PDF Scanner \| Digitalizador. (95); PDF Scanner: Digitalizar \| (16) | 3 |
+| scanner documento | — | 9 harfda, #2 | 51 | 171 | CamScanner - PDF Scanner App (655,215); Scanner – Digitalizar & PDF (7,301); Scanner de Documentos em PDF (19,304) | 3 |
+| app de escanear documento | — | 9 harfda, #3 | 49 | 176 | CamScanner - PDF Scanner App (655,215); Adobe Scan: PDF Scanner e OCR (344,367); Scanner de Documentos em PDF (19,304) | 3 |
+| escanear para pdf | — | 10 harfda, #1 | 36 | 180 | Digitalizador Documentos PDF (8,196); CamScanner - PDF Scanner App (655,215); Conversor & Escaner para PDF (115) | 3 |
+| escanear documento pdf | — | 10 harfda, #2 | 14 | 182 | CamScanner - PDF Scanner App (655,215); Scanner App: Digitalizador PDF (12); Digitalizador Documentos PDF (8,196) | 3 |
+| escanear foto para pdf | — | 10 harfda, #2 | 14 | 190 | CamScanner - PDF Scanner App (655,215); Converter para PDF: Imagem PDF (0); Scanner - PDF Scaner · (47,882) | 3 |
+| app para digitalizar documento | — | 10 harfda, #6 | 47 | 169 | CamScanner - PDF Scanner App (655,215); Conversor de PDF - PDF em Word (22,001); Fotos PDF: Scanner e Conversor (14,272) | 3 |
+| escanear pdf e documentos | — | 10 harfda, #6 | 30 | 178 | Escanear PDF e Documentos (0); Converter para PDF: Imagem PDF (0); Scan Shot: Scanner Documentos (14,151) | 3 |
+| digitalizar documentos gratis | — | 11 harfda, #7 | 49 | 182 | CamScanner - PDF Scanner App (655,215); Digitalizador Documentos PDF (8,196); Adobe Scan: PDF Scanner e OCR (344,367) | 3 |
+| scanner pdf, assinatura | — | 12 harfda, #2 | 52 | 187 | Scanner PDF, assinatura (29); eSign: Assinatura Digital PDF (12,048); Assinar PDF – Scan Assinatura (0) | 3 |
+| scanner pdf para documentos | — | 13 harfda, #1 | 27 | 186 | Converter para PDF: Imagem PDF (0); PDF Scanner: Escanear, Editar (188); Digitalizador Documentos PDF (8,196) | 3 |
 
 ### MX — App Store tili: `es` · ilova lokalizatsiyasi: ✅ bor
 
@@ -382,57 +382,57 @@ Izoh: 174 ta storefront iTunes Search API orqali barcha ISO-3166 kodlarini teksh
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| 書類 スキャン 無料 | — | 1 harfda, #4 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); 簡単スキャナー 〜こまかめ〜 (0) | 3 |
-| スキャン | — | 2 harfda, #2 | — | — | CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0); フォトスキャン by Google フォト (0) | 3 |
-| pdf スキャン | — | 2 harfda, #5 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); スキャナー プロ (Scanner Pro) (0) | 3 |
-| スキャナー | — | 2 harfda, #5 | — | — | CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0); スキャナー プロ (Scanner Pro) (0) | 3 |
-| スキャン 無料 | — | 2 harfda, #8 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); らくらくスキャン - OCR＆書類をスキャン (0) | 3 |
-| 書類 スキャン pdf | — | 2 harfda, #10 | — | — | PDFスキャナー: 写真をPDFに変換 & 書類スキャン (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0) | 3 |
-| スキャナー 無料 | — | 4 harfda, #3 | — | — | CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0); スキャナー プロ (Scanner Pro) (0) | 3 |
-| pdf scanner | — | 5 harfda, #1 | — | — | CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0); スキャナーアプリ PDF・カメラスキャナー・文書 スキャン (0) | 3 |
-| pdf スキャン 無料 | — | 5 harfda, #2 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); スキャナー プロ (Scanner Pro) (0) | 3 |
-| スキャン カメラ pdf | — | 6 harfda, #1 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); Mobile Scanner - 書類やフォトスキャン (0) | 3 |
-| スキャン アプリ | — | 6 harfda, #1 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); フォトスキャン by Google フォト (0) | 3 |
-| スキャナー アプリ | — | taklif qilinmaydi | — | — | スキャナーアプリ (0); プリンター: AIスキャナー・PDF (0); OBD2スキャナー エンジン音付き (0) | 3 |
-| 書類 スキャン | — | taklif qilinmaydi | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); 書類スキャン - OCR・文字認識・領収書・名刺 (0) | 3 |
-| ocr | — | 2 harfda, #7 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); 撮るだけ文字認識 (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0) | 2 |
-| 写真 スキャナー | — | 4 harfda, #6 | — | — | フォトスキャン by Google フォト (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0) | 2 |
-| pdf ocr | — | 5 harfda, #1 | — | — | Adobe Scan: OCR付モバイルスキャナーアプリ (0); Adobe Acrobat Reader：PDFの編集と変換 (0); vFlat Scan - PDF Scanner (0) | 2 |
-| スキャン jpeg | — | 6 harfda, #1 | — | — | ScanGuru ドキュメント スキャン、PDF変換、OCR (0); Lens Document Scan & Editor (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0) | 2 |
-| 文字 読み取り | — | taklif qilinmaydi | — | — | 撮るだけ文字認識 (0); 文字読み取り - フォトスキャン、PDF 変換、翻訳 カメラ (0); 文字スキャン - OCR認識画像文字起こし (0) | 2 |
-| pdf | — | 2 harfda, #1 | — | — | Adobe Acrobat Reader：PDFの編集と変換 (0); CamScanner- スキャン、PDF 変換、翻訳 カメラ (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0) | 1 |
-| pdf 変換 | — | 2 harfda, #2 | — | — | Adobe Acrobat Reader：PDFの編集と変換 (0); PDF変換 写真画像をPDF変換。オフラインでカメラスキャン (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0) | 1 |
-| pdf 無料 | — | 2 harfda, #3 | — | — | Adobe Acrobat Reader：PDFの編集と変換 (0); PDF変換 写真画像をPDF変換。オフラインでカメラスキャン (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0) | 1 |
-| pdf 変換 無料 | — | 3 harfda, #9 | — | — | PDF変換 写真画像をPDF変換。オフラインでカメラスキャン (0); Adobe Acrobat Reader：PDFの編集と変換 (0); Adobe Scan: OCR付モバイルスキャナーアプリ (0) | 1 |
-| pdf reader | — | 5 harfda, #1 | — | — | PDFリーダー＆エディタ (0); Adobe Acrobat Reader：PDFの編集と変換 (0); PDF Reader: Edit & Sign (0) | 1 |
+| 書類 スキャン 無料 | — | 1 harfda, #4 | 50 | 181 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); 簡単スキャナー 〜こまかめ〜 (461) | 3 |
+| スキャン | — | 2 harfda, #2 | 64 | 176 | CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); フォトスキャン by Google フォト (51,733) | 3 |
+| pdf スキャン | — | 2 harfda, #5 | 53 | 176 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); スキャナー プロ (Scanner Pro) (15,550) | 3 |
+| スキャナー | — | 2 harfda, #5 | 67 | 171 | CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); スキャナー プロ (Scanner Pro) (15,550) | 3 |
+| スキャン 無料 | — | 2 harfda, #8 | 52 | 177 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); らくらくスキャン - OCR＆書類をスキャン (0) | 3 |
+| 書類 スキャン pdf | — | 2 harfda, #10 | 28 | 185 | PDFスキャナー: 写真をPDFに変換 & 書類スキャン (392); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553) | 3 |
+| スキャナー 無料 | — | 4 harfda, #3 | 31 | 180 | CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); スキャナー プロ (Scanner Pro) (15,550) | 3 |
+| pdf scanner | — | 5 harfda, #1 | 34 | 175 | CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); スキャナーアプリ PDF・カメラスキャナー・文書 スキャン (27) | 3 |
+| pdf スキャン 無料 | — | 5 harfda, #2 | 45 | 177 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); スキャナー プロ (Scanner Pro) (15,550) | 3 |
+| スキャン カメラ pdf | — | 6 harfda, #1 | 37 | 186 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); Mobile Scanner - 書類やフォトスキャン (6,885) | 3 |
+| スキャン アプリ | — | 6 harfda, #1 | 50 | 177 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); フォトスキャン by Google フォト (51,733) | 3 |
+| スキャナー アプリ | — | taklif qilinmaydi | 32 | 191 | スキャナーアプリ (2,035); プリンター: AIスキャナー・PDF (12); OBD2スキャナー エンジン音付き (1) | 3 |
+| 書類 スキャン | — | taklif qilinmaydi | 50 | 179 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); 書類スキャン - OCR・文字認識・領収書・名刺 (6) | 3 |
+| ocr | — | 2 harfda, #7 | 50 | 184 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); 撮るだけ文字認識 (2,576); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553) | 2 |
+| 写真 スキャナー | — | 4 harfda, #6 | 49 | 182 | フォトスキャン by Google フォト (51,733); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433) | 2 |
+| pdf ocr | — | 5 harfda, #1 | 43 | 188 | Adobe Scan: OCR付モバイルスキャナーアプリ (319,433); Adobe Acrobat Reader：PDFの編集と変換 (107,564); vFlat Scan - PDF Scanner (13,341) | 2 |
+| スキャン jpeg | — | 6 harfda, #1 | 41 | 176 | ScanGuru ドキュメント スキャン、PDF変換、OCR (11,999); Lens Document Scan & Editor (1); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433) | 2 |
+| 文字 読み取り | — | taklif qilinmaydi | 44 | 181 | 撮るだけ文字認識 (2,576); 文字読み取り - フォトスキャン、PDF 変換、翻訳 カメラ (465); 文字スキャン - OCR認識画像文字起こし (3,476) | 2 |
+| pdf | — | 2 harfda, #1 | 71 | 166 | Adobe Acrobat Reader：PDFの編集と変換 (107,564); CamScanner- スキャン、PDF 変換、翻訳 カメラ (72,553); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433) | 1 |
+| pdf 変換 | — | 2 harfda, #2 | 65 | 178 | Adobe Acrobat Reader：PDFの編集と変換 (107,564); PDF変換 写真画像をPDF変換。オフラインでカメラスキャン (2,277); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433) | 1 |
+| pdf 無料 | — | 2 harfda, #3 | 55 | 175 | Adobe Acrobat Reader：PDFの編集と変換 (107,564); PDF変換 写真画像をPDF変換。オフラインでカメラスキャン (2,277); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433) | 1 |
+| pdf 変換 無料 | — | 3 harfda, #9 | 47 | 180 | PDF変換 写真画像をPDF変換。オフラインでカメラスキャン (2,277); Adobe Acrobat Reader：PDFの編集と変換 (107,564); Adobe Scan: OCR付モバイルスキャナーアプリ (319,433) | 1 |
+| pdf reader | — | 5 harfda, #1 | 39 | 170 | PDFリーダー＆エディタ (45); Adobe Acrobat Reader：PDFの編集と変換 (107,564); PDF Reader: Edit & Sign (7) | 1 |
 
 ### KR — App Store tili: `ko` · ilova lokalizatsiyasi: ❌ yo‘q (tavsiya: qo‘shish)
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| 문서 스캔 | — | 1 harfda, #7 | — | — | vFlat Scan - PDF 스캐너 (0); CamScanner - 문서 스캔 & PDF 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0) | 3 |
-| 스캐너 | — | 2 harfda, #1 | — | — | CamScanner - 문서 스캔 & PDF 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0); vFlat Scan - PDF 스캐너 (0) | 3 |
-| 스캔 | — | 2 harfda, #2 | — | — | vFlat Scan - PDF 스캐너 (0); CamScanner - 문서 스캔 & PDF 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0) | 3 |
-| pdf 스캔 | — | 2 harfda, #4 | — | — | vFlat Scan - PDF 스캐너 (0); Adobe Scan: OCR & PDF 스캐너 (0); CamScanner - 문서 스캔 & PDF 변환 (0) | 3 |
-| pdf scanner | — | 2 harfda, #6 | — | — | CamScanner - 문서 스캔 & PDF 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0); PDF 스캐너 - 문서 스캔 및 OCR 문자 인식 (0) | 3 |
-| 문서 스캔 무료 | — | 2 harfda, #7 | — | — | Adobe Scan: OCR & PDF 스캐너 (0); CamScanner - 문서 스캔 & PDF 변환 (0); 스캐너 모바일 - 문서, 사진 스캔 (0) | 3 |
-| 무료 스캔 | — | 4 harfda, #1 | — | — | Adobe Scan: OCR & PDF 스캐너 (0); vFlat Scan - PDF 스캐너 (0); 스캐너 모바일 - 문서, 사진 스캔 (0) | 3 |
-| 스캔 앱 | — | 4 harfda, #1 | — | — | vFlat Scan - PDF 스캐너 (0); CamScanner - 문서 스캔 & PDF 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0) | 3 |
-| 스캐너 앱 | — | 5 harfda, #1 | — | — | CamScanner - 문서 스캔 & PDF 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0); vFlat Scan - PDF 스캐너 (0) | 3 |
-| pdf 스캔 무료 | — | 5 harfda, #3 | — | — | CamScanner - 문서 스캔 & PDF 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0); vFlat Scan - PDF 스캐너 (0) | 3 |
-| 텍스트 추출 | — | 1 harfda, #8 | — | — | 스캔 및 번역 - 사진을 텍스트로 변환 (0); Adobe Scan: OCR & PDF 스캐너 (0); vFlat Scan - PDF 스캐너 (0) | 2 |
-| ocr | — | 2 harfda, #7 | — | — | Adobe Scan: OCR & PDF 스캐너 (0); vFlat Scan - PDF 스캐너 (0); CamScanner - 문서 스캔 & PDF 변환 (0) | 2 |
-| 사진 스캔 | — | 4 harfda, #3 | — | — | vFlat Scan - PDF 스캐너 (0); 포토스캐너 - Google 포토 (0); CamScanner - 문서 스캔 & PDF 변환 (0) | 2 |
-| 사진 문자 인식 ocr | — | 4 harfda, #4 | — | — | 사진 문자 인식 OCR (0); 사진을글자로 - OCR (문자인식) (0); PDF 스캐너 - 문서 스캔 및 OCR 문자 인식 (0) | 2 |
-| 사진 텍스트 추출 | — | 4 harfda, #5 | — | — | 사진 텍스트 추출・이미지 글자 복사 (0); OCR 텍스트 스캐너:문서 스캔 및 pdf 변환 (0); 텍스트 스캐너:인식 스캐너 필기, 추출 텍스트를 (0) | 2 |
-| pdf ocr | — | 5 harfda, #1 | — | — | Adobe Scan: OCR & PDF 스캐너 (0); vFlat Scan - PDF 스캐너 (0); PDF OCR Pro (0) | 2 |
-| pdf 서명 | — | 5 harfda, #1 | — | — | Adobe Acrobat Reader: PDF 편집 (0); PDF서명 - 문서 서명 (0); PDF Viewer by Nutrient (0) | 2 |
-| 문자 인식 | — | taklif qilinmaydi | — | — | 티티리더 - 텍스트 뷰어, 이미지 문자인식 (0); PDF 스캐너 - 문서 스캔 및 OCR 문자 인식 (0); QS Scanner - 문자 인식 카메라 번역 (0) | 2 |
-| pdf | — | 2 harfda, #1 | — | — | Adobe Acrobat Reader: PDF 편집 (0); 폴라리스 오피스 - 한글, PDF, MS문서, GPT (0); CamScanner - 문서 스캔 & PDF 변환 (0) | 1 |
-| pdf 변환 | — | 2 harfda, #3 | — | — | vFlat Scan - PDF 스캐너 (0); Adobe Acrobat Reader: PDF 편집 (0); CamScanner - 문서 스캔 & PDF 변환 (0) | 1 |
-| 서명 | — | 2 harfda, #5 | — | — | eSign: 전자서명·PDF 스캐너 (0); Adobe Acrobat Reader: PDF 편집 (0); PDF 문서 서명 (0) | 1 |
-| pdf maker | — | 2 harfda, #10 | — | — | PDF Maker - Convert to PDF (0); PDF Maker: Scan & Edit (0); CamScanner - 문서 스캔 & PDF 변환 (0) | 1 |
-| pdf reader | — | 5 harfda, #1 | — | — | Adobe Acrobat Reader: PDF 편집 (0); PDF Reader - PDF Viewer, Edit (0); PDF 리더기 및 PDF 편집기 (0) | 1 |
+| 문서 스캔 | — | 1 harfda, #7 | 31 | 181 | vFlat Scan - PDF 스캐너 (64,578); CamScanner - 문서 스캔 & PDF 변환 (71,719); Adobe Scan: OCR & PDF 스캐너 (123,821) | 3 |
+| 스캐너 | — | 2 harfda, #1 | 60 | 176 | CamScanner - 문서 스캔 & PDF 변환 (71,719); Adobe Scan: OCR & PDF 스캐너 (123,821); vFlat Scan - PDF 스캐너 (64,578) | 3 |
+| 스캔 | — | 2 harfda, #2 | 63 | 183 | vFlat Scan - PDF 스캐너 (64,578); CamScanner - 문서 스캔 & PDF 변환 (71,719); Adobe Scan: OCR & PDF 스캐너 (123,821) | 3 |
+| pdf 스캔 | — | 2 harfda, #4 | 56 | 178 | vFlat Scan - PDF 스캐너 (64,578); Adobe Scan: OCR & PDF 스캐너 (123,821); CamScanner - 문서 스캔 & PDF 변환 (71,719) | 3 |
+| pdf scanner | — | 2 harfda, #6 | 24 | 182 | CamScanner - 문서 스캔 & PDF 변환 (71,719); Adobe Scan: OCR & PDF 스캐너 (123,821); PDF 스캐너 - 문서 스캔 및 OCR 문자 인식 (51) | 3 |
+| 문서 스캔 무료 | — | 2 harfda, #7 | 16 | 190 | Adobe Scan: OCR & PDF 스캐너 (123,821); CamScanner - 문서 스캔 & PDF 변환 (71,719); 스캐너 모바일 - 문서, 사진 스캔 (473) | 3 |
+| 무료 스캔 | — | 4 harfda, #1 | 18 | 183 | Adobe Scan: OCR & PDF 스캐너 (123,821); vFlat Scan - PDF 스캐너 (64,578); 스캐너 모바일 - 문서, 사진 스캔 (473) | 3 |
+| 스캔 앱 | — | 4 harfda, #1 | 18 | 183 | vFlat Scan - PDF 스캐너 (64,578); CamScanner - 문서 스캔 & PDF 변환 (71,719); Adobe Scan: OCR & PDF 스캐너 (123,821) | 3 |
+| 스캐너 앱 | — | 5 harfda, #1 | 33 | 189 | CamScanner - 문서 스캔 & PDF 변환 (71,719); Adobe Scan: OCR & PDF 스캐너 (123,821); vFlat Scan - PDF 스캐너 (64,578) | 3 |
+| pdf 스캔 무료 | — | 5 harfda, #3 | 29 | 192 | CamScanner - 문서 스캔 & PDF 변환 (71,719); Adobe Scan: OCR & PDF 스캐너 (123,821); vFlat Scan - PDF 스캐너 (64,578) | 3 |
+| 텍스트 추출 | — | 1 harfda, #8 | 49 | 185 | 스캔 및 번역 - 사진을 텍스트로 변환 (1,923); Adobe Scan: OCR & PDF 스캐너 (123,821); vFlat Scan - PDF 스캐너 (64,578) | 2 |
+| ocr | — | 2 harfda, #7 | 34 | 188 | Adobe Scan: OCR & PDF 스캐너 (123,821); vFlat Scan - PDF 스캐너 (64,578); CamScanner - 문서 스캔 & PDF 변환 (71,719) | 2 |
+| 사진 스캔 | — | 4 harfda, #3 | 37 | 182 | vFlat Scan - PDF 스캐너 (64,578); 포토스캐너 - Google 포토 (1,070); CamScanner - 문서 스캔 & PDF 변환 (71,719) | 2 |
+| 사진 문자 인식 ocr | — | 4 harfda, #4 | 19 | 172 | 사진 문자 인식 OCR (3); 사진을글자로 - OCR (문자인식) (3); PDF 스캐너 - 문서 스캔 및 OCR 문자 인식 (51) | 2 |
+| 사진 텍스트 추출 | — | 4 harfda, #5 | 8 | 159 | 사진 텍스트 추출・이미지 글자 복사 (0); OCR 텍스트 스캐너:문서 스캔 및 pdf 변환 (20); 텍스트 스캐너:인식 스캐너 필기, 추출 텍스트를 (1) | 2 |
+| pdf ocr | — | 5 harfda, #1 | 26 | 189 | Adobe Scan: OCR & PDF 스캐너 (123,821); vFlat Scan - PDF 스캐너 (64,578); PDF OCR Pro (9) | 2 |
+| pdf 서명 | — | 5 harfda, #1 | 19 | 186 | Adobe Acrobat Reader: PDF 편집 (27,189); PDF서명 - 문서 서명 (3); PDF Viewer by Nutrient (903) | 2 |
+| 문자 인식 | — | taklif qilinmaydi | 31 | 185 | 티티리더 - 텍스트 뷰어, 이미지 문자인식 (185); PDF 스캐너 - 문서 스캔 및 OCR 문자 인식 (51); QS Scanner - 문자 인식 카메라 번역 (2) | 2 |
+| pdf | — | 2 harfda, #1 | 81 | 171 | Adobe Acrobat Reader: PDF 편집 (27,189); 폴라리스 오피스 - 한글, PDF, MS문서, GPT (87,694); CamScanner - 문서 스캔 & PDF 변환 (71,719) | 1 |
+| pdf 변환 | — | 2 harfda, #3 | 62 | 189 | vFlat Scan - PDF 스캐너 (64,578); Adobe Acrobat Reader: PDF 편집 (27,189); CamScanner - 문서 스캔 & PDF 변환 (71,719) | 1 |
+| 서명 | — | 2 harfda, #5 | 32 | 189 | eSign: 전자서명·PDF 스캐너 (83); Adobe Acrobat Reader: PDF 편집 (27,189); PDF 문서 서명 (0) | 1 |
+| pdf maker | — | 2 harfda, #10 | 21 | 178 | PDF Maker - Convert to PDF (24); PDF Maker: Scan & Edit (0); CamScanner - 문서 스캔 & PDF 변환 (71,719) | 1 |
+| pdf reader | — | 5 harfda, #1 | 30 | 177 | Adobe Acrobat Reader: PDF 편집 (27,189); PDF Reader - PDF Viewer, Edit (34); PDF 리더기 및 PDF 편집기 (15) | 1 |
 
 ### RU — App Store tili: `ru` · ilova lokalizatsiyasi: ✅ bor
 
@@ -498,31 +498,31 @@ Izoh: 174 ta storefront iTunes Search API orqali barcha ISO-3166 kodlarini teksh
 
 | Kalit so'z | Apple popularity | Autocomplete | Qiyinlik | Ilovalar | Top-3 raqobatchi | Relevantlik |
 |---|---|---|---|---|---|---|
-| pdf scanner | — | 2 harfda, #2 | — | — | Adobe Scan: PDF- & OCR-scanner (0); PDF Scanner・Documenten scannen (0); CamScanner|Documenten scannen (0) | 3 |
+| pdf scanner | — | 2 harfda, #2 | — | — | Adobe Scan: PDF- & OCR-scanner (0); PDF Scanner・Documenten scannen (0); CamScanner\|Documenten scannen (0) | 3 |
 | scanner gratis | — | 2 harfda, #3 | — | — | Scanner – Scan PDF & Document (0); Adobe Scan: PDF- & OCR-scanner (0); QR Code Scanner ϟ (0) | 3 |
 | document scanner | — | 3 harfda, #3 | — | — | Adobe Scan: PDF- & OCR-scanner (0); iScanner - PDF-Scanner (0); Scanner App: Genius Scan (0) | 3 |
-| scanner | — | 3 harfda, #4 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner|Documenten scannen (0); Scanner App: Genius Scan (0) | 3 |
-| scan pdf | — | 3 harfda, #5 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner|Documenten scannen (0); Scanner App: Genius Scan (0) | 3 |
+| scanner | — | 3 harfda, #4 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner\|Documenten scannen (0); Scanner App: Genius Scan (0) | 3 |
+| scan pdf | — | 3 harfda, #5 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner\|Documenten scannen (0); Scanner App: Genius Scan (0) | 3 |
 | pdf scanner gratis | — | 3 harfda, #6 | — | — | Adobe Scan: PDF- & OCR-scanner (0); Adobe Acrobat Reader PDF-maker (0); iScanner - PDF-Scanner (0) | 3 |
 | document scanner gratis | — | 4 harfda, #7 | — | — | Adobe Scan: PDF- & OCR-scanner (0); Mobile Scanner - Scan to PDF (0); iScanner - PDF-Scanner (0) | 3 |
-| documenten scannen | — | 4 harfda, #9 | — | — | Adobe Scan: PDF- & OCR-scanner (0); Scanner App: Genius Scan (0); CamScanner|Documenten scannen (0) | 3 |
-| document scannen | — | 4 harfda, #10 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner|Documenten scannen (0); iScanner - PDF-Scanner (0) | 3 |
-| ocr pdf scanners gratis | — | 5 harfda, #1 | — | — | OCR PDF Scanners Gratis (0); CamScanner|Documenten scannen (0); Adobe Scan: PDF- & OCR-scanner (0) | 3 |
-| pdf scanner free | — | 5 harfda, #4 | — | — | CamScanner|Documenten scannen (0); Adobe Scan: PDF- & OCR-scanner (0); Open Scan: PDF Scanner (0) | 3 |
-| pdf documenten scannen editor | — | 5 harfda, #5 | — | — | PDF documenten scannen editor (0); Adobe Acrobat Reader PDF-maker (0); CamScanner|Documenten scannen (0) | 3 |
+| documenten scannen | — | 4 harfda, #9 | — | — | Adobe Scan: PDF- & OCR-scanner (0); Scanner App: Genius Scan (0); CamScanner\|Documenten scannen (0) | 3 |
+| document scannen | — | 4 harfda, #10 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner\|Documenten scannen (0); iScanner - PDF-Scanner (0) | 3 |
+| ocr pdf scanners gratis | — | 5 harfda, #1 | — | — | OCR PDF Scanners Gratis (0); CamScanner\|Documenten scannen (0); Adobe Scan: PDF- & OCR-scanner (0) | 3 |
+| pdf scanner free | — | 5 harfda, #4 | — | — | CamScanner\|Documenten scannen (0); Adobe Scan: PDF- & OCR-scanner (0); Open Scan: PDF Scanner (0) | 3 |
+| pdf documenten scannen editor | — | 5 harfda, #5 | — | — | PDF documenten scannen editor (0); Adobe Acrobat Reader PDF-maker (0); CamScanner\|Documenten scannen (0) | 3 |
 | scannen gratis | — | 5 harfda, #5 | — | — | Adobe Scan: PDF- & OCR-scanner (0); QR Code & Barcode Scanner (0); iScanner - PDF-Scanner (0) | 3 |
 | pdf ai scanner | — | 5 harfda, #6 | — | — | PDF AI Scanner (0); Scanner – Scan PDF & Document (0); Adobe Scan: PDF- & OCR-scanner (0) | 3 |
 | documenten scannen gratis | — | 5 harfda, #7 | — | — | Adobe Scan: PDF- & OCR-scanner (0); Scanner App: Genius Scan (0); iScanner - PDF-Scanner (0) | 3 |
 | scan app gratis | — | 6 harfda, #1 | — | — | Adobe Scan: PDF- & OCR-scanner (0); QR Code & Barcode Scanner (0); iScanner - PDF-Scanner (0) | 3 |
-| scan pdf gratis | — | 6 harfda, #1 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner|Documenten scannen (0); PDF Scanner・Documenten scannen (0) | 3 |
-| scan document | — | 6 harfda, #1 | — | — | Adobe Scan: PDF- & OCR-scanner (0); ScanMe - pdf-scanner app (0); CamScanner|Documenten scannen (0) | 3 |
+| scan pdf gratis | — | 6 harfda, #1 | — | — | Adobe Scan: PDF- & OCR-scanner (0); CamScanner\|Documenten scannen (0); PDF Scanner・Documenten scannen (0) | 3 |
+| scan document | — | 6 harfda, #1 | — | — | Adobe Scan: PDF- & OCR-scanner (0); ScanMe - pdf-scanner app (0); CamScanner\|Documenten scannen (0) | 3 |
 | scan gratis | — | 6 harfda, #1 | — | — | Scanner App: Genius Scan (0); iScanner - PDF-Scanner (0); Adobe Scan: PDF- & OCR-scanner (0) | 3 |
 | scan to pdf | — | 6 harfda, #1 | — | — | Adobe Scan: PDF- & OCR-scanner (0); Mobile Scanner - Scan to PDF (0); Scanner App: Genius Scan (0) | 3 |
 | scan document gratis | — | 6 harfda, #2 | — | — | Scanner App: Genius Scan (0); Adobe Acrobat Reader PDF-maker (0); Scanner Pro: Document Scanning (0) | 3 |
 | scan free | — | 6 harfda, #2 | — | — | Adobe Scan: PDF- & OCR-scanner (0); Free PDF Scanner App For Doc (0); iScanner - PDF-Scanner (0) | 3 |
-| scan app | — | 6 harfda, #2 | — | — | Scanner App: Genius Scan (0); Adobe Scan: PDF- & OCR-scanner (0); CamScanner|Documenten scannen (0) | 3 |
+| scan app | — | 6 harfda, #2 | — | — | Scanner App: Genius Scan (0); Adobe Scan: PDF- & OCR-scanner (0); CamScanner\|Documenten scannen (0) | 3 |
 | pdf ocr document scanner | — | 6 harfda, #3 | — | — | Scanner – Scan PDF & Document (0); iScanner - PDF-Scanner (0); PDF OCR Document Scanner (0) | 3 |
-| scanner documents | — | 6 harfda, #4 | — | — | CamScanner|Documenten scannen (0); Adobe Scan: PDF- & OCR-scanner (0); Scanner – Scan PDF & Document (0) | 3 |
+| scanner documents | — | 6 harfda, #4 | — | — | CamScanner\|Documenten scannen (0); Adobe Scan: PDF- & OCR-scanner (0); Scanner – Scan PDF & Document (0) | 3 |
 
 ### PL — App Store tili: `pl` · ilova lokalizatsiyasi: ✅ bor
 
