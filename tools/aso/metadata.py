@@ -234,6 +234,17 @@ LOCALES: dict[str, dict] = {
         why="CA French autocomplete returns 'numériser' and 'scanneur' (seed terms) plus 'scanner gratuit', "
             "'scan document gratuit', 'scanner document gratuit' (L5–L9). English core comes from en-CA.",
     ),
+    "sv": dict(
+        markets="SE",
+        name="{brand}: Skanna dokument",
+        subtitle="PDF skanner, OCR och signatur",
+        keywords="skanning,bilder,bild,text,kvitto,id,kort,foto,kamera,jpg,konvertera,översätt,lösenord,fil",
+        promo="Skanna dokument till PDF på några sekunder, känn igen text med OCR direkt i iPhone och signera. "
+              "Inget konto, inget moln.",
+        why="SE autocomplete: pdf scanner L2 (D55), scanner L2 (D67), ocr L3 (D43), skanna dokument L4 (D25), "
+            "skanner L5 (D52), pdf signer L5 (D30), skanna bilder L5 (D38), ocr id L5 (D43), pdf fil L5. "
+            "English core comes from en-GB.",
+    ),
     "pl": dict(
         markets="PL",
         name="{brand}: Skaner dokumentów",
