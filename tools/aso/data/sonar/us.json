@@ -47,5 +47,40 @@
   "difficulty": 32,
   "results_count": 9,
   "fetched": "2026-10-03"
+ },
+ "scanner": {
+  "popularity": 62,
+  "popularity_source": "apple",
+  "difficulty": 86,
+  "results_count": 188,
+  "fetched": "2026-10-04"
+ },
+ "scan to pdf": {
+  "popularity": 59,
+  "popularity_source": "apple",
+  "difficulty": 81,
+  "results_count": 9,
+  "fetched": "2026-10-04"
+ },
+ "scanner app free": {
+  "popularity": 66,
+  "popularity_source": "apple",
+  "difficulty": 86,
+  "results_count": 9,
+  "fetched": "2026-10-04"
+ },
+ "pdf scanner free": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 74,
+  "results_count": 9,
+  "fetched": "2026-10-04"
+ },
+ "document scanner app": {
+  "popularity": 5,
+  "popularity_source": "apple",
+  "difficulty": 80,
+  "results_count": 45,
+  "fetched": "2026-10-04"
  }
 }
