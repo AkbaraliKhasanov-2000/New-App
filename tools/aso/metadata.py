@@ -245,6 +245,26 @@ LOCALES: dict[str, dict] = {
             "skanner L5 (D52), pdf signer L5 (D30), skanna bilder L5 (D38), ocr id L5 (D43), pdf fil L5. "
             "English core comes from en-GB.",
     ),
+    "es-ES": dict(
+        markets="ES",
+        name="{brand}: Escanear Documentos",
+        subtitle="Escáner PDF, OCR y firmar",
+        keywords="escaner,fotos,texto,imagen,firma,recibo,factura,dni,convertir,jpg,traducir,cámara,scanner",
+        promo="Escanea documentos a PDF en segundos, reconoce texto con OCR en tu iPhone y firma. "
+              "Sin cuenta y sin nube: todo se queda contigo.",
+        why="ES autocomplete: escanear documentos L2 (D59), pdf scanner L2, scanner L2, escaner L2 (D53), "
+            "escanear L3, escanear fotos L3 (D47), escaner pdf L3 (D45), escáner documentos L4 (D52), firmar pdf "
+            "L4 (D39), ocr escaner de texto L5 (D42), pdf to jpg convert L5 (D22).",
+    ),
+    "ca": dict(
+        markets="ES (extra slot)", extra=True,
+        name="{brand}: Escanejar Documents",
+        subtitle="Escàner PDF, OCR i signatura",
+        keywords="escaneig,text,imatge,foto,rebut,factura,convertir,jpg,traduir,càmera,signar,escaneja",
+        promo="Escaneja documents a PDF en segons, reconeix text amb OCR a l'iPhone i signa. Sense compte ni núvol.",
+        why="Spain indexes ca as well; ES results include Catalan titles such as 'OCR Escaneig de Text'. "
+            "App UI is not in Catalan, so this slot is optional.",
+    ),
     "pl": dict(
         markets="PL",
         name="{brand}: Skaner dokumentów",
